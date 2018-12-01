@@ -2,7 +2,7 @@
 
 ![alt text](https://media1.tenor.com/images/46a4614de9b8c2a340bf076e9675b414/tenor.gif?itemid=5405668)
 
-By Team DrinkDrankDrunk
+By **Team DrinkDrankDrunk**
 
 
 Edward Chen, Peter Liu, Stefanie Huckleberry, Yolanda Shi
@@ -14,9 +14,9 @@ Want to go on a hot, romantic date, but you only got 30 more minutes to buy a dr
  
 ## Tools
 **Python:** (Library: Pandas, Flask, SQLAlchemy)  
-**JavaScript:** (Library: Plotly, unknown)  
-**HTML/CSS**  
-**Database:** MangoDB 
+**JavaScript:** (Library: Plotly, unknown)   
+**Database:** MangoDB  
+**HTML/CSS** 
 
 ### A prototype of our dataset object :
 	
@@ -69,21 +69,21 @@ wineName:
 
 
 
-## Project Requirment Checklist   
-- [x] Tell a Story with Data  
-- [ ] Use Python, Flask  
+## Project Requirment Checklist     
+- [x] Use Python, Flask  
 - [ ] JavaScript, one library not taught in course  
-- [ ] HTML/CSS  
-- [ ] One database (MySQL / MongoDB/ SQLite)  
-- [ ] Choice of level:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;level 1 - A custom "creative" D3.js project (i.e. non-standard graph or chart)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;level 2 - A combination of Web Scraping and Leaflet or Plotly  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;level 3 - A dashboard page with multiple charts all updating from the same data  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;level 4 - A "thick" server that performs multiple manipulations on data in a database prior to visualization (must be approved)  
+- [x] HTML/CSS  
+- [x] One database (MySQL / MongoDB/ SQLite)  
+- Choice of level:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [ ] level 1 - A custom "creative" D3.js project (i.e. non-standard graph or chart)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [ ] level 2 - A combination of Web Scraping and Leaflet or Plotly  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [ ] level 3 - A dashboard page with multiple charts all updating from the same data  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [ ] level 4 - A "thick" server that performs multiple manipulations on data in a database prior to visualization  
 - [ ] Data need to have at least 100 record  
 - [ ] Web page has to be user-driven interaction  
 - [ ] Need to have at least “3” views (comparison charts)  
 - [ ] Stick to MVP, then decorate after everything work.
+- [ ] Tell a Story with Data
 
 
 ## Project Timeline

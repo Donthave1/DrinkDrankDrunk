@@ -1,4 +1,4 @@
-# Reviews,Wine Type,Country,Discounted Price,Final Price,Grape Variety,Number of Records,Original Price,Rating Name,Rating Score,Region,Regular Price,Wine Name,Year
+﻿# Reviews,Wine Type,Country,Discounted Price,Final Price,Grape Variety,Number of Records,Original Price,Rating Name,Rating Score,Region,Regular Price,Wine Name,Year
 ,Dessert,Hungary,22.99,22.99,Other Dessert,1,22.99,,,,,Royal Tokaji Mad Cuvee (375ML half-bottle),2012
 ,Dessert,Hungary,22.99,22.99,Other Dessert,1,22.99,,,,,Royal Tokaji Mad Cuvee (375ML half-bottle),2012
 ,Dessert,Hungary,22.99,22.99,Other Dessert,1,22.99,,,,,Royal Tokaji Mad Cuvee (375ML half-bottle),2012
@@ -3654,7 +3654,7 @@
 ,Red,France,,129,Bordeaux,1,,WE,96,Bordeaux,129,Chateau Pontet-Canet,2011
 ,Red,France,,129,Bordeaux,1,,WE,96,Bordeaux,129,Chateau Pontet-Canet,2011
 ,Red,France,,129,Bordeaux,1,,WE,96,Bordeaux,129,Chateau Pontet-Canet,2011
-2,Red,France,14.99,14.99,Merlot,1,24,WE,91,Bordeaux,,Château Mayne Vieil,2011
+2,Red,France,14.99,14.99,Merlot,1,24,WE,91,Bordeaux,,Ch√¢teau Mayne Vieil,2011
 1,Red,France,,17.99,Rhone Red Blends,1,,WE,91,Languedoc-Roussillon,17.99,Gerard Bertrand Fitou,2011
 1,Red,France,,17.99,Rhone Red Blends,1,,WE,91,Languedoc-Roussillon,17.99,Gerard Bertrand Fitou,2011
 1,Red,France,,17.99,Rhone Red Blends,1,,WE,91,Languedoc-Roussillon,17.99,Gerard Bertrand Fitou,2011
@@ -4259,202 +4259,202 @@
 7,Red,USA,,19.99,Zinfandel,1,,WW,90,California,19.99,Zinfandelic Sierra Foothills Old Vine Zinfandel,2012
 7,Red,USA,,19.99,Zinfandel,1,,WW,90,California,19.99,Zinfandelic Sierra Foothills Old Vine Zinfandel,2012
 7,Red,USA,,19.99,Zinfandel,1,,WW,90,California,19.99,Zinfandelic Sierra Foothills Old Vine Zinfandel,2012
-1,Rose,Australia,10.99,10.99,Rosé,1,10.99,,,Victoria,,Innocent Bystander Pink Moscato (375ML half-bottle) 2014,2014
-1,Rose,Australia,10.99,10.99,Rosé,1,10.99,,,Victoria,,Innocent Bystander Pink Moscato (375ML half-bottle) 2014,2014
-1,Rose,France,15.99,15.99,Rosé,1,15.99,,,,,Domaine de Triennes Rose,2013
-6,Rose,France,,36.99,Rosé Sparkling Wine,1,,,,,36.99,Luc Belaire Rare Rose,
-6,Rose,France,,36.99,Rosé Sparkling Wine,1,,,,,36.99,Luc Belaire Rare Rose,
-6,Rose,France,,36.99,Rosé Sparkling Wine,1,,,,,36.99,Luc Belaire Rare Rose,
-6,Rose,France,,36.99,Rosé Sparkling Wine,1,,,,,36.99,Luc Belaire Rare Rose,
-6,Rose,France,,36.99,Rosé Sparkling Wine,1,,,,,36.99,Luc Belaire Rare Rose,
-6,Rose,France,,36.99,Rosé Sparkling Wine,1,,,,,36.99,Luc Belaire Rare Rose,
-6,Rose,France,36.99,36.99,Rosé Sparkling Wine,1,36.99,,,,,Luc Belaire Rare Rose,
-20,Rose,France,19.99,19.99,Rosé Sparkling Wine,1,22,,,Alsace,,Lucien Albrecht Cremant d'Alsace Brut Rose,
-20,Rose,France,19.99,19.99,Rosé Sparkling Wine,1,22,,,Alsace,,Lucien Albrecht Cremant d'Alsace Brut Rose,
-20,Rose,France,19.99,19.99,Rosé Sparkling Wine,1,22,,,Alsace,,Lucien Albrecht Cremant d'Alsace Brut Rose,
-20,Rose,France,19.99,19.99,Rosé Sparkling Wine,1,22,,,Alsace,,Lucien Albrecht Cremant d'Alsace Brut Rose,
-20,Rose,France,19.99,19.99,Rosé Sparkling Wine,1,22,,,Alsace,,Lucien Albrecht Cremant d'Alsace Brut Rose,
-20,Rose,France,19.99,19.99,Rosé Sparkling Wine,1,22,,,Alsace,,Lucien Albrecht Cremant d'Alsace Brut Rose,
-,Rose,France,17.99,17.99,Rosé Sparkling Wine,1,21.99,,,Burgundy,,Simonnet-Febvre Cremant de Bourgogne Rose,
-,Rose,France,17.99,17.99,Rosé Sparkling Wine,1,21.99,,,Burgundy,,Simonnet-Febvre Cremant de Bourgogne Rose,
-,Rose,France,17.99,17.99,Rosé,1,17.99,,,Languedoc-Roussillon,,Gerard Bertrand Cote des Roses Rose 2014,2014
-,Rose,France,17.99,17.99,Rosé,1,17.99,,,Languedoc-Roussillon,,Gerard Bertrand Cote des Roses Rose 2014,2014
-,Rose,France,17.99,17.99,Rosé,1,17.99,,,Languedoc-Roussillon,,Gerard Bertrand Cote des Roses Rose 2014,2014
-,Rose,France,17.99,17.99,Rosé,1,17.99,,,Languedoc-Roussillon,,Gerard Bertrand Cote des Roses Rose 2014,2014
-,Rose,France,19.99,19.99,Rosé,1,19.99,,,Provence,,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
-1,Rose,France,14.99,14.99,Rosé,1,14.99,,,Rhone,,Chapoutier Belleruche Rose,2013
-1,Rose,France,14.99,14.99,Rosé,1,14.99,,,Rhone,,Chapoutier Belleruche Rose,2013
-2,Rose,France,19.99,19.99,Rosé,1,19.99,,,Rhone,,Chateau D'Aqueria Tavel Rose,2012
-2,Rose,France,19.99,19.99,Rosé,1,19.99,,,Rhone,,Chateau D'Aqueria Tavel Rose,2012
-2,Rose,France,19.99,19.99,Rosé,1,19.99,,,Rhone,,Chateau D'Aqueria Tavel Rose,2012
-2,Rose,France,19.99,19.99,Rosé,1,19.99,,,Rhone,,Chateau D'Aqueria Tavel Rose,2012
-2,Rose,France,19.99,19.99,Rosé,1,19.99,,,Rhone,,Chateau D'Aqueria Tavel Rose,2012
-,Rose,France,,10.99,Rosé,1,,,,Rhone,10.99,Perrin et Fils Reserve Cotes du Rhone Rose,2013
-,Rose,France,,10.99,Rosé,1,,,,Rhone,10.99,Perrin et Fils Reserve Cotes du Rhone Rose,2013
-,Rose,France,,10.99,Rosé,1,,,,Rhone,10.99,Perrin et Fils Reserve Cotes du Rhone Rose,2013
-,Rose,France,,10.99,Rosé,1,,,,Rhone,10.99,Perrin et Fils Reserve Cotes du Rhone Rose,2013
-,Rose,France,,10.99,Rosé,1,,,,Rhone,10.99,Perrin et Fils Reserve Cotes du Rhone Rose,2013
-,Rose,France,10.99,10.99,Rosé,1,10.99,,,Rhone,,Perrin et Fils Reserve Cotes du Rhone Rose,2013
-2,Rose,Italy,,14.99,Rosé,1,,,,,14.99,Rosatello Rose,
-2,Rose,Italy,,14.99,Rosé,1,,,,,14.99,Rosatello Rose,
-2,Rose,Italy,,14.99,Rosé,1,,,,,14.99,Rosatello Rose,
-2,Rose,Italy,,14.99,Rosé,1,,,,,14.99,Rosatello Rose,
-2,Rose,Italy,,14.99,Rosé,1,,,,,14.99,Rosatello Rose,
-2,Rose,Italy,,14.99,Rosé,1,,,,,14.99,Rosatello Rose,
-2,Rose,Italy,,14.99,Rosé,1,,,,,14.99,Rosatello Rose,
-2,Rose,Italy,,14.99,Rosé,1,,,,,14.99,Rosatello Rose,
-,Rose,Italy,,16.99,Rosé Sparkling Wine,1,,,,Trentino-Alto Adige,16.99,Batasiolo Moscato Rose,
-,Rose,Italy,,16.99,Rosé Sparkling Wine,1,,,,Trentino-Alto Adige,16.99,Batasiolo Moscato Rose,
-,Rose,Italy,,16.99,Rosé Sparkling Wine,1,,,,Trentino-Alto Adige,16.99,Batasiolo Moscato Rose,
-,Rose,Italy,,16.99,Rosé Sparkling Wine,1,,,,Trentino-Alto Adige,16.99,Batasiolo Moscato Rose,
-,Rose,Italy,16.99,16.99,Rosé Sparkling Wine,1,16.99,,,Trentino-Alto Adige,,Batasiolo Moscato Rose,
-2,Rose,Italy,,9.99,Rosé Sparkling Wine,1,,,,Veneto,9.99,Riondo Pink Spago Argento,
-2,Rose,Italy,,9.99,Rosé Sparkling Wine,1,,,,Veneto,9.99,Riondo Pink Spago Argento,
-2,Rose,Italy,,9.99,Rosé Sparkling Wine,1,,,,Veneto,9.99,Riondo Pink Spago Argento,
-2,Rose,Italy,9.99,9.99,Rosé Sparkling Wine,1,9.99,,,Veneto,,Riondo Pink Spago Argento,
-2,Rose,Italy,9.99,9.99,Rosé Sparkling Wine,1,9.99,,,Veneto,,Riondo Pink Spago Argento,
-,Rose,South Africa,,10.99,Rosé,1,,,,,10.99,Mulderbosch Rose 2014,2014
-,Rose,South Africa,,10.99,Rosé,1,,,,,10.99,Mulderbosch Rose 2014,2014
-,Rose,South Africa,,10.99,Rosé,1,,,,,10.99,Mulderbosch Rose 2014,2014
-,Rose,South Africa,,10.99,Rosé,1,,,,,10.99,Mulderbosch Rose 2014,2014
-,Rose,South Africa,,10.99,Rosé,1,,,,,10.99,Mulderbosch Rose 2014,2014
-,Rose,South Africa,,10.99,Rosé,1,,,,,10.99,Mulderbosch Rose 2014,2014
-,Rose,South Africa,,10.99,Rosé,1,,,,,10.99,Mulderbosch Rose 2014,2014
-3,Rose,South Africa,14.99,14.99,Rosé Sparkling Wine,1,15.99,,,,,Graham Beck Brut Rose,
-3,Rose,South Africa,14.99,14.99,Rosé Sparkling Wine,1,15.99,,,,,Graham Beck Brut Rose,
-3,Rose,South Africa,14.99,14.99,Rosé Sparkling Wine,1,15.99,,,,,Graham Beck Brut Rose,
-3,Rose,South Africa,14.99,14.99,Rosé Sparkling Wine,1,15.99,,,,,Graham Beck Brut Rose,
-3,Rose,South Africa,14.99,14.99,Rosé Sparkling Wine,1,15.99,,,,,Graham Beck Brut Rose,
-3,Rose,South Africa,14.99,14.99,Rosé Sparkling Wine,1,15.99,,,,,Graham Beck Brut Rose,
-1,Rose,Spain,11.99,11.99,Rosé,1,11.99,,,,,Las Rocas Rose,2013
-1,Rose,Spain,11.99,11.99,Rosé,1,11.99,,,,,Las Rocas Rose,2013
-7,Rose,Spain,17.99,17.99,Rosé Sparkling Wine,1,17.99,,,,,Juve Y Camps Rose Brut Cava,
-,Rose,Spain,,8.99,Rosé,1,,,,Rioja,8.99,Marques de Caceres Rioja Rosado,2013
-,Rose,Spain,,8.99,Rosé,1,,,,Rioja,8.99,Marques de Caceres Rioja Rosado,2013
-,Rose,Spain,8.99,8.99,Rosé,1,8.99,,,Rioja,,Marques de Caceres Rioja Rosado,2013
-,Rose,Spain,8.99,8.99,Rosé,1,8.99,,,Rioja,,Marques de Caceres Rioja Rosado,2013
-,Rose,Spain,8.99,8.99,Rosé,1,8.99,,,Rioja,,Marques de Caceres Rioja Rosado,2013
-,Rose,Spain,8.99,8.99,Rosé,1,8.99,,,Rioja,,Marques de Caceres Rioja Rosado,2013
-,Rose,USA,16.99,16.99,Rosé,1,19,,,California,,Francis Ford Coppola Sofia Rose,2013
-14,Rose,USA,,7.99,Rosé,1,,,,California,7.99,Sutter Home Pink Moscato,
-14,Rose,USA,,7.99,Rosé,1,,,,California,7.99,Sutter Home Pink Moscato,
-14,Rose,USA,,7.99,Rosé,1,,,,California,7.99,Sutter Home Pink Moscato,
-14,Rose,USA,,7.99,Rosé,1,,,,California,7.99,Sutter Home Pink Moscato,
-14,Rose,USA,,7.99,Rosé,1,,,,California,7.99,Sutter Home Pink Moscato,
-14,Rose,USA,,7.99,Rosé,1,,,,California,7.99,Sutter Home Pink Moscato,
-14,Rose,USA,7.99,7.99,Rosé,1,7.99,,,California,,Sutter Home Pink Moscato,
-14,Rose,USA,7.99,7.99,Rosé,1,7.99,,,California,,Sutter Home Pink Moscato,
-14,Rose,USA,7.99,7.99,Rosé,1,7.99,,,California,,Sutter Home Pink Moscato,
-14,Rose,USA,7.99,7.99,Rosé,1,7.99,,,California,,Sutter Home Pink Moscato,
-,Rose,USA,,7.99,Rosé,1,,,,California,7.99,Sutter Home White Zinfandel,2013
-,Rose,USA,,7.99,Rosé,1,,,,California,7.99,Sutter Home White Zinfandel,2013
-,Rose,USA,,7.99,Rosé,1,,,,California,7.99,Sutter Home White Zinfandel,2013
-,Rose,USA,,7.99,Rosé,1,,,,California,7.99,Sutter Home White Zinfandel,2013
-,Rose,USA,,7.99,Rosé,1,,,,California,7.99,Sutter Home White Zinfandel,2013
-,Rose,USA,,7.99,Rosé,1,,,,California,7.99,Sutter Home White Zinfandel,2013
-,Rose,USA,7.99,7.99,Rosé,1,7.99,,,California,,Sutter Home White Zinfandel,2013
-,Rose,USA,7.99,7.99,Rosé,1,7.99,,,California,,Sutter Home White Zinfandel,2013
-5,Rose,USA,14.99,14.99,Rosé Sparkling Wine,1,14.99,,,California,,Korbel Brut Rose,
-5,Rose,USA,14.99,14.99,Rosé Sparkling Wine,1,14.99,,,California,,Korbel Brut Rose,
-5,Rose,USA,14.99,14.99,Rosé Sparkling Wine,1,14.99,,,California,,Korbel Brut Rose,
-,Rose,USA,13.99,13.99,Rosé,1,13.99,,,Washington,,Charles & Charles Rose 2014,2014
-,Rose,Australia,9.99,9.99,Rosé,1,10.99,JH,92,,,Angove Family Winemakers Nine Vines Rose,2013
-,Rose,Australia,9.99,9.99,Rosé,1,10.99,JH,92,,,Angove Family Winemakers Nine Vines Rose,2013
-,Rose,Australia,9.99,9.99,Rosé,1,10.99,JH,92,,,Angove Family Winemakers Nine Vines Rose,2013
-,Rose,Australia,9.99,9.99,Rosé,1,10.99,JH,92,,,Angove Family Winemakers Nine Vines Rose,2013
-,Rose,Australia,9.99,9.99,Rosé,1,10.99,JH,92,,,Angove Family Winemakers Nine Vines Rose,2013
-,Rose,Australia,9.99,9.99,Rosé,1,10.99,JH,92,,,Angove Family Winemakers Nine Vines Rose,2013
-2,Rose,France,,79.99,Rosé Sparkling Wine,1,,JH,94,Champagne,79.99,Billecart-Salmon Brut Rose,
-2,Rose,France,,79.99,Rosé Sparkling Wine,1,,JH,94,Champagne,79.99,Billecart-Salmon Brut Rose,
-2,Rose,France,,79.99,Rosé Sparkling Wine,1,,JH,94,Champagne,79.99,Billecart-Salmon Brut Rose,
-2,Rose,France,,79.99,Rosé Sparkling Wine,1,,JH,94,Champagne,79.99,Billecart-Salmon Brut Rose,
-2,Rose,France,,79.99,Rosé Sparkling Wine,1,,JH,94,Champagne,79.99,Billecart-Salmon Brut Rose,
-2,Rose,France,,79.99,Rosé Sparkling Wine,1,,JH,94,Champagne,79.99,Billecart-Salmon Brut Rose,
-,Rose,France,,46.99,Rosé Sparkling Wine,1,,JH,94,Champagne,46.99,Billecart-Salmon Brut Rose (375ML half-bottle),
-,Rose,France,,46.99,Rosé Sparkling Wine,1,,JH,94,Champagne,46.99,Billecart-Salmon Brut Rose (375ML half-bottle),
-,Rose,Chile,,10.99,Rosé,1,,JS,90,,10.99,Los Vascos Rose,2013
-,Rose,Chile,,10.99,Rosé,1,,JS,90,,10.99,Los Vascos Rose,2013
-,Rose,Chile,,10.99,Rosé,1,,JS,90,,10.99,Los Vascos Rose,2013
-,Rose,Chile,,10.99,Rosé,1,,JS,90,,10.99,Los Vascos Rose,2013
-,Rose,Chile,,10.99,Rosé,1,,JS,90,,10.99,Los Vascos Rose,2013
-,Rose,Chile,,10.99,Rosé,1,,JS,90,,10.99,Los Vascos Rose,2013
-,Rose,Chile,,10.99,Rosé,1,,JS,90,,10.99,Los Vascos Rose,2013
-,Rose,France,44.99,44.99,Rosé,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
-,Rose,France,44.99,44.99,Rosé,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
-,Rose,France,44.99,44.99,Rosé,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
-,Rose,France,44.99,44.99,Rosé,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
-,Rose,France,44.99,44.99,Rosé,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
-,Rose,France,44.99,44.99,Rosé,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
-,Rose,France,44.99,44.99,Rosé,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
-,Rose,France,44.99,44.99,Rosé,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
-,Rose,France,44.99,44.99,Rosé,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
-7,Rose,Spain,,17.99,Rosé Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
-7,Rose,Spain,,17.99,Rosé Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
-7,Rose,Spain,,17.99,Rosé Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
-7,Rose,Spain,,17.99,Rosé Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
-7,Rose,Spain,,17.99,Rosé Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
-7,Rose,Spain,,17.99,Rosé Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
-7,Rose,Spain,,17.99,Rosé Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
-1,Rose,Australia,,10.99,Rosé,1,,ST,90,Victoria,10.99,Innocent Bystander Pink Moscato (375ML half-bottle) 2014,2014
-1,Rose,Australia,,10.99,Rosé,1,,ST,90,Victoria,10.99,Innocent Bystander Pink Moscato (375ML half-bottle) 2014,2014
-1,Rose,Australia,,10.99,Rosé,1,,ST,90,Victoria,10.99,Innocent Bystander Pink Moscato (375ML half-bottle) 2014,2014
-1,Rose,France,,15.99,Rosé,1,,V,88,,15.99,Domaine de Triennes Rose,2013
-1,Rose,France,,15.99,Rosé,1,,V,88,,15.99,Domaine de Triennes Rose,2013
-1,Rose,France,,15.99,Rosé,1,,V,88,,15.99,Domaine de Triennes Rose,2013
-1,Rose,France,,15.99,Rosé,1,,V,88,,15.99,Domaine de Triennes Rose,2013
-1,Rose,France,,15.99,Rosé,1,,V,88,,15.99,Domaine de Triennes Rose,2013
-1,Rose,France,,15.99,Rosé,1,,V,88,,15.99,Domaine de Triennes Rose,2013
-,Rose,USA,8.99,8.99,Rosé,1,18,V,88,California,,Bonny Doon Vin Gris de Cigare,2013
-,Rose,USA,8.99,8.99,Rosé,1,18,V,88,California,,Bonny Doon Vin Gris de Cigare,2013
-,Rose,USA,8.99,8.99,Rosé,1,18,V,88,California,,Bonny Doon Vin Gris de Cigare,2013
-,Rose,USA,8.99,8.99,Rosé,1,18,V,88,California,,Bonny Doon Vin Gris de Cigare,2013
-,Rose,USA,8.99,8.99,Rosé,1,18,V,88,California,,Bonny Doon Vin Gris de Cigare,2013
-,Rose,USA,8.99,8.99,Rosé,1,18,V,88,California,,Bonny Doon Vin Gris de Cigare,2013
-5,Rose,France,,72.99,Rosé Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
-5,Rose,France,,72.99,Rosé Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
-5,Rose,France,,72.99,Rosé Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
-5,Rose,France,,72.99,Rosé Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
-5,Rose,France,,72.99,Rosé Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
-5,Rose,France,,72.99,Rosé Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
-5,Rose,France,,72.99,Rosé Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
-,Rose,France,,19.99,Rosé,1,,W&S,92,Provence,19.99,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
-,Rose,France,,19.99,Rosé,1,,W&S,92,Provence,19.99,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
-,Rose,France,,19.99,Rosé,1,,W&S,92,Provence,19.99,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
-,Rose,France,,19.99,Rosé,1,,W&S,92,Provence,19.99,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
-,Rose,France,,19.99,Rosé,1,,W&S,92,Provence,19.99,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
-,Rose,France,,19.99,Rosé,1,,W&S,92,Provence,19.99,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
-5,Rose,USA,,14.99,Rosé Sparkling Wine,1,,WE,90,California,14.99,Korbel Brut Rose,
-5,Rose,USA,,14.99,Rosé Sparkling Wine,1,,WE,90,California,14.99,Korbel Brut Rose,
-5,Rose,USA,,14.99,Rosé Sparkling Wine,1,,WE,90,California,14.99,Korbel Brut Rose,
-5,Rose,USA,,14.99,Rosé Sparkling Wine,1,,WE,90,California,14.99,Korbel Brut Rose,
-5,Rose,USA,,14.99,Rosé Sparkling Wine,1,,WE,90,California,14.99,Korbel Brut Rose,
-5,Rose,USA,,14.99,Rosé Sparkling Wine,1,,WE,90,California,14.99,Korbel Brut Rose,
-9,Rose,France,,68.99,Rosé Sparkling Wine,1,,WS,90,Champagne,68.99,Moet & Chandon Rose Imperial,
-9,Rose,France,,68.99,Rosé Sparkling Wine,1,,WS,90,Champagne,68.99,Moet & Chandon Rose Imperial,
-9,Rose,France,,68.99,Rosé Sparkling Wine,1,,WS,90,Champagne,68.99,Moet & Chandon Rose Imperial,
-,Rose,France,,94.99,Rosé Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
-,Rose,France,,94.99,Rosé Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
-,Rose,France,,94.99,Rosé Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
-,Rose,France,,94.99,Rosé Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
-,Rose,France,,94.99,Rosé Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
-,Rose,France,,94.99,Rosé Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
-,Rose,France,,94.99,Rosé Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
-,Rose,France,,94.99,Rosé Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
-,Rose,France,,94.99,Rosé Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
-7,Rose,USA,,26.99,Rosé Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
-7,Rose,USA,,26.99,Rosé Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
-7,Rose,USA,,26.99,Rosé Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
-7,Rose,USA,,26.99,Rosé Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
-7,Rose,USA,,26.99,Rosé Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
-7,Rose,USA,,26.99,Rosé Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
-7,Rose,USA,,26.99,Rosé Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
-7,Rose,USA,,26.99,Rosé Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
-,Rose,USA,,13.99,Rosé,1,,WW,91,Washington,13.99,Charles & Charles Rose 2014,2014
-,Rose,USA,,13.99,Rosé,1,,WW,91,Washington,13.99,Charles & Charles Rose 2014,2014
-,Rose,USA,,13.99,Rosé,1,,WW,91,Washington,13.99,Charles & Charles Rose 2014,2014
-,Rose,USA,,13.99,Rosé,1,,WW,91,Washington,13.99,Charles & Charles Rose 2014,2014
-,Rose,USA,,13.99,Rosé,1,,WW,91,Washington,13.99,Charles & Charles Rose 2014,2014
-,Rose,USA,,13.99,Rosé,1,,WW,91,Washington,13.99,Charles & Charles Rose 2014,2014
+1,Rose,Australia,10.99,10.99,Ros√©,1,10.99,,,Victoria,,Innocent Bystander Pink Moscato (375ML half-bottle) 2014,2014
+1,Rose,Australia,10.99,10.99,Ros√©,1,10.99,,,Victoria,,Innocent Bystander Pink Moscato (375ML half-bottle) 2014,2014
+1,Rose,France,15.99,15.99,Ros√©,1,15.99,,,,,Domaine de Triennes Rose,2013
+6,Rose,France,,36.99,Ros√© Sparkling Wine,1,,,,,36.99,Luc Belaire Rare Rose,
+6,Rose,France,,36.99,Ros√© Sparkling Wine,1,,,,,36.99,Luc Belaire Rare Rose,
+6,Rose,France,,36.99,Ros√© Sparkling Wine,1,,,,,36.99,Luc Belaire Rare Rose,
+6,Rose,France,,36.99,Ros√© Sparkling Wine,1,,,,,36.99,Luc Belaire Rare Rose,
+6,Rose,France,,36.99,Ros√© Sparkling Wine,1,,,,,36.99,Luc Belaire Rare Rose,
+6,Rose,France,,36.99,Ros√© Sparkling Wine,1,,,,,36.99,Luc Belaire Rare Rose,
+6,Rose,France,36.99,36.99,Ros√© Sparkling Wine,1,36.99,,,,,Luc Belaire Rare Rose,
+20,Rose,France,19.99,19.99,Ros√© Sparkling Wine,1,22,,,Alsace,,Lucien Albrecht Cremant d'Alsace Brut Rose,
+20,Rose,France,19.99,19.99,Ros√© Sparkling Wine,1,22,,,Alsace,,Lucien Albrecht Cremant d'Alsace Brut Rose,
+20,Rose,France,19.99,19.99,Ros√© Sparkling Wine,1,22,,,Alsace,,Lucien Albrecht Cremant d'Alsace Brut Rose,
+20,Rose,France,19.99,19.99,Ros√© Sparkling Wine,1,22,,,Alsace,,Lucien Albrecht Cremant d'Alsace Brut Rose,
+20,Rose,France,19.99,19.99,Ros√© Sparkling Wine,1,22,,,Alsace,,Lucien Albrecht Cremant d'Alsace Brut Rose,
+20,Rose,France,19.99,19.99,Ros√© Sparkling Wine,1,22,,,Alsace,,Lucien Albrecht Cremant d'Alsace Brut Rose,
+,Rose,France,17.99,17.99,Ros√© Sparkling Wine,1,21.99,,,Burgundy,,Simonnet-Febvre Cremant de Bourgogne Rose,
+,Rose,France,17.99,17.99,Ros√© Sparkling Wine,1,21.99,,,Burgundy,,Simonnet-Febvre Cremant de Bourgogne Rose,
+,Rose,France,17.99,17.99,Ros√©,1,17.99,,,Languedoc-Roussillon,,Gerard Bertrand Cote des Roses Rose 2014,2014
+,Rose,France,17.99,17.99,Ros√©,1,17.99,,,Languedoc-Roussillon,,Gerard Bertrand Cote des Roses Rose 2014,2014
+,Rose,France,17.99,17.99,Ros√©,1,17.99,,,Languedoc-Roussillon,,Gerard Bertrand Cote des Roses Rose 2014,2014
+,Rose,France,17.99,17.99,Ros√©,1,17.99,,,Languedoc-Roussillon,,Gerard Bertrand Cote des Roses Rose 2014,2014
+,Rose,France,19.99,19.99,Ros√©,1,19.99,,,Provence,,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
+1,Rose,France,14.99,14.99,Ros√©,1,14.99,,,Rhone,,Chapoutier Belleruche Rose,2013
+1,Rose,France,14.99,14.99,Ros√©,1,14.99,,,Rhone,,Chapoutier Belleruche Rose,2013
+2,Rose,France,19.99,19.99,Ros√©,1,19.99,,,Rhone,,Chateau D'Aqueria Tavel Rose,2012
+2,Rose,France,19.99,19.99,Ros√©,1,19.99,,,Rhone,,Chateau D'Aqueria Tavel Rose,2012
+2,Rose,France,19.99,19.99,Ros√©,1,19.99,,,Rhone,,Chateau D'Aqueria Tavel Rose,2012
+2,Rose,France,19.99,19.99,Ros√©,1,19.99,,,Rhone,,Chateau D'Aqueria Tavel Rose,2012
+2,Rose,France,19.99,19.99,Ros√©,1,19.99,,,Rhone,,Chateau D'Aqueria Tavel Rose,2012
+,Rose,France,,10.99,Ros√©,1,,,,Rhone,10.99,Perrin et Fils Reserve Cotes du Rhone Rose,2013
+,Rose,France,,10.99,Ros√©,1,,,,Rhone,10.99,Perrin et Fils Reserve Cotes du Rhone Rose,2013
+,Rose,France,,10.99,Ros√©,1,,,,Rhone,10.99,Perrin et Fils Reserve Cotes du Rhone Rose,2013
+,Rose,France,,10.99,Ros√©,1,,,,Rhone,10.99,Perrin et Fils Reserve Cotes du Rhone Rose,2013
+,Rose,France,,10.99,Ros√©,1,,,,Rhone,10.99,Perrin et Fils Reserve Cotes du Rhone Rose,2013
+,Rose,France,10.99,10.99,Ros√©,1,10.99,,,Rhone,,Perrin et Fils Reserve Cotes du Rhone Rose,2013
+2,Rose,Italy,,14.99,Ros√©,1,,,,,14.99,Rosatello Rose,
+2,Rose,Italy,,14.99,Ros√©,1,,,,,14.99,Rosatello Rose,
+2,Rose,Italy,,14.99,Ros√©,1,,,,,14.99,Rosatello Rose,
+2,Rose,Italy,,14.99,Ros√©,1,,,,,14.99,Rosatello Rose,
+2,Rose,Italy,,14.99,Ros√©,1,,,,,14.99,Rosatello Rose,
+2,Rose,Italy,,14.99,Ros√©,1,,,,,14.99,Rosatello Rose,
+2,Rose,Italy,,14.99,Ros√©,1,,,,,14.99,Rosatello Rose,
+2,Rose,Italy,,14.99,Ros√©,1,,,,,14.99,Rosatello Rose,
+,Rose,Italy,,16.99,Ros√© Sparkling Wine,1,,,,Trentino-Alto Adige,16.99,Batasiolo Moscato Rose,
+,Rose,Italy,,16.99,Ros√© Sparkling Wine,1,,,,Trentino-Alto Adige,16.99,Batasiolo Moscato Rose,
+,Rose,Italy,,16.99,Ros√© Sparkling Wine,1,,,,Trentino-Alto Adige,16.99,Batasiolo Moscato Rose,
+,Rose,Italy,,16.99,Ros√© Sparkling Wine,1,,,,Trentino-Alto Adige,16.99,Batasiolo Moscato Rose,
+,Rose,Italy,16.99,16.99,Ros√© Sparkling Wine,1,16.99,,,Trentino-Alto Adige,,Batasiolo Moscato Rose,
+2,Rose,Italy,,9.99,Ros√© Sparkling Wine,1,,,,Veneto,9.99,Riondo Pink Spago Argento,
+2,Rose,Italy,,9.99,Ros√© Sparkling Wine,1,,,,Veneto,9.99,Riondo Pink Spago Argento,
+2,Rose,Italy,,9.99,Ros√© Sparkling Wine,1,,,,Veneto,9.99,Riondo Pink Spago Argento,
+2,Rose,Italy,9.99,9.99,Ros√© Sparkling Wine,1,9.99,,,Veneto,,Riondo Pink Spago Argento,
+2,Rose,Italy,9.99,9.99,Ros√© Sparkling Wine,1,9.99,,,Veneto,,Riondo Pink Spago Argento,
+,Rose,South Africa,,10.99,Ros√©,1,,,,,10.99,Mulderbosch Rose 2014,2014
+,Rose,South Africa,,10.99,Ros√©,1,,,,,10.99,Mulderbosch Rose 2014,2014
+,Rose,South Africa,,10.99,Ros√©,1,,,,,10.99,Mulderbosch Rose 2014,2014
+,Rose,South Africa,,10.99,Ros√©,1,,,,,10.99,Mulderbosch Rose 2014,2014
+,Rose,South Africa,,10.99,Ros√©,1,,,,,10.99,Mulderbosch Rose 2014,2014
+,Rose,South Africa,,10.99,Ros√©,1,,,,,10.99,Mulderbosch Rose 2014,2014
+,Rose,South Africa,,10.99,Ros√©,1,,,,,10.99,Mulderbosch Rose 2014,2014
+3,Rose,South Africa,14.99,14.99,Ros√© Sparkling Wine,1,15.99,,,,,Graham Beck Brut Rose,
+3,Rose,South Africa,14.99,14.99,Ros√© Sparkling Wine,1,15.99,,,,,Graham Beck Brut Rose,
+3,Rose,South Africa,14.99,14.99,Ros√© Sparkling Wine,1,15.99,,,,,Graham Beck Brut Rose,
+3,Rose,South Africa,14.99,14.99,Ros√© Sparkling Wine,1,15.99,,,,,Graham Beck Brut Rose,
+3,Rose,South Africa,14.99,14.99,Ros√© Sparkling Wine,1,15.99,,,,,Graham Beck Brut Rose,
+3,Rose,South Africa,14.99,14.99,Ros√© Sparkling Wine,1,15.99,,,,,Graham Beck Brut Rose,
+1,Rose,Spain,11.99,11.99,Ros√©,1,11.99,,,,,Las Rocas Rose,2013
+1,Rose,Spain,11.99,11.99,Ros√©,1,11.99,,,,,Las Rocas Rose,2013
+7,Rose,Spain,17.99,17.99,Ros√© Sparkling Wine,1,17.99,,,,,Juve Y Camps Rose Brut Cava,
+,Rose,Spain,,8.99,Ros√©,1,,,,Rioja,8.99,Marques de Caceres Rioja Rosado,2013
+,Rose,Spain,,8.99,Ros√©,1,,,,Rioja,8.99,Marques de Caceres Rioja Rosado,2013
+,Rose,Spain,8.99,8.99,Ros√©,1,8.99,,,Rioja,,Marques de Caceres Rioja Rosado,2013
+,Rose,Spain,8.99,8.99,Ros√©,1,8.99,,,Rioja,,Marques de Caceres Rioja Rosado,2013
+,Rose,Spain,8.99,8.99,Ros√©,1,8.99,,,Rioja,,Marques de Caceres Rioja Rosado,2013
+,Rose,Spain,8.99,8.99,Ros√©,1,8.99,,,Rioja,,Marques de Caceres Rioja Rosado,2013
+,Rose,USA,16.99,16.99,Ros√©,1,19,,,California,,Francis Ford Coppola Sofia Rose,2013
+14,Rose,USA,,7.99,Ros√©,1,,,,California,7.99,Sutter Home Pink Moscato,
+14,Rose,USA,,7.99,Ros√©,1,,,,California,7.99,Sutter Home Pink Moscato,
+14,Rose,USA,,7.99,Ros√©,1,,,,California,7.99,Sutter Home Pink Moscato,
+14,Rose,USA,,7.99,Ros√©,1,,,,California,7.99,Sutter Home Pink Moscato,
+14,Rose,USA,,7.99,Ros√©,1,,,,California,7.99,Sutter Home Pink Moscato,
+14,Rose,USA,,7.99,Ros√©,1,,,,California,7.99,Sutter Home Pink Moscato,
+14,Rose,USA,7.99,7.99,Ros√©,1,7.99,,,California,,Sutter Home Pink Moscato,
+14,Rose,USA,7.99,7.99,Ros√©,1,7.99,,,California,,Sutter Home Pink Moscato,
+14,Rose,USA,7.99,7.99,Ros√©,1,7.99,,,California,,Sutter Home Pink Moscato,
+14,Rose,USA,7.99,7.99,Ros√©,1,7.99,,,California,,Sutter Home Pink Moscato,
+,Rose,USA,,7.99,Ros√©,1,,,,California,7.99,Sutter Home White Zinfandel,2013
+,Rose,USA,,7.99,Ros√©,1,,,,California,7.99,Sutter Home White Zinfandel,2013
+,Rose,USA,,7.99,Ros√©,1,,,,California,7.99,Sutter Home White Zinfandel,2013
+,Rose,USA,,7.99,Ros√©,1,,,,California,7.99,Sutter Home White Zinfandel,2013
+,Rose,USA,,7.99,Ros√©,1,,,,California,7.99,Sutter Home White Zinfandel,2013
+,Rose,USA,,7.99,Ros√©,1,,,,California,7.99,Sutter Home White Zinfandel,2013
+,Rose,USA,7.99,7.99,Ros√©,1,7.99,,,California,,Sutter Home White Zinfandel,2013
+,Rose,USA,7.99,7.99,Ros√©,1,7.99,,,California,,Sutter Home White Zinfandel,2013
+5,Rose,USA,14.99,14.99,Ros√© Sparkling Wine,1,14.99,,,California,,Korbel Brut Rose,
+5,Rose,USA,14.99,14.99,Ros√© Sparkling Wine,1,14.99,,,California,,Korbel Brut Rose,
+5,Rose,USA,14.99,14.99,Ros√© Sparkling Wine,1,14.99,,,California,,Korbel Brut Rose,
+,Rose,USA,13.99,13.99,Ros√©,1,13.99,,,Washington,,Charles & Charles Rose 2014,2014
+,Rose,Australia,9.99,9.99,Ros√©,1,10.99,JH,92,,,Angove Family Winemakers Nine Vines Rose,2013
+,Rose,Australia,9.99,9.99,Ros√©,1,10.99,JH,92,,,Angove Family Winemakers Nine Vines Rose,2013
+,Rose,Australia,9.99,9.99,Ros√©,1,10.99,JH,92,,,Angove Family Winemakers Nine Vines Rose,2013
+,Rose,Australia,9.99,9.99,Ros√©,1,10.99,JH,92,,,Angove Family Winemakers Nine Vines Rose,2013
+,Rose,Australia,9.99,9.99,Ros√©,1,10.99,JH,92,,,Angove Family Winemakers Nine Vines Rose,2013
+,Rose,Australia,9.99,9.99,Ros√©,1,10.99,JH,92,,,Angove Family Winemakers Nine Vines Rose,2013
+2,Rose,France,,79.99,Ros√© Sparkling Wine,1,,JH,94,Champagne,79.99,Billecart-Salmon Brut Rose,
+2,Rose,France,,79.99,Ros√© Sparkling Wine,1,,JH,94,Champagne,79.99,Billecart-Salmon Brut Rose,
+2,Rose,France,,79.99,Ros√© Sparkling Wine,1,,JH,94,Champagne,79.99,Billecart-Salmon Brut Rose,
+2,Rose,France,,79.99,Ros√© Sparkling Wine,1,,JH,94,Champagne,79.99,Billecart-Salmon Brut Rose,
+2,Rose,France,,79.99,Ros√© Sparkling Wine,1,,JH,94,Champagne,79.99,Billecart-Salmon Brut Rose,
+2,Rose,France,,79.99,Ros√© Sparkling Wine,1,,JH,94,Champagne,79.99,Billecart-Salmon Brut Rose,
+,Rose,France,,46.99,Ros√© Sparkling Wine,1,,JH,94,Champagne,46.99,Billecart-Salmon Brut Rose (375ML half-bottle),
+,Rose,France,,46.99,Ros√© Sparkling Wine,1,,JH,94,Champagne,46.99,Billecart-Salmon Brut Rose (375ML half-bottle),
+,Rose,Chile,,10.99,Ros√©,1,,JS,90,,10.99,Los Vascos Rose,2013
+,Rose,Chile,,10.99,Ros√©,1,,JS,90,,10.99,Los Vascos Rose,2013
+,Rose,Chile,,10.99,Ros√©,1,,JS,90,,10.99,Los Vascos Rose,2013
+,Rose,Chile,,10.99,Ros√©,1,,JS,90,,10.99,Los Vascos Rose,2013
+,Rose,Chile,,10.99,Ros√©,1,,JS,90,,10.99,Los Vascos Rose,2013
+,Rose,Chile,,10.99,Ros√©,1,,JS,90,,10.99,Los Vascos Rose,2013
+,Rose,Chile,,10.99,Ros√©,1,,JS,90,,10.99,Los Vascos Rose,2013
+,Rose,France,44.99,44.99,Ros√©,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
+,Rose,France,44.99,44.99,Ros√©,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
+,Rose,France,44.99,44.99,Ros√©,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
+,Rose,France,44.99,44.99,Ros√©,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
+,Rose,France,44.99,44.99,Ros√©,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
+,Rose,France,44.99,44.99,Ros√©,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
+,Rose,France,44.99,44.99,Ros√©,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
+,Rose,France,44.99,44.99,Ros√©,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
+,Rose,France,44.99,44.99,Ros√©,1,50,RP,90,Provence,,Miraval Rose (1.5 Liter Magnum),2013
+7,Rose,Spain,,17.99,Ros√© Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
+7,Rose,Spain,,17.99,Ros√© Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
+7,Rose,Spain,,17.99,Ros√© Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
+7,Rose,Spain,,17.99,Ros√© Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
+7,Rose,Spain,,17.99,Ros√© Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
+7,Rose,Spain,,17.99,Ros√© Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
+7,Rose,Spain,,17.99,Ros√© Sparkling Wine,1,,RP,90,,17.99,Juve Y Camps Rose Brut Cava,
+1,Rose,Australia,,10.99,Ros√©,1,,ST,90,Victoria,10.99,Innocent Bystander Pink Moscato (375ML half-bottle) 2014,2014
+1,Rose,Australia,,10.99,Ros√©,1,,ST,90,Victoria,10.99,Innocent Bystander Pink Moscato (375ML half-bottle) 2014,2014
+1,Rose,Australia,,10.99,Ros√©,1,,ST,90,Victoria,10.99,Innocent Bystander Pink Moscato (375ML half-bottle) 2014,2014
+1,Rose,France,,15.99,Ros√©,1,,V,88,,15.99,Domaine de Triennes Rose,2013
+1,Rose,France,,15.99,Ros√©,1,,V,88,,15.99,Domaine de Triennes Rose,2013
+1,Rose,France,,15.99,Ros√©,1,,V,88,,15.99,Domaine de Triennes Rose,2013
+1,Rose,France,,15.99,Ros√©,1,,V,88,,15.99,Domaine de Triennes Rose,2013
+1,Rose,France,,15.99,Ros√©,1,,V,88,,15.99,Domaine de Triennes Rose,2013
+1,Rose,France,,15.99,Ros√©,1,,V,88,,15.99,Domaine de Triennes Rose,2013
+,Rose,USA,8.99,8.99,Ros√©,1,18,V,88,California,,Bonny Doon Vin Gris de Cigare,2013
+,Rose,USA,8.99,8.99,Ros√©,1,18,V,88,California,,Bonny Doon Vin Gris de Cigare,2013
+,Rose,USA,8.99,8.99,Ros√©,1,18,V,88,California,,Bonny Doon Vin Gris de Cigare,2013
+,Rose,USA,8.99,8.99,Ros√©,1,18,V,88,California,,Bonny Doon Vin Gris de Cigare,2013
+,Rose,USA,8.99,8.99,Ros√©,1,18,V,88,California,,Bonny Doon Vin Gris de Cigare,2013
+,Rose,USA,8.99,8.99,Ros√©,1,18,V,88,California,,Bonny Doon Vin Gris de Cigare,2013
+5,Rose,France,,72.99,Ros√© Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
+5,Rose,France,,72.99,Ros√© Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
+5,Rose,France,,72.99,Ros√© Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
+5,Rose,France,,72.99,Ros√© Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
+5,Rose,France,,72.99,Ros√© Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
+5,Rose,France,,72.99,Ros√© Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
+5,Rose,France,,72.99,Ros√© Sparkling Wine,1,,W&S,91,Champagne,72.99,Veuve Clicquot Rose,
+,Rose,France,,19.99,Ros√©,1,,W&S,92,Provence,19.99,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
+,Rose,France,,19.99,Ros√©,1,,W&S,92,Provence,19.99,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
+,Rose,France,,19.99,Ros√©,1,,W&S,92,Provence,19.99,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
+,Rose,France,,19.99,Ros√©,1,,W&S,92,Provence,19.99,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
+,Rose,France,,19.99,Ros√©,1,,W&S,92,Provence,19.99,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
+,Rose,France,,19.99,Ros√©,1,,W&S,92,Provence,19.99,Domaines Ott Les Domaniers Cotes de Provence Rose,2013
+5,Rose,USA,,14.99,Ros√© Sparkling Wine,1,,WE,90,California,14.99,Korbel Brut Rose,
+5,Rose,USA,,14.99,Ros√© Sparkling Wine,1,,WE,90,California,14.99,Korbel Brut Rose,
+5,Rose,USA,,14.99,Ros√© Sparkling Wine,1,,WE,90,California,14.99,Korbel Brut Rose,
+5,Rose,USA,,14.99,Ros√© Sparkling Wine,1,,WE,90,California,14.99,Korbel Brut Rose,
+5,Rose,USA,,14.99,Ros√© Sparkling Wine,1,,WE,90,California,14.99,Korbel Brut Rose,
+5,Rose,USA,,14.99,Ros√© Sparkling Wine,1,,WE,90,California,14.99,Korbel Brut Rose,
+9,Rose,France,,68.99,Ros√© Sparkling Wine,1,,WS,90,Champagne,68.99,Moet & Chandon Rose Imperial,
+9,Rose,France,,68.99,Ros√© Sparkling Wine,1,,WS,90,Champagne,68.99,Moet & Chandon Rose Imperial,
+9,Rose,France,,68.99,Ros√© Sparkling Wine,1,,WS,90,Champagne,68.99,Moet & Chandon Rose Imperial,
+,Rose,France,,94.99,Ros√© Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
+,Rose,France,,94.99,Ros√© Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
+,Rose,France,,94.99,Ros√© Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
+,Rose,France,,94.99,Ros√© Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
+,Rose,France,,94.99,Ros√© Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
+,Rose,France,,94.99,Ros√© Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
+,Rose,France,,94.99,Ros√© Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
+,Rose,France,,94.99,Ros√© Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
+,Rose,France,,94.99,Ros√© Sparkling Wine,1,,WS,92,Champagne,94.99,Veuve Clicquot Brut Rose,2004
+7,Rose,USA,,26.99,Ros√© Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
+7,Rose,USA,,26.99,Ros√© Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
+7,Rose,USA,,26.99,Ros√© Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
+7,Rose,USA,,26.99,Ros√© Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
+7,Rose,USA,,26.99,Ros√© Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
+7,Rose,USA,,26.99,Ros√© Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
+7,Rose,USA,,26.99,Ros√© Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
+7,Rose,USA,,26.99,Ros√© Sparkling Wine,1,,WS,92,California,26.99,Roederer Estate Brut Rose,
+,Rose,USA,,13.99,Ros√©,1,,WW,91,Washington,13.99,Charles & Charles Rose 2014,2014
+,Rose,USA,,13.99,Ros√©,1,,WW,91,Washington,13.99,Charles & Charles Rose 2014,2014
+,Rose,USA,,13.99,Ros√©,1,,WW,91,Washington,13.99,Charles & Charles Rose 2014,2014
+,Rose,USA,,13.99,Ros√©,1,,WW,91,Washington,13.99,Charles & Charles Rose 2014,2014
+,Rose,USA,,13.99,Ros√©,1,,WW,91,Washington,13.99,Charles & Charles Rose 2014,2014
+,Rose,USA,,13.99,Ros√©,1,,WW,91,Washington,13.99,Charles & Charles Rose 2014,2014
 7,Sparkling,Australia,23.99,23.99,Non-Vintage Sparkling Wine,1,23.99,,,,,Jansz Premium Cuvee,
 7,Sparkling,Australia,23.99,23.99,Non-Vintage Sparkling Wine,1,23.99,,,,,Jansz Premium Cuvee,
 7,Sparkling,Australia,23.99,23.99,Non-Vintage Sparkling Wine,1,23.99,,,,,Jansz Premium Cuvee,
