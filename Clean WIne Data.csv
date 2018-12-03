@@ -1,619 +1,619 @@
-,index,Wine Type,Country,Final Price,Grape Variety,Rating Score,Wine Name
-0,32,Dessert,Australia,19.99,Port,92.0,Yalumba Antique Reserve Tawny Port (375ML half-bottle)
-1,39,Dessert,Portugal,29.99,Port,93.0,Taylor Fladgate 10 Year Old Tawny
-2,42,Dessert,Australia,18.99,Other Dessert,94.0,Yalumba Museum Reserve Muscat (375ML half-bottle)
-3,45,Dessert,Portugal,51.99,Port,95.0,Taylor Fladgate 20 Year Old Tawny
-4,49,Dessert,Portugal,17.99,Port,91.0,Quinta do Noval Noval Black
-5,55,Dessert,Portugal,16.99,Port,90.0,Warre's Warrior Port
-6,59,Dessert,France,24.99,Other Dessert,97.0,Chateau Doisy Vedrines Sauternes (375ML half-bottle)
-7,65,Dessert,USA,12.99,Port,93.0,Terra d'Oro Zinfandel Port (375ML half-bottle)
-8,68,Dessert,France,59.99,Other Dessert,96.0,Chateau Rieussec Sauternes
-9,71,Dessert,Portugal,12.99,Port,90.0,Croft Fine Ruby
-10,78,Dessert,Portugal,19.99,Port,90.0,Fonseca Bin No. 27 Port
-11,84,Dessert,Portugal,18.99,Port,90.0,Fonseca Bin No. 27 Port Limited Edition Artist Series
-12,87,Dessert,Portugal,22.99,Port,93.0,Fonseca Late Bottled Vintage
-13,2355,Red,France,39.99,Pinot Noir,91.0,Bouchard Pere & Fils Beaune de Chateau Premier Cru Rouge
-14,2364,Red,Argentina,14.99,Cabernet Sauvignon,95.0,Antucura Cabernet Sauvignon
-15,2365,Red,Australia,32.99,Syrah/Shiraz,96.0,John Duval Entity Shiraz
-16,2366,Red,Chile,13.99,Syrah/Shiraz,93.0,Falernia Syrah Reserva
-17,2367,Red,Italy,17.99,Other Red Blends,95.0,Brancaia Tre
-18,2368,Red,Italy,28.99,Sangiovese,95.0,Fattorie Melini Chianti Classico Riserva La Selvanella
-19,2369,Red,Italy,28.99,Sangiovese,93.0,Querciabella Chianti Classico
-20,2376,Red,New Zealand,38.99,Pinot Noir,96.0,Greywacke Pinot Noir Marlborough
-21,2382,Red,Spain,25.99,Tempranillo,93.0,Bodegas Muga Reserva
-22,2383,Red,Spain,16.99,Tempranillo,93.0,Bodegas Muga Reserva (375ML half-bottle)
-23,2385,Red,Spain,16.99,Tempranillo,95.0,Bodegas Muriel Reserva
-24,2386,Red,Spain,14.99,Tempranillo,90.0,Cune Crianza
-25,2387,Red,Spain,27.99,Tempranillo,93.0,Finca Allende
-26,2396,Red,USA,59.99,Cabernet Sauvignon,95.0,Trinchero Cloud's Nest Vineyard Cabernet Sauvignon
-27,2397,Red,USA,23.99,Other Red Blends,93.0,Sean Thackrey Pleiades XXIII Old Vines Red Blend
-28,2404,Red,USA,9.99,Other Red Wine,90.0,J. Lohr Wildflower Valdiguie
-29,2411,Red,USA,24.99,Pinot Noir,92.0,Hahn Estates Santa Lucia Highlands Pinot Noir
-30,2412,Red,Australia,33.99,Cabernet Sauvignon,95.0,Heartland Director's Cut Cabernet Sauvignon
-31,2418,Red,Australia,21.99,Other Red Blends,93.0,Pepperjack Barossa Red Blend
-32,2425,Red,Australia,39.99,Rhone Red Blends,94.0,Torbreck The Steading
-33,2434,Red,Australia,25.99,Syrah/Shiraz,93.0,Elderton Shiraz
-34,2440,Red,Australia,29.99,Syrah/Shiraz,93.0,Two Hands Gnarly Dudes Shiraz
-35,2447,Red,Australia,19.99,Syrah/Shiraz,94.0,Yalumba Barossa Patchwork Shiraz
-36,2454,Red,Australia,15.99,Syrah/Shiraz,92.0,Yalumba The Guardian Shiraz Viognier
-37,2457,Red,Australia,12.99,Cabernet Sauvignon,91.0,Jacob's Creek Reserve Cabernet Sauvignon
-38,2458,Red,Australia,19.99,Cabernet Sauvignon,92.0,Penley Estate Phoenix Cabernet Sauvignon
-39,2459,Red,Australia,34.99,Cabernet Sauvignon,96.0,Wynns Coonawarra Estate Black Label Cabernet Sauvignon
-40,2460,Red,Australia,24.99,Cabernet Sauvignon,94.0,Yalumba The Cigar Cabernet Sauvignon
-41,2462,Red,Australia,29.99,Cabernet Sauvignon,96.0,Robert Oatley Finisterre Cabernet Sauvignon
-42,2463,Red,Australia,18.99,Cabernet Sauvignon,92.0,Robert Oatley Signature Cabernet Sauvignon
-43,2464,Red,Australia,33.99,Cabernet Sauvignon,95.0,Two Hands Sexy Beast Cabernet Sauvignon
-44,2465,Red,Australia,44.99,Grenache,94.0,Twelftree Blewitt Springs Grenache
-45,2471,Red,Australia,19.99,Syrah/Shiraz,89.0,d'Arenberg Footbolt Shiraz
-46,2479,Red,Australia,15.99,Syrah/Shiraz,90.0,Red Knot Shiraz
-47,2482,Red,Australia,18.99,Syrah/Shiraz,93.0,Robert Oatley McLaren Vale Shiraz
-48,2485,Red,Australia,17.99,Pinot Noir,91.0,Innocent Bystander Pinot Noir
-49,2491,Red,Argentina,14.99,Bordeaux,94.0,Dona Paula Black Label Red Blend
-50,2492,Red,Argentina,19.99,Cabernet Sauvignon,92.0,Susana Balbo Signature Cabernet Sauvignon
-51,2493,Red,Argentina,18.99,Malbec,92.0,Altocedro Ano Cero Malbec
-52,2501,Red,Argentina,14.99,Malbec,93.0,Dona Paula Estate Malbec
-53,2502,Red,Argentina,19.99,Malbec,93.0,Susana Balbo Signature Malbec
-54,2503,Red,Argentina,19.99,Other Red Blends,92.0,Clos de los Siete Super Red Blend
-55,2504,Red,Chile,89.99,Bordeaux,97.0,Lapostolle Clos Apalta
-56,2507,Red,Chile,17.99,Cabernet Sauvignon,91.0,Los Vascos Grande Reserve Cabernet Sauvignon
-57,2514,Red,Chile,19.99,Cabernet Sauvignon,89.0,Montes Alpha Series Cabernet Sauvignon
-58,2517,Red,Chile,13.99,Cabernet Sauvignon,92.0,Santa Ema Reserve Cabernet Sauvignon
-59,2524,Red,Chile,18.99,Cabernet Sauvignon,92.0,Vina Ventisquero Cabernet Sauvignon Grey Single Block Vineyard
-60,2530,Red,Chile,15.99,Carmenere,93.0,Apaltagua Envero Carmenere
-61,2536,Red,France,18.99,Bordeaux,91.0,Ch. Beaumont Haut Medoc
-62,2537,Red,France,19.99,Bordeaux,91.0,Chateau Baret
-63,2546,Red,France,25.99,Bordeaux,93.0,Chateau Clos des Jacobins (Futures Pre-sale)
-64,2554,Red,France,339.0,Bordeaux,100.0,Chateau Ducru Beaucaillou
-65,2560,Red,France,19.99,Bordeaux,92.0,Chateau Fourcas Dupre
-66,2569,Red,France,34.99,Bordeaux,93.0,Chateau Franc Mayne
-67,2571,Red,France,49.99,Bordeaux,93.0,Chateau la Vieille Cure (1.5L Magnum)
-68,2577,Red,France,189.0,Bordeaux,98.0,Chateau Lynch-Bages
-69,2586,Red,France,12.99,Bordeaux,92.0,Chateau Marsau Cotes de Francs (375ML half-bottle)
-70,2588,Red,France,39.99,Bordeaux,95.0,Chateau Olivier
-71,2594,Red,France,145.0,Bordeaux,98.0,Chateau Rauzan Segla
-72,2600,Red,France,59.99,Bordeaux,96.0,Clos du Marquis
-73,2606,Red,France,89.99,Bordeaux,97.0,Domaine de Chevalier
-74,2614,Red,Italy,12.99,Other Red Blends,90.0,Fattoria del Cerro Rosso di Montepulciano
-75,2615,Red,Italy,15.99,Other Red Wine,91.0,Zaccagnini Il Vino Dal Tralcetto Montepulciano d'Abruzzo
-76,2616,Red,Italy,34.99,Nebbiolo,93.0,Rocche Costamagna Barolo Rocche dell'Annunziata
-77,2622,Red,Italy,19.99,Nero d'Avola,91.0,Tasca d'Almerita Lamuri Nero d'Avola Sicilia
-78,2629,Red,Italy,99.0,Other Red Blends,95.0,Antinori Guado al Tasso
-79,2635,Red,Italy,12.99,Other Red Blends,90.0,Banfi Centine Toscana
-80,2644,Red,Italy,28.99,Other Red Blends,92.0,Luce Della Vite Lucente
-81,2650,Red,Italy,11.99,Other Red Blends,90.0,Monte Antico Rosso
-82,2651,Red,Italy,16.99,Other Red Blends,90.0,Tenuta La Badiola 642 Maremma Toscana
-83,2654,Red,Italy,64.99,Other Red Blends,97.0,Tenuta Sette Ponti Oreno
-84,2655,Red,Italy,99.99,Sangiovese,98.0,Bibi Graetz Testamatta
-85,2656,Red,Italy,19.99,Sangiovese,92.0,Borgo Scopeto Borgonero
-86,2662,Red,Italy,16.99,Sangiovese,90.0,Borgo Scopeto Chianti Classico
-87,2663,Red,Italy,36.99,Sangiovese,95.0,Caparzo Brunello di Montalcino
-88,2664,Red,Italy,77.99,Sangiovese,93.0,Casanova di Neri Brunello di Montalcino Tenuta Nuova
-89,2672,Red,Italy,24.99,Sangiovese,93.0,Castello di Querceto Chianti Classico Riserva
-90,2673,Red,Italy,49.99,Sangiovese,91.0,Fattoria dei Barbi Brunello di Montalcino
-91,2679,Red,Italy,13.99,Sangiovese,90.0,Fattoria del Cerro Chianti Colli Senesi
-92,2685,Red,Italy,19.99,Sangiovese,91.0,Frescobaldi Nipozzano Chianti Rufina Riserva
-93,2686,Red,Italy,59.99,Sangiovese,95.0,Gianni Brunelli Brunello di Montalcino
-94,2687,Red,Italy,51.99,Sangiovese,97.0,La Serena Brunello di Montalcino
-95,2688,Red,Italy,24.99,Sangiovese,92.0,Tenuta di Nozzole Chianti Classico Riserva
-96,2690,Red,Italy,49.99,Sangiovese,92.0,Tenute Silvio Nardi Brunello di Montalcino
-97,2693,Red,Italy,239.0,Sangiovese,99.0,Valdicava Brunello di Montalcino (1.5 Liter Magnum)
-98,2700,Red,New Zealand,57.99,Pinot Noir,95.0,Escarpment Kiwa Pinot Noir
-99,2706,Red,New Zealand,59.99,Pinot Noir,97.0,Escarpment Pahi Pinot Noir
-100,2707,Red,USA,69.99,Cabernet Sauvignon,91.0,Duckhorn Napa Cabernet Sauvignon
-101,2714,Red,USA,99.0,Cabernet Sauvignon,93.0,Stag's Leap Wine Cellars Fay Vineyard Cabernet Sauvignon
-102,2720,Red,USA,19.99,Pinot Noir,92.0,Schug Sonoma Coast Pinot Noir
-103,2721,Red,Argentina,16.99,Cabernet Sauvignon,90.0,Catena Cabernet Sauvignon
-104,2729,Red,Argentina,24.99,Malbec,90.0,Luigi Bosca Malbec
-105,2736,Red,Argentina,18.99,Malbec,92.0,TintoNegro Limestone Block Malbec
-106,2737,Red,Argentina,13.99,Malbec,91.0,TintoNegro Uco Valley-Mendoza Malbec
-107,2738,Red,Argentina,33.99,Pinot Noir,91.0,Luca Pinot Noir
-108,2746,Red,Australia,59.99,Cabernet Sauvignon,90.0,Mollydooker Gigglepot Cabernet Sauvignon
-109,2749,Red,Australia,16.99,Other Red Blends,90.0,Heartland Spice Trader Shiraz Cabernet Sauvignon
-110,2756,Red,Australia,27.99,Cabernet Sauvignon,91.0,Langmeil The Blacksmith Cabernet Sauvignon
-111,2758,Red,Australia,19.99,Rhone Red Blends,91.0,Rustom Farm Pughouse Shiraz Grenache
-112,2765,Red,Australia,29.99,Syrah/Shiraz,92.0,Penfolds Kalimna Bin 28 Shiraz
-113,2767,Red,Australia,149.0,Syrah/Shiraz,99.0,Clarendon Hills Astralis Syrah
-114,2780,Red,Chile,26.99,Pinot Noir,93.0,Matetic EQ Pinot Noir
-115,2781,Red,France,17.99,Other Red Blends,91.0,Locations by Dave Phinney F-2
-116,2782,Red,France,129.0,Bordeaux,95.0,Chateau Gracia
-117,2785,Red,France,64.99,Bordeaux,95.0,Chateau Larcis-Ducasse
-118,2794,Red,France,249.0,Bordeaux,100.0,Chateau Leoville Poyferre
-119,2795,Red,France,269.0,Bordeaux,100.0,Chateau Montrose
-120,2798,Red,France,79.99,Bordeaux,95.0,Chateau Pape Clement (Futures Pre-sale)
-121,2801,Red,France,13.99,Rhone Red Blends,91.0,Bila-Haut by Michel Chapoutier Bila-Haut Cotes du Roussillon-Villages
-122,2802,Red,France,29.99,Rhone Red Blends,94.0,Bila-Haut by Michel Chapoutier Occultum Lapidem
-123,2805,Red,France,22.99,Rhone Red Blends,93.0,Domaine de Mourchon Cotes du Rhone Villages Seguret Grande Reserve
-124,2813,Red,France,64.99,Rhone Red Blends,96.0,Vieille Julienne Chateauneuf-du-Pape Les Trois Sources
-125,2821,Red,Italy,17.99,Other Red Blends,90.0,Locations by Dave Phinney I-1
-126,2827,Red,Italy,59.99,Nebbiolo,95.0,Pio Cesare Barolo
-127,2828,Red,Italy,45.99,Cabernet Sauvignon,93.0,Mazzei Philip Cabernet Sauvignon
-128,2839,Red,Italy,35.99,Sangiovese,94.0,Castello di Bossi Chianti Classico Riserva Berardo
-129,2845,Red,Italy,22.99,Sangiovese,92.0,Felsina Berardenga Chianti Classico
-130,2848,Red,Italy,15.99,Sangiovese,91.0,Felsina Berardenga Chianti Classico (375ML half-bottle)
-131,2854,Red,Italy,48.99,Sangiovese,95.0,Felsina Chianti Classico Riserva Rancia
-132,2860,Red,New Zealand,71.99,Pinot Noir,95.0,Pyramid Valley Angel Flower Pinot Noir
-133,2861,Red,New Zealand,39.99,Cabernet Franc,92.0,Pyramid Valley Howell Cabernet Franc
-134,2862,Red,South Africa,46.99,Pinot Noir,94.0,Hamilton Russell Pinot Noir
-135,2868,Red,Spain,12.99,Grenache,90.0,Espelt Garnacha Old Vines
-136,2874,Red,Spain,9.99,Grenache,89.0,Evodia Old Vine Grenache
-137,2875,Red,Spain,11.99,Mourvedre,90.0,Bodegas Castano Hecula
-138,2888,Red,Spain,15.99,Mourvedre,92.0,Vinos Sin-Ley Monastrell
-139,2896,Red,Spain,15.99,Other Red Blends,94.0,Bodegas Castano Solanera
-140,2897,Red,Spain,16.99,Other Red Blends,92.0,Bodegas Zerran Tinto
-141,2898,Red,Spain,17.99,Other Red Blends,93.0,Locations by Dave Phinney E-2
-142,2899,Red,Spain,18.99,Other Red Wine,90.0,Arturo Garcia Solar de Sael Crianza Bierzo
-143,2908,Red,Spain,78.99,Other Red Blends,96.0,Marques de Murrieta Castillo Ygay Gran Reserva
-144,2914,Red,Spain,16.99,Other Red Blends,91.0,Palacios Remondo La Montesa
-145,2915,Red,Spain,14.99,Other Red Blends,90.0,Palacios Remondo Rioja Vendimia
-146,2918,Red,Spain,11.99,Other Red Wine,90.0,Antano Gran Seleccion Graciano
-147,2919,Red,Spain,54.99,Tempranillo,95.0,Bodegas Muga Gran Reserva Prado Enea
-148,2925,Red,Spain,21.99,Tempranillo,91.0,Marques de Murrieta Rioja Reserva
-149,2932,Red,USA,59.99,Bordeaux,94.0,Anderson's Conn Valley Vineyards Right Bank Proprietary Red Blend
-150,2933,Red,USA,49.99,Bordeaux,90.0,Conn Creek Anthology
-151,2940,Red,USA,64.99,Bordeaux,92.0,Justin Isosceles
-152,2946,Red,USA,139.99,Bordeaux,94.0,Pahlmeyer Napa Valley Proprietary Red
-153,2947,Red,USA,73.99,Cabernet Sauvignon,90.0,Cakebread Cabernet Sauvignon
-154,2948,Red,USA,29.99,Cabernet Sauvignon,90.0,Emblem Napa Valley Cabernet Sauvignon
-155,2955,Red,USA,79.99,Cabernet Sauvignon,90.0,Etude Napa Valley Cabernet Sauvignon
-156,2957,Red,USA,199.99,Cabernet Sauvignon,100.0,Joseph Phelps Insignia
-157,2958,Red,USA,109.0,Cabernet Sauvignon,100.0,Joseph Phelps Insignia (375ML half-bottle)
-158,2959,Red,USA,35.99,Cabernet Sauvignon,90.0,Louis Martini Napa Valley Cabernet Sauvignon
-159,2964,Red,USA,21.99,Cabernet Sauvignon,90.0,Michael David Winery Freakshow
-160,2965,Red,USA,56.99,Cabernet Sauvignon,89.0,Pine Ridge Napa Cabernet Sauvignon
-161,2971,Red,USA,24.99,Cabernet Sauvignon,91.0,Roth Alexander Valley Cabernet Sauvignon
-162,2977,Red,USA,57.99,Cabernet Sauvignon,93.0,Round Pond Estate Rutherford Cabernet Sauvignon
-163,2978,Red,USA,33.99,Cabernet Sauvignon,91.0,St. Supery Cabernet Sauvignon
-164,2979,Red,USA,29.99,Merlot,92.0,Freemark Abbey Merlot
-165,2986,Red,USA,18.99,Other Red Blends,88.0,Gundlach Bundschu Mountain Cuvee
-166,2995,Red,USA,13.99,Other Red Blends,89.0,Marietta Old Vine Red #62
-167,2999,Red,USA,18.99,Other Red Blends,91.0,Michael David Winery Petite Petit
-168,3000,Red,USA,39.99,Other Red Blends,92.0,The Prisoner Wine Company Prisoner
-169,3001,Red,USA,28.99,Other Red Wine,93.0,Taken Wine Company Napa Valley Red Blend
-170,3008,Red,USA,19.99,Pinot Noir,93.0,Migration Russian River Pinot Noir (375ML half-bottle)
-171,3015,Red,USA,17.99,Pinot Noir,91.0,Siduri Santa Lucia Highlands Pinot Noir (375ML)
-172,3024,Red,USA,33.99,Rhone Red Blends,93.0,Limerick Lane Syrah / Grenache
-173,3031,Red,USA,17.99,Zinfandel,90.0,Michael David Winery 7 Deadly Zins Zinfandel
-174,3038,Red,USA,45.99,Pinot Noir,92.0,Evening Land Eola-Amity Hills Seven Springs Vineyard Pinot Noir
-175,3044,Red,USA,78.99,Bordeaux,94.0,Col Solare
-176,3053,Red,USA,33.99,Cabernet Sauvignon,91.0,Chateau Ste. Michelle Cold Creek Vineyard Cabernet Sauvignon
-177,3056,Red,Argentina,17.99,Malbec,89.0,La Posta Angel Paulucci Vineyard Malbec
-178,3064,Red,Argentina,19.99,Malbec,90.0,Terrazas de los Andes Reserva Malbec
-179,3066,Red,Argentina,31.99,Malbec,91.0,Tikal Amorio Malbec
-180,3073,Red,Australia,19.99,Syrah/Shiraz,91.0,Tait The Ball Buster
-181,3074,Red,Australia,21.99,Syrah/Shiraz,91.0,Torbreck Woodcutters Shiraz
-182,3083,Red,Australia,24.99,Syrah/Shiraz,91.0,d'Arenberg Laughing Magpie Shiraz Viognier
-183,3085,Red,France,32.99,Rhone Red Blends,89.0,Domaine du Vieux Lazaret Chateauneuf-du-Pape
-184,3092,Red,France,17.99,Rhone Red Blends,89.0,Domaine du Vieux Lazaret Chateauneuf-du-Pape (375ML half-bottle)
-185,3098,Red,Italy,239.0,Nebbiolo,97.0,Gaja Sperss
-186,3104,Red,Italy,22.99,Nebbiolo,90.0,Marchesi di Gresy Nebbiolo Martinenga
-187,3113,Red,Italy,19.99,Other Red Blends,91.0,Poggio al Tesoro Mediterra
-188,3119,Red,Italy,18.99,Sangiovese,91.0,Castello di Meleto Chianti Classico
-189,3125,Red,Italy,23.99,Sangiovese,90.0,Col d'Orcia Rosso di Montalcino
-190,3128,Red,Spain,10.99,Grenache,88.0,Artazu Artazuri Garnacha
-191,3135,Red,Spain,15.99,Grenache,91.0,Bodegas Breca
-192,3141,Red,Spain,8.99,Grenache,89.0,Bodegas Breca Garnacha de Fuego
-193,3144,Red,Spain,18.99,Grenache,92.0,Borsao Tres Picos Garnacha
-194,3145,Red,Spain,12.99,Mourvedre,91.0,Bodegas Olivares Altos de la Hoya
-195,3152,Red,Spain,16.99,Mourvedre,92.0,Bodegas Volver Tarima Hill
-196,3158,Red,Spain,15.99,Tempranillo,90.0,Bodegas Barco de Piedra Tempranillo
-197,3166,Red,Spain,12.99,Tempranillo,90.0,Vina Gormaz Tempranillo
-198,3167,Red,Spain,10.99,Other Red Wine,90.0,Bodegas y Vinedos Ilurce Rio Madre Graciano
-199,3174,Red,Spain,19.99,Tempranillo,90.0,Sierra Cantabria Crianza
-200,3175,Red,USA,68.99,Cabernet Sauvignon,91.0,Joseph Phelps Cabernet Sauvignon
-201,3176,Red,USA,53.99,Cabernet Sauvignon,93.0,Ramey Cabernet Sauvignon
-202,3183,Red,USA,59.99,Pinot Noir,92.0,Chasseur Umino Pinot Noir
-203,3188,Red,USA,74.99,Pinot Noir,92.0,Pahlmeyer Sonoma Coast Pinot Noir
-204,3190,Red,USA,29.99,Pinot Noir,90.0,WillaKenzie Estate Gisele Pinot Noir
-205,3193,Red,USA,89.99,Bordeaux,94.0,Figgins Estate Red Wine
-206,3194,Red,Argentina,10.99,Malbec,88.0,Trivento Malbec Reserve
-207,3196,Red,Argentina,10.99,Other Red Blends,88.0,Alamos Red Blend
-208,3205,Red,Argentina,19.99,Other Red Wine,93.0,Bodega Garzon Tannat
-209,3207,Red,Chile,13.99,Other Red Blends,92.0,Montes Twins Red Blend
-210,3208,Red,Italy,89.0,Nebbiolo,96.0,Marchesi di Barolo Barolo Cannubi
-211,3210,Red,Italy,10.99,Sangiovese,88.0,Badia a Coltibuono Cetamura Chianti
-212,3217,Red,Italy,21.99,Sangiovese,88.0,Santa Margherita Chianti Classico Riserva
-213,3223,Red,New Zealand,19.99,Pinot Noir,90.0,Mohua Pinot Noir
-214,3226,Red,Spain,37.99,Tempranillo,98.0,Faustino I Gran Reserva
-215,3227,Red,USA,24.99,Bordeaux,92.0,Robert Hall Meritage Red Blend
-216,3233,Red,USA,32.99,Cabernet Sauvignon,91.0,Atalon Cabernet Sauvignon
-217,3239,Red,USA,57.99,Cabernet Sauvignon,95.0,DAOU Vineyards Reserve Cabernet Sauvignon
-218,3242,Red,USA,71.99,Cabernet Sauvignon,95.0,Kenwood Artist Series Cabernet Sauvignon
-219,3249,Red,USA,57.99,Cabernet Sauvignon,95.0,Levendi Stagecoach Cabernet Sauvignon
-220,3251,Red,USA,9.99,Cabernet Sauvignon,90.0,Pennywise Cabernet Sauvignon
-221,3252,Red,USA,19.99,Cabernet Sauvignon,91.0,Plungerhead Dry Creek Cabernet Sauvignon
-222,3253,Red,USA,13.99,Cabernet Sauvignon,90.0,Plungerhead Lodi Cabernet Sauvignon
-223,3256,Red,USA,19.99,Cabernet Sauvignon,90.0,Rodney Strong Cabernet Sauvignon
-224,3263,Red,USA,55.99,Cabernet Sauvignon,91.0,Stag's Leap Wine Cellars Artemis Cabernet Sauvignon
-225,3264,Red,USA,32.99,Cabernet Sauvignon,91.0,Stag's Leap Wine Cellars Artemis Cabernet Sauvignon (375ML half-bottle)
-226,3265,Red,USA,89.0,Merlot,95.0,Duckhorn Three Palms Merlot
-227,3273,Red,USA,39.99,Merlot,95.0,Grgich Hills Merlot
-228,3276,Red,USA,11.99,Merlot,91.0,Leese-Fitch Merlot
-229,3282,Red,USA,18.99,Other Red Blends,92.0,Brassfield Eruption Red Blend
-230,3283,Red,USA,11.99,Other Red Blends,90.0,Eppa SupraFruta Organic Red Sangria
-231,3284,Red,USA,9.99,Other Red Blends,90.0,Hey Mambo Sultry Red
-232,3291,Red,USA,41.99,Pinot Noir,92.0,Gary Farrell Russian River Pinot Noir
-233,3294,Red,USA,15.99,Zinfandel,88.0,Brazin Old Vine Lodi Zinfandel
-234,3295,Red,USA,11.99,Zinfandel,88.0,Four Vines Truant Zinfandel
-235,3299,Red,USA,21.99,Pinot Noir,89.0,A to Z Pinot Noir
-236,3305,Red,USA,29.99,Bordeaux,94.0,Browne Family Vineyards Tribute Red Blend
-237,3311,Red,Australia,10.99,Syrah/Shiraz,88.0,d'Arenberg Stump Jump Shiraz
-238,3320,Red,France,15.99,Gamay,91.0,Maison L'Envoye Morgon Cote du Py
-239,3324,Red,France,34.99,Rhone Red Blends,94.0,Domaine du Gour de Chaule Gigondas Cuvee Tradition
-240,3325,Red,Italy,69.99,Nebbiolo,96.0,Domenico Clerico Barolo Ciabot Mentin Ginestra
-241,3333,Red,Italy,55.99,Nebbiolo,94.0,Marcarini Barolo Brunate
-242,3342,Red,Italy,219.0,Bordeaux,97.0,Tenuta dell'Ornellaia
-243,3344,Red,Italy,17.99,Other Red Blends,93.0,Poggio al Tufo Rompicollo
-244,3347,Red,Italy,99.0,Sangiovese,95.0,Antinori Tignanello
-245,3348,Red,Italy,23.99,Sangiovese,90.0,Castellare Chianti Classico
-246,3355,Red,Italy,18.99,Sangiovese,89.0,Castello di Volpaia Chianti Classico
-247,3360,Red,Italy,18.99,Sangiovese,89.0,Fattoria del Cerro Vino Nobile di Montepulciano
-248,3363,Red,Italy,23.99,Sangiovese,95.0,Felsina Chianti Classico Riserva Rancia (half-bottle)
-249,3369,Red,Italy,29.99,Sangiovese,92.0,Fonterutoli Chianti Classico
-250,3370,Red,Italy,99.0,Sangiovese,96.0,Il Poggione Brunello di Montalcino Riserva
-251,3371,Red,Italy,29.99,Other Red Wine,92.0,Zenato Valpolicella Superiore Ripassa
-252,3380,Red,Spain,12.99,Other Red Blends,88.0,Bodegas Carchelo C
-253,3382,Red,USA,139.99,Bordeaux,94.0,Dominus Estate
-254,3383,Red,USA,49.99,Bordeaux,91.0,Dominus Napanook Vineyard
-255,3389,Red,USA,89.99,Cabernet Sauvignon,92.0,Beaulieu Vineyard Georges de Latour Private Reserve
-256,3397,Red,USA,56.99,Cabernet Sauvignon,93.0,Chappellet Signature Cabernet Sauvignon
-257,3402,Red,USA,114.99,Cabernet Sauvignon,94.0,Chateau Montelena Estate Cabernet Sauvignon
-258,3412,Red,USA,54.99,Cabernet Sauvignon,90.0,Hall Napa Valley Cabernet Sauvignon
-259,3416,Red,USA,79.99,Cabernet Sauvignon,95.0,La Jota Howell Mountain Cabernet Sauvignon
-260,3424,Red,USA,79.99,Cabernet Sauvignon,94.0,Mt. Brave Cabernet Sauvignon
-261,3431,Red,USA,109.0,Cabernet Sauvignon,97.0,Philip Togni Cabernet Sauvignon
-262,3435,Red,USA,44.99,Cabernet Sauvignon,92.0,Robert Craig Cellars Affinity Cabernet Sauvignon
-263,3438,Red,USA,44.99,Pinot Noir,93.0,Joseph Phelps Freestone Vineyards Sonoma Coast Pinot Noir
-264,3439,Red,USA,34.99,Pinot Noir,90.0,La Crema Russian River Pinot Noir
-265,3442,Red,USA,37.99,Zinfandel,91.0,Ridge Pagani Ranch Zinfandel
-266,3453,Red,Argentina,54.99,Malbec,94.0,Catena Alta Malbec
-267,3454,Red,Argentina,18.99,Malbec,92.0,Salentein Reserve Malbec
-268,3455,Red,Argentina,19.99,Other Red Blends,93.0,Bodega Noemia de Patagonia A Lisa
-269,3458,Red,Australia,73.99,Syrah/Shiraz,94.0,Penfolds St. Henri Shiraz
-270,3460,Red,Australia,19.99,Other Red Blends,89.0,Yalumba The Scribbler
-271,3467,Red,Chile,34.49,Cabernet Sauvignon,93.0,Morande House of Morande
-272,3469,Red,Chile,15.99,Syrah/Shiraz,91.0,Merino Syrah
-273,3471,Red,France,9.99,Rhone Red Blends,90.0,Louis Bernard Cotes du Rhone Villages
-274,3472,Red,Italy,18.99,Barbera,91.0,Renato Ratti Barbera d'Asti
-275,3478,Red,New Zealand,34.99,Pinot Noir,93.0,Dog Point Vineyard Pinot Noir
-276,3479,Red,Spain,19.99,Other Red Blends,90.0,Vina Arnaiz Crianza
-277,3480,Red,Spain,26.65,Tempranillo,91.0,Abadia Retuerta Seleccion Especial
-278,3481,Red,USA,49.99,Cabernet Sauvignon,93.0,Frog's Leap Estate Grown Cabernet Sauvignon
-279,3488,Red,USA,49.99,Cabernet Sauvignon,92.0,Jordan Cabernet Sauvignon
-280,3489,Red,USA,18.99,Merlot,92.0,Frog's Leap Merlot (375ML half-bottle)
-281,3492,Red,USA,33.99,Pinot Noir,95.0,Joseph Jewell Russian River Valley Pinot Noir
-282,3493,Red,USA,18.99,Syrah/Shiraz,91.0,Qupe Central Coast Syrah
-283,3502,Red,USA,16.99,Zinfandel,93.0,DeLoach Russian River Zinfandel
-284,3508,Red,USA,15.99,Zinfandel,91.0,Frog's Leap Zinfandel (375ML half-bottle)
-285,3514,Red,USA,21.99,Zinfandel,91.0,Quivira Dry Creek Valley Zinfandel
-286,3521,Red,USA,49.99,Pinot Noir,93.0,Adelsheim Elizabeth's Reserve Pinot Noir
-287,3529,Red,USA,25.99,Pinot Noir,90.0,Benton Lane Pinot Noir
-288,3536,Red,USA,54.99,Pinot Noir,94.0,Chapter 24 Fire + Flood The Flood Pinot Noir
-289,3537,Red,USA,74.99,Pinot Noir,96.0,Chapter 24 Last Chapter Pinot Noir
-290,3538,Red,USA,19.99,Pinot Noir,90.0,King Estate Acrobat Pinot Noir
-291,3539,Red,USA,29.99,Pinot Noir,93.0,Willamette Valley Vineyards Estate Pinot Noir
-292,3540,Red,Argentina,23.99,Bordeaux,93.0,Bodega Norton Privada
-293,3546,Red,Argentina,15.99,Cabernet Sauvignon,90.0,Bodega Norton Reserve Cabernet Sauvignon
-294,3548,Red,Argentina,18.99,Cabernet Sauvignon,90.0,Tapiz Alta Cabernet Sauvignon
-295,3555,Red,Argentina,19.99,Malbec,91.0,Catena Malbec
-296,3556,Red,Argentina,15.99,Malbec,91.0,Michel Torino Don David Reserve Malbec
-297,3562,Red,Argentina,27.99,Malbec,94.0,SonVida Malbec
-298,3563,Red,Australia,19.99,Rhone Red Blends,91.0,d'Arenberg d'Arrys Original Shiraz/Grenache
-299,3564,Red,Chile,18.99,Carmenere,92.0,Vina Ventisquero Carmenere Grey Single Block Trinidad Vineyard
-300,3573,Red,Chile,22.99,Other Red Blends,91.0,Lapostolle Canto de Apalta Red Blend
-301,3582,Red,France,97.99,Bordeaux,96.0,Chateau Beausejour Duffau
-302,3591,Red,France,74.99,Bordeaux,95.0,Chateau Branaire-Ducru
-303,3597,Red,France,39.99,Bordeaux,92.0,Chateau de Pez
-304,3601,Red,France,19.99,Bordeaux,92.0,Chateau Des Annereaux Lalande de Pomerol
-305,3602,Red,France,42.99,Bordeaux,90.0,Chateau Gloria
-306,3611,Red,France,34.99,Bordeaux,93.0,Chateau Grand Mayne (Futures Pre-sale)
-307,3619,Red,France,69.99,Bordeaux,91.0,Chateau Labegorce (1.5 Liter Magnum)
-308,3626,Red,France,29.99,Bordeaux,90.0,Chateau Laffitte Laujac
-309,3632,Red,France,77.99,Bordeaux,95.0,Chateau Leoville Barton
-310,3636,Red,France,17.99,Bordeaux,90.0,Chateau Lyonnat Lussac - Saint Emilion
-311,3643,Red,France,79.99,Bordeaux,94.0,Chateau Magdelaine
-312,3649,Red,France,129.0,Bordeaux,96.0,Chateau Pontet-Canet
-313,3655,Red,France,14.99,Merlot,91.0,Ch√¢teau Mayne Vieil
-314,3656,Red,France,17.99,Rhone Red Blends,91.0,Gerard Bertrand Fitou
-315,3660,Red,France,17.99,Rhone Red Blends,90.0,Gerard Bertrand Syrah-Carignan Minervois
-316,3662,Red,France,14.99,Rhone Red Blends,90.0,Chateau de Segries Cotes du Rhone
-317,3666,Red,France,14.99,Rhone Red Blends,90.0,Guigal Cotes du Rhone Rouge
-318,3667,Red,France,39.99,Rhone Red Blends,93.0,Tardieu-Laurent Chateauneuf-du-Pape
-319,3668,Red,Italy,19.99,Nebbiolo,90.0,Damilano Marghe Nebbiolo Langhe
-320,3670,Red,Italy,48.99,Nebbiolo,94.0,Massolino Barolo
-321,3671,Red,Italy,28.99,Sangiovese,95.0,Felsina Fontalloro (375ML half-bottle)
-322,3674,Red,Italy,15.99,Sangiovese,90.0,Lamole di Lamole Chianti Classico
-323,3680,Red,Italy,36.99,Other Red Blends,92.0,Accordini Igino Le Bessole Amarone della Valpolicella
-324,3684,Red,Italy,19.99,Other Red Blends,90.0,Allegrini Palazzo della Torre
-325,3688,Red,Italy,44.99,Other Red Wine,92.0,Goretti Sagrantino di Montefalco
-326,3694,Red,Italy,49.99,Other Red Wine,95.0,Masi Costasera Amarone Classico
-327,3695,Red,New Zealand,19.99,Pinot Noir,90.0,Saint Clair Family Estate Pinot Noir
-328,3700,Red,Spain,48.99,Other Red Blends,92.0,Marco Abella Mas Mallola
-329,3708,Red,USA,8.99,Cabernet Sauvignon,88.0,Avalon California Cabernet Sauvignon
-330,3709,Red,USA,99.0,Cabernet Sauvignon,94.0,Groth Reserve Cabernet Sauvignon
-331,3715,Red,USA,13.99,Cabernet Sauvignon,88.0,Noble Vines 337 Lodi Cabernet Sauvignon
-332,3719,Red,USA,19.99,Cabernet Sauvignon,90.0,Oberon Cabernet Sauvignon
-333,3720,Red,USA,135.0,Cabernet Sauvignon,93.0,Quintessa
-334,3727,Red,USA,73.99,Cabernet Sauvignon,93.0,Quintessa (375ML half-bottle)
-335,3733,Red,USA,109.0,Cabernet Sauvignon,95.0,Raymond Generations Cabernet Sauvignon
-336,3737,Red,USA,19.99,Cabernet Sauvignon,89.0,RouteStock Route 29 Cabernet Sauvignon
-337,3738,Red,USA,41.99,Cabernet Sauvignon,93.0,Stonestreet Estate Cabernet Sauvignon
-338,3745,Red,USA,14.99,Merlot,90.0,Bonterra Organically Grown Merlot
-339,3753,Red,USA,15.99,Merlot,91.0,Rays Station Merlot
-340,3758,Red,USA,10.99,Other Red Blends,91.0,Bogle Essential Red
-341,3759,Red,USA,14.99,Other Red Blends,91.0,GIFFT by Kathie Lee Gifford Red Blend
-342,3762,Red,USA,23.99,Pinot Noir,93.0,Byron Santa Maria Pinot Noir
-343,3763,Red,USA,22.99,Pinot Noir,91.0,Cambria Julia's Vineyard Pinot Noir
-344,3769,Red,USA,19.99,Pinot Noir,90.0,Chateau St. Jean Sonoma Coast Pinot Noir
-345,3777,Red,USA,38.99,Pinot Noir,92.0,Dutton Goldfield Dutton Ranch Pinot Noir
-346,3778,Red,USA,9.99,Pinot Noir,90.0,Line 39 Pinot Noir
-347,3784,Red,USA,19.99,Pinot Noir,90.0,Reata Three County Pinot Noir
-348,3790,Red,USA,19.99,Pinot Noir,90.0,Rodney Strong Estate Pinot Noir
-349,3793,Red,USA,16.99,Syrah/Shiraz,93.0,Andrew Murray Tous les Jours Syrah
-350,3794,Red,USA,17.99,Syrah/Shiraz,91.0,Michael David Winery 6th Sense Syrah
-351,3796,Red,USA,19.99,Syrah/Shiraz,92.0,Zaca Mesa Santa Ynez Valley Syrah
-352,3803,Red,USA,18.99,Zinfandel,92.0,Carol Shelton Wild Thing Zinfandel
-353,3809,Red,USA,22.99,Zinfandel,90.0,Decoy Zinfandel
-354,3810,Red,USA,15.99,Zinfandel,92.0,Tierra Divina ZA ZIN
-355,3816,Red,USA,39.99,Cabernet Sauvignon,92.0,L'Ecole 41 Walla Walla Valley Cabernet Sauvignon
-356,3823,Red,USA,24.99,Cabernet Sauvignon,91.0,Seven Hills Winery Columbia Valley Cabernet Sauvignon
-357,3824,Red,USA,17.99,Other Red Blends,91.0,Pendulum Red Blend
-358,3825,Red,USA,15.99,Syrah/Shiraz,90.0,Barnard Griffin Syrah
-359,3827,Red,Argentina,34.99,Bordeaux,92.0,Achaval-Ferrer Quimera
-360,3834,Red,Argentina,39.99,Bordeaux,94.0,Tikal Jubilo
-361,3841,Red,Argentina,17.99,Malbec,92.0,Bodega Norton Malbec Reserva
-362,3842,Red,Argentina,33.99,Malbec,93.0,Luca Malbec
-363,3845,Red,Argentina,10.99,Merlot,88.0,Tilia Merlot
-364,3852,Red,Argentina,19.99,Other Red Blends,91.0,Tikal Patriota
-365,3853,Red,Australia,34.99,Cabernet Sauvignon,93.0,Clarendon Hills Brookman Vineyard Cabernet Sauvignon
-366,3854,Red,Australia,28.99,Cabernet Sauvignon,90.0,Mollydooker The Maitre D' Cabernet Sauvignon
-367,3855,Red,Australia,55.99,Syrah/Shiraz,92.0,Mollydooker Blue Eyed Boy Shiraz
-368,3862,Red,Australia,13.99,Syrah/Shiraz,90.0,Wild Oats Shiraz
-369,3865,Red,Australia,69.99,Syrah/Shiraz,95.0,Two Hands Bella's Garden Shiraz
-370,3866,Red,Australia,14.99,Bordeaux,90.0,Greg Norman Estates Limestone Coast Cabernet/Merlot
-371,3872,Red,Australia,16.99,Cabernet Sauvignon,90.0,Ringbolt Cabernet Sauvignon
-372,3878,Red,Australia,39.99,Grenache,95.0,Clarendon Hills Kangarilla Grenache
-373,3885,Red,Australia,10.99,Rhone Red Blends,89.0,d'Arenberg Stump Jump Red
-374,3891,Red,Australia,44.99,Syrah/Shiraz,95.0,Clarendon Hills Hickinbotham Vineyard Syrah
-375,3892,Red,Australia,78.99,Syrah/Shiraz,94.0,Mollydooker Carnival of Love
-376,3893,Red,Chile,16.99,Bordeaux,89.0,Haras Character Cabernet Sauvignon-Carmenere
-377,3897,Red,Chile,36.99,Bordeaux,93.0,Santa Rita Triple C
-378,3900,Red,Chile,18.99,Cabernet Sauvignon,91.0,Concha y Toro Gran Reserva Serie Riberas Cabernet Sauvignon
-379,3907,Red,Chile,23.99,Cabernet Sauvignon,91.0,Concha y Toro Marques de Casa Concha Cabernet Sauvignon
-380,3908,Red,Chile,9.99,Cabernet Sauvignon,89.0,Veramonte Cabernet Sauvignon
-381,3915,Red,Chile,34.99,Other Red Blends,91.0,Emiliana Coyam (Certified Biodynamic)
-382,3924,Red,Chile,13.99,Syrah/Shiraz,90.0,Vina Bisquertt La Joya Gran Reserva Syrah
-383,3931,Red,France,29.99,Bordeaux,90.0,Chateau Barde Haut
-384,3932,Red,France,59.99,Bordeaux,95.0,Chateau Monbousquet
-385,3939,Red,France,17.99,Rhone Red Blends,90.0,Gerard Bertrand Grand Terroir Pic Saint Loup
-386,3946,Red,France,32.99,Grenache,91.0,Guigal Gigondas Rouge
-387,3954,Red,France,69.99,Rhone Red Blends,93.0,Chateau de Beaucastel Chateauneuf-du-Pape
-388,3955,Red,France,59.99,Rhone Red Blends,95.0,Vieille Julienne Chateauneuf-du-Pape
-389,3961,Red,France,24.99,Syrah/Shiraz,92.0,Maison Nicolas Perrin Crozes-Hermitage
-390,3967,Red,Italy,29.99,Other Red Blends,91.0,Antinori Guado al Tasso Il Bruciato
-391,3972,Red,Italy,12.99,Other Red Blends,90.0,Di Majo Norante Ramitello Rosso
-392,3973,Red,Italy,23.99,Other Red Wine,91.0,Azienda Bisceglia Aglianico del Vulture Gudarra
-393,3981,Red,Italy,15.99,Barbera,90.0,Bel Sit Barbera d'Asti La Turna
-394,3987,Red,Italy,16.99,Merlot,90.0,Castiglion del Bosco Dainero
-395,3993,Red,Italy,21.99,Other Red Blends,90.0,Antinori Villa Toscana
-396,3994,Red,Italy,11.99,Other Red Blends,88.0,Frescobaldi Remole Toscana Rosso
-397,4000,Red,Italy,14.99,Other Red Blends,90.0,Il Molino di Grace Il Volano
-398,4009,Red,Italy,19.99,Other Red Blends,90.0,Querciabella Mongrana
-399,4012,Red,Italy,229.0,Other Red Blends,95.0,Tenuta San Guido Sassicaia
-400,4019,Red,Italy,29.99,Sangiovese,91.0,Avignonesi Vino Nobile di Montepulciano
-401,4028,Red,Italy,11.99,Sangiovese,88.0,Bibi Graetz Casamatta Rosso
-402,4030,Red,Italy,78.99,Sangiovese,96.0,Caparzo Brunello di Montalcino Riserva
-403,4031,Red,Italy,19.99,Sangiovese,91.0,Castiglion del Bosco Rosso di Montalcino
-404,4034,Red,Italy,54.99,Other Red Wine,91.0,Tedeschi Amarone della Valpolicella
-405,4040,Red,Italy,24.99,Other Red Wine,90.0,Tommasi Ripasso Valpolicella
-406,4048,Red,Portugal,19.99,Other Red Blends,93.0,Churchill's Estates Duoro
-407,4049,Red,South Africa,17.99,Bordeaux,90.0,Glen Carlou Grand Classique
-408,4050,Red,South Africa,19.99,Bordeaux,91.0,Mulderbosch Faithful Hound
-409,4056,Red,South Africa,29.99,Cabernet Sauvignon,91.0,Rust en Vrede Cabernet Sauvignon
-410,4062,Red,Spain,19.99,Other Red Blends,92.0,Losada Bierzo
-411,4071,Red,Spain,16.99,Tempranillo,89.0,Bodegas Volver La Mancha Single Vineyard Tempranillo
-412,4080,Red,Spain,14.99,Tempranillo,89.0,Campo Viejo Reserva Rioja
-413,4083,Red,Spain,19.99,Tempranillo,91.0,Conde de Valdemar Rioja Inspiracion
-414,4086,Red,Spain,29.99,Tempranillo,92.0,La Rioja Alta Vina Ardanza Reserva
-415,4087,Red,Spain,12.99,Tempranillo,88.0,Marques de Caceres Rioja Crianza
-416,4090,Red,Spain,15.99,Tempranillo,89.0,Vina Eguia Reserva
-417,4096,Red,Spain,18.99,Tempranillo,90.0,Vina Herminia Rioja Reserva
-418,4102,Red,USA,28.99,Cabernet Sauvignon,90.0,Beringer Knights Valley Cabernet Sauvignon
-419,4103,Red,USA,23.99,Merlot,89.0,Markham Merlot
-420,4107,Red,USA,23.99,Other Red Blends,90.0,Markham Cellar 1879 Napa Valley Red Blend
-421,4114,Red,USA,39.99,Pinot Noir,92.0,Belle Glos Dairyman Vineyard Pinot Noir
-422,4115,Red,USA,39.99,Pinot Noir,93.0,Belle Glos Las Alturas Vineyard Pinot Noir
-423,4116,Red,USA,49.99,Pinot Noir,91.0,Goldeneye Anderson Valley Pinot Noir
-424,4122,Red,USA,22.99,Pinot Noir,88.0,La Crema Monterey Pinot Noir
-425,4123,Red,USA,43.99,Zinfandel,93.0,Seghesio Old Vine Zinfandel
-426,4129,Red,USA,27.99,Pinot Noir,92.0,Adelsheim Pinot Noir
-427,4130,Red,USA,18.99,Pinot Noir,92.0,Adelsheim Pinot Noir (375ML half-bottle)
-428,4131,Red,USA,28.99,Pinot Noir,90.0,Elk Cove Willamette Valley Pinot Noir
-429,4138,Red,USA,33.99,Pinot Noir,90.0,La Crema Willamette Valley Pinot Noir
-430,4141,Red,USA,21.99,Pinot Noir,89.0,Panther Creek Winemaker's Cuvee Pinot Noir
-431,4149,Red,USA,39.99,Pinot Noir,92.0,Ponzi Willamette Valley Pinot Noir
-432,4154,Red,USA,29.99,Pinot Noir,92.0,Roco Willamette Valley Pinot Noir
-433,4155,Red,USA,15.99,Cabernet Sauvignon,88.0,Chateau Ste. Michelle Cabernet Sauvignon
-434,4161,Red,USA,12.99,Cabernet Sauvignon,90.0,Columbia Crest Grand Estates Cabernet Sauvignon
-435,4162,Red,USA,14.99,Cabernet Sauvignon,89.0,Milbrandt Traditions Cabernet Sauvignon
-436,4171,Red,USA,24.99,Cabernet Sauvignon,91.0,Novelty Hill Cabernet Sauvignon
-437,4178,Red,USA,12.99,Merlot,89.0,Columbia Crest Grand Estates Merlot
-438,4185,Red,USA,16.99,Syrah/Shiraz,90.0,Charles Smith Boom Boom Syrah
-439,4191,Red,USA,24.99,Syrah/Shiraz,91.0,Owen Roe Ex Umbris Syrah
-440,4195,Red,Argentina,11.99,Malbec,88.0,Belasco de Baquedano Llama Malbec
-441,4201,Red,New Zealand,17.99,Merlot,91.0,Maimai Merlot
-442,4207,Red,USA,19.99,Bordeaux,91.0,Francis Ford Coppola Diamond Collection Claret
-443,4213,Red,USA,28.99,Cabernet Sauvignon,94.0,DAOU Vineyards Cabernet Sauvignon
-444,4214,Red,USA,41.99,Cabernet Sauvignon,90.0,Rombauer Cabernet Sauvignon
-445,4215,Red,USA,66.99,Cabernet Sauvignon,90.0,Silver Oak Alexander Valley Cabernet Sauvignon
-446,4216,Red,USA,99.99,Cabernet Sauvignon,92.0,Silver Oak Napa Valley Cabernet Sauvignon
-447,4217,Red,USA,29.99,Cabernet Sauvignon,90.0,Wine Spots Napa Cabernet Sauvignon
-448,4225,Red,USA,59.99,Merlot,95.0,Emmolo Merlot
-449,4227,Red,USA,29.99,Merlot,91.0,Swanson Oakville Merlot
-450,4234,Red,USA,54.99,Merlot,90.0,Twomey Cellars by Silver Oak Merlot
-451,4235,Red,USA,8.99,Other Red Wine,91.0,Heliotrope Winery Red Moscato
-452,4242,Red,USA,34.99,Pinot Noir,90.0,Davis Bynum Jane's Vineyard Pinot Noir
-453,4249,Red,USA,15.99,Zinfandel,88.0,Cline Ancient Vines Zinfandel
-454,4257,Red,USA,19.99,Zinfandel,90.0,Zinfandelic Sierra Foothills Old Vine Zinfandel
-455,4359,Rose,Australia,9.99,Ros√©,92.0,Angove Family Winemakers Nine Vines Rose
-456,4365,Rose,France,79.99,Ros√© Sparkling Wine,94.0,Billecart-Salmon Brut Rose
-457,4371,Rose,France,46.99,Ros√© Sparkling Wine,94.0,Billecart-Salmon Brut Rose (375ML half-bottle)
-458,4373,Rose,Chile,10.99,Ros√©,90.0,Los Vascos Rose
-459,4380,Rose,France,44.99,Ros√©,90.0,Miraval Rose (1.5 Liter Magnum)
-460,4389,Rose,Spain,17.99,Ros√© Sparkling Wine,90.0,Juve Y Camps Rose Brut Cava
-461,4396,Rose,Australia,10.99,Ros√©,90.0,Innocent Bystander Pink Moscato (375ML half-bottle) 2014
-462,4399,Rose,France,15.99,Ros√©,88.0,Domaine de Triennes Rose
-463,4405,Rose,USA,8.99,Ros√©,88.0,Bonny Doon Vin Gris de Cigare
-464,4411,Rose,France,72.99,Ros√© Sparkling Wine,91.0,Veuve Clicquot Rose
-465,4418,Rose,France,19.99,Ros√©,92.0,Domaines Ott Les Domaniers Cotes de Provence Rose
-466,4424,Rose,USA,14.99,Ros√© Sparkling Wine,90.0,Korbel Brut Rose
-467,4430,Rose,France,68.99,Ros√© Sparkling Wine,90.0,Moet & Chandon Rose Imperial
-468,4433,Rose,France,94.99,Ros√© Sparkling Wine,92.0,Veuve Clicquot Brut Rose
-469,4442,Rose,USA,26.99,Ros√© Sparkling Wine,92.0,Roederer Estate Brut Rose
-470,4450,Rose,USA,13.99,Ros√©,91.0,Charles & Charles Rose 2014
-471,4665,Sparkling,France,219.99,Vintage Sparkling Wine,97.0,Louis Roederer Cristal Brut
-472,4671,Sparkling,France,149.99,Vintage Sparkling Wine,95.0,Veuve Clicquot La Grande Dame
-473,4672,Sparkling,South Africa,14.99,Non-Vintage Sparkling Wine,90.0,Graham Beck Brut Methode Cap Classique
-474,4674,Sparkling,France,195.0,Vintage Sparkling Wine,98.0,Dom Perignon Limited Edition Metamorphosis in Gift Box
-475,4680,Sparkling,Italy,17.99,Non-Vintage Sparkling Wine,90.0,Nino Franco Rustico Prosecco
-476,4686,Sparkling,Italy,12.99,Non-Vintage Sparkling Wine,88.0,Zardetto Brut Private Cuvee Prosecco
-477,4693,Sparkling,Spain,17.99,Non-Vintage Sparkling Wine,92.0,Bodegas Botani Sparkling Muscat
-478,4697,Sparkling,France,34.99,Non-Vintage Sparkling Wine,92.0,Moet & Chandon Imperial (375ML half-bottle)
-479,4700,Sparkling,Italy,12.99,Non-Vintage Sparkling Wine,91.0,Menage a Trois Prosecco
-480,4707,Sparkling,France,54.99,Non-Vintage Sparkling Wine,90.0,Veuve Clicquot Brut Yellow Label with Ice Jacket
-481,4710,Sparkling,Italy,14.99,Non-Vintage Sparkling Wine,90.0,Adami Prosecco Garbel 13
-482,4716,Sparkling,Italy,12.99,Non-Vintage Sparkling Wine,88.0,Mionetto Il Lambrusco
-483,4725,Sparkling,Italy,12.99,Non-Vintage Sparkling Wine,88.0,Valdo Prosecco
-484,4730,Sparkling,Spain,11.99,Non-Vintage Sparkling Wine,88.0,Segura Viudas Aria Brut Cava
-485,4733,Sparkling,France,19.99,Non-Vintage Sparkling Wine,90.0,Lucien Albrecht Cremant d'Alsace Brut
-486,4736,Sparkling,France,134.99,Non-Vintage Sparkling Wine,97.0,Laurent-Perrier Grand Siecle
-487,4745,Sparkling,Italy,19.99,Non-Vintage Sparkling Wine,90.0,Berlucchi Cuvee 61 Brut
-488,4752,Sparkling,USA,19.99,Non-Vintage Sparkling Wine,89.0,Domaine Chandon Blanc de Noirs
-489,4758,Sparkling,USA,26.99,Non-Vintage Sparkling Wine,93.0,Domaine Chandon Etoile
-490,4761,Sparkling,USA,21.99,Non-Vintage Sparkling Wine,90.0,Gloria Ferrer Brut
-491,4765,Sparkling,USA,26.99,Non-Vintage Sparkling Wine,91.0,J Vineyards & Winery Cuvee 20 Brut
-492,4766,Sparkling,USA,18.99,Non-Vintage Sparkling Wine,91.0,Mumm Napa Cuvee M
-493,4772,Sparkling,USA,14.99,Non-Vintage Sparkling Wine,92.0,Roederer Estate Brut (375ML half-bottle)
-494,4778,Sparkling,France,75.99,Non-Vintage Sparkling Wine,93.0,Bollinger Brut Special Cuvee
-495,4784,Sparkling,France,39.99,Non-Vintage Sparkling Wine,92.0,Gosset Brut Excellence
-496,4785,Sparkling,France,35.99,Non-Vintage Sparkling Wine,92.0,Mumm Brut Cordon Rouge
-497,4786,Sparkling,France,52.99,Non-Vintage Sparkling Wine,91.0,Perrier-Jouet Grand Brut
-498,4787,Sparkling,France,129.99,Non-Vintage Sparkling Wine,90.0,Veuve Clicquot Brut Yellow Label (1.5 Liter Magnum)
-499,4790,Sparkling,France,95.0,Vintage Sparkling Wine,93.0,Veuve Clicquot Vintage Brut
-500,4797,Sparkling,Spain,12.99,Non-Vintage Sparkling Wine,87.0,Freixenet Sparkling Cordon Negro Brut Cava
-501,4803,Sparkling,USA,18.99,Non-Vintage Sparkling Wine,91.0,Mumm Napa Brut Prestige
-502,4809,Sparkling,USA,29.99,Vintage Sparkling Wine,90.0,Domaine Carneros Brut
-503,4811,Sparkling,USA,19.99,Vintage Sparkling Wine,91.0,Gloria Ferrer Brut Royal Cuvee
-504,4812,Sparkling,USA,18.99,Non-Vintage Sparkling Wine,90.0,Gruet Blanc de Noirs
-505,4821,Sparkling,USA,15.99,Non-Vintage Sparkling Wine,89.0,Gruet Brut
-506,6054,White,Spain,18.99,Albarino,93.0,Pazo de Barrantes Albarino
-507,6055,White,USA,38.99,Chardonnay,91.0,Jordan Chardonnay
-508,6056,White,Australia,19.99,Semillon,94.0,Brokenwood Semillon
-509,6057,White,Australia,25.99,Chardonnay,96.0,Robert Oatley Finisterre Chardonnay
-510,6061,White,Australia,16.99,Riesling,95.0,Pewsey Vale Eden Valley Riesling 2014
-511,6067,White,Chile,10.99,Chardonnay,90.0,Los Vascos Chardonnay
-512,6073,White,Chile,17.99,Sauvignon Blanc,93.0,Ritual Casablanca Valley Sauvignon Blanc
-513,6079,White,France,28.99,Sauvignon Blanc,95.0,Les Hauts de Smith Blanc
-514,6082,White,Italy,22.99,Pinot Gris/Grigio,92.0,Terlano Pinot Grigio
-515,6088,White,New Zealand,14.99,Sauvignon Blanc,90.0,Forrest Estate The Doctors' Sauvignon Blanc
-516,6097,White,Argentina,14.99,Torrontes,92.0,Domingo Molina Hermanos Torrontes
-517,6100,White,France,12.99,Other White Blends,90.0,Domaine Lafage Vin du Pays Cote d'Est
-518,6107,White,France,34.99,Sauvignon Blanc,94.0,Alphonse Mellot Sancerre Blanc Le Moussiere
-519,6109,White,New Zealand,71.99,Chardonnay,95.0,Pyramid Valley Lions Tooth Chardonnay
-520,6115,White,South Africa,9.99,Chenin Blanc,90.0,The Royal Chenin Blanc Old Vine Steen
-521,6122,White,Spain,25.99,Sherry,96.0,Alvear Pedro Ximinez 1927 (375ML half-bottle)
-522,6128,White,Spain,27.99,Sherry,96.0,Emilio Lustau East India Solera
-523,6137,White,Spain,16.99,Sherry,93.0,Emilio Lustau Solera Reserva los Arcos Dry Amontillado Sherry
-524,6144,White,Spain,13.99,Other White Blends,90.0,Telmo Rodriguez Basa White
-525,6147,White,USA,34.99,Chardonnay,91.0,Beringer Luminus Chardonnay
-526,6153,White,USA,29.99,Chardonnay,92.0,Kendall-Jackson Jackson Estate Camelot Highlands Chardonnay
-527,6160,White,USA,24.99,Chardonnay,90.0,Matanzas Creek Chardonnay
-528,6163,White,USA,52.99,Chardonnay,94.0,Newton Unfiltered Chardonnay
-529,6169,White,USA,34.99,Chardonnay,91.0,Ramey Russian River Chardonnay
-530,6172,White,USA,35.99,Chardonnay,93.0,Stonestreet Estate Chardonnay
-531,6178,White,USA,29.99,Other White Blends,90.0,The Prisoner Wine Company Blindfold
-532,6184,White,USA,13.99,Petite Sirah,90.0,Spellbound Petite Sirah
-533,6185,White,New Zealand,17.99,Sauvignon Blanc,91.0,Goldwater Sauvignon Blanc
-534,6191,White,Spain,15.99,Albarino,89.0,Columna Albarino
-535,6193,White,Spain,15.99,Albarino,90.0,Burgans Albarino
-536,6200,White,Spain,17.99,Albarino,91.0,La Cana Albarino
-537,6206,White,Spain,14.99,Albarino,91.0,Pazo de Galegos Albarino
-538,6212,White,USA,59.99,Chardonnay,91.0,Chasseur Lorenzo Chardonnay
-539,6219,White,USA,62.99,Chardonnay,91.0,Rochioli Chardonnay
-540,6226,White,Germany,12.99,Riesling,90.0,August Kesseler R Riesling Kabinett
-541,6232,White,Italy,19.99,Other White Blends,90.0,Feudi di San Gregorio Fiano di Avellino
-542,6239,White,Italy,17.99,Pinot Gris/Grigio,90.0,Pighin Pinot Grigio
-543,6240,White,New Zealand,14.99,Riesling,92.0,Forrest Estate The Doctors' Riesling
-544,6246,White,USA,19.99,Chardonnay,90.0,Gundlach Bundschu Chardonnay
-545,6252,White,USA,14.99,Chardonnay,90.0,High Flyer Sierra Madre Chardonnay
-546,6261,White,USA,12.99,Chardonnay,90.0,Moobuzz Monterey Chardonnay
-547,6263,White,USA,31.99,Chardonnay,89.0,Stag's Leap Wine Cellars KARIA Chardonnay
-548,6271,White,USA,23.99,Chardonnay,90.0,William Hill Napa Valley Chardonnay
-549,6277,White,USA,12.99,Petite Sirah,92.0,The Crusher Petite Sirah
-550,6278,White,USA,15.99,Pinot Blanc,91.0,Valley of the Moon Pinot Blanc
-551,6281,White,USA,29.99,Sauvignon Blanc,90.0,Grgich Hills Fume Blanc
-552,6285,White,USA,19.99,Sauvignon Blanc,91.0,Matanzas Creek Sauvignon Blanc
-553,6294,White,USA,10.99,Sauvignon Blanc,91.0,Matanzas Creek Sauvignon Blanc (375ML half-bottle)
-554,6302,White,USA,19.99,Sauvignon Blanc,90.0,Schug Sauvignon Blanc
-555,6309,White,USA,13.99,Viognier,88.0,Bonterra Organically Grown Viognier
-556,6317,White,USA,17.99,Riesling,92.0,Chateau Ste. Michelle Cold Creek Vineyard Riesling
-557,6318,White,France,54.99,Chardonnay,89.0,Louis Jadot Chassagne-Montrachet
-558,6321,White,France,29.99,Chardonnay,89.0,William Fevre Chablis Domaine
-559,6329,White,Italy,18.99,Chardonnay,90.0,Frescobaldi Pomino Chardonnay
-560,6332,White,USA,28.99,Chardonnay,93.0,Dierberg Chardonnay
-561,6340,White,USA,25.99,Chardonnay,92.0,Melville Estate Chardonnay
-562,6347,White,Chile,17.99,Sauvignon Blanc,91.0,Errazuriz Max Reserva Sauvignon Blanc
-563,6353,White,Chile,10.99,Sauvignon Blanc,90.0,Los Vascos Sauvignon Blanc 2014
-564,6359,White,Chile,18.99,Sauvignon Blanc,91.0,Vina Maipo Vitral Sauvignon Blanc
-565,6363,White,South Africa,14.99,Chenin Blanc,90.0,Badenhorst Secateurs Chenin Blanc
-566,6369,White,USA,45.99,Chardonnay,93.0,Flowers Sonoma Coast Chardonnay
-567,6370,White,USA,23.99,Chardonnay,90.0,Landmark Overlook Chardonnay
-568,6375,White,USA,23.99,Chardonnay,94.0,Thomas Fogarty Santa Cruz Mountains Chardonnay
-569,6378,White,USA,10.99,Petite Sirah,89.0,Bogle Petite Sirah
-570,6385,White,USA,19.99,Petite Sirah,94.0,Parducci True Grit Petite Sirah
-571,6386,White,USA,39.99,Petite Sirah,91.0,Stags' Leap Winery Petite Sirah
-572,6392,White,USA,16.99,Pinot Gris/Grigio,90.0,Erath Pinot Gris
-573,6400,White,Austria,17.99,Gruner Veltliner,90.0,Loimer Lois Gruner Veltliner
-574,6408,White,France,19.99,Bordeaux,91.0,Chateau Couhins Blanc
-575,6414,White,France,67.99,Chardonnay,94.0,Chateau Fuisse Les Combettes Pouilly-Fuisse
-576,6416,White,France,31.99,Chardonnay,93.0,Simonnet-Febvre Chablis Premier Cru Vaillons
-577,6419,White,France,31.99,Sauvignon Blanc,90.0,Chateau de Sancerre
-578,6427,White,Greece,17.99,Other White Wine,90.0,Boutari Moschofilero
-579,6434,White,New Zealand,18.99,Sauvignon Blanc,90.0,Nautilus Sauvignon Blanc
-580,6440,White,New Zealand,13.99,Sauvignon Blanc,90.0,Wither Hills Sauvignon Blanc
-581,6446,White,USA,19.99,Chardonnay,91.0,DeLoach Russian River Chardonnay
-582,6452,White,USA,15.99,Chardonnay,90.0,Rutherford Ranch Chardonnay
-583,6453,White,USA,15.99,Chardonnay,90.0,Wente Morning Fog Chardonnay
-584,6455,White,USA,26.99,Petite Sirah,92.0,Michael David Winery Earthquake Petite Sirah
-585,6461,White,USA,24.99,Sauvignon Blanc,92.0,Hall Napa Valley Sauvignon Blanc
-586,6467,White,USA,14.99,Sauvignon Blanc,89.0,Honig Sauvignon Blanc
-587,6470,White,USA,19.99,Sauvignon Blanc,91.0,Merryvale Starmont Sauvignon Blanc
-588,6476,White,USA,19.99,Pinot Gris/Grigio,90.0,WillaKenzie Estate Pinot Gris
-589,6480,White,USA,14.99,Riesling,89.0,Willamette Valley Vineyards Riesling
-590,6483,White,USA,14.99,Chardonnay,90.0,Boomtown by Dusted Valley Chardonnay
-591,6486,White,USA,15.99,Chenin Blanc,92.0,L'Ecole 41 Chenin Blanc
-592,6487,White,USA,12.99,Pinot Gris/Grigio,89.0,Chateau Ste. Michelle Pinot Gris
-593,6493,White,USA,10.99,Riesling,88.0,Pacific Rim Riesling
-594,6502,White,USA,21.99,Riesling,93.0,Poet's Leap Riesling
-595,6508,White,USA,16.99,Sauvignon Blanc,90.0,Chateau Ste. Michelle Horse Heaven Vineyard Sauvignon Blanc
-596,6514,White,Argentina,18.99,Chardonnay,89.0,Catena Chardonnay
-597,6519,White,Australia,10.99,Chardonnay,89.0,Shoofly Chardonnay
-598,6528,White,Australia,14.99,Chardonnay,90.0,Wild Oats Chardonnay
-599,6534,White,Chile,11.99,Sauvignon Blanc,88.0,Concha y Toro Casillero del Diablo Sauvignon Blanc
-600,6540,White,France,19.99,Gewurztraminer,90.0,Trimbach Gewurztraminer
-601,6547,White,France,19.99,Rhone White Blends,90.0,Michel Gassier Costieres de Nimes Nostre Pais White
-602,6550,White,France,17.99,Chenin Blanc,91.0,Guy Saget Vouvray Marie de Beauregard
-603,6556,White,Italy,21.99,Muscat,89.0,Ceretto Santo Stefano Moscato d'Asti
-604,6557,White,New Zealand,22.99,Sauvignon Blanc,90.0,Astrolabe Province Sauvignon Blanc
-605,6558,White,New Zealand,17.99,Sauvignon Blanc,90.0,Saint Clair Family Estate Sauvignon Blanc
-606,6564,White,South Africa,18.99,Chardonnay,90.0,De Wetshof Bon Vallon Chardonnay
-607,6565,White,South Africa,15.99,Sauvignon Blanc,90.0,Bayten Buitenverwachting Sauvignon Blanc
-608,6571,White,Spain,14.99,Other White Blends,90.0,Cune Monopole
-609,6577,White,USA,24.99,Sauvignon Blanc,90.0,Round Pond Sauvignon Blanc
-610,6578,White,USA,18.99,Pinot Gris/Grigio,90.0,Solena Estate Pinot Gris
-611,6580,White,USA,24.99,Viognier,90.0,K Vintners Viognier
-612,6583,White,Chile,7.99,Chardonnay,89.0,La Playa Estate Un-Oaked Chardonnay 2014
-613,6589,White,Italy,13.99,Pinot Gris/Grigio,90.0,Masi Masianco Pinot Grigio/Verduzzo
-614,6591,White,New Zealand,14.99,Sauvignon Blanc,90.0,Yealands Sauvignon Blanc 2014
-615,6597,White,USA,29.99,Chardonnay,90.0,Pine Ridge Dijon Clone Carneros Chardonnay
-616,6601,White,USA,19.99,Chardonnay,90.0,Rodney Strong Chalk Hill Chardonnay
-617,6607,White,USA,15.99,Sauvignon Blanc,91.0,Rodney Strong Charlotte's Home Sauvignon Blanc
+,index,Wine Type,Country,Final Price,Grape Variety,Rating Score,Wine Name,alcohol_percent,food_pairing
+0,32,Dessert,Australia,19.99,Port,92.0,Yalumba Antique Reserve Tawny Port (375ML half-bottle),0,
+1,39,Dessert,Portugal,29.99,Port,93.0,Taylor Fladgate 10 Year Old Tawny,0,
+2,42,Dessert,Australia,18.99,Other Dessert,94.0,Yalumba Museum Reserve Muscat (375ML half-bottle),0,
+3,45,Dessert,Portugal,51.99,Port,95.0,Taylor Fladgate 20 Year Old Tawny,0,
+4,49,Dessert,Portugal,17.99,Port,91.0,Quinta do Noval Noval Black,0,
+5,55,Dessert,Portugal,16.99,Port,90.0,Warre's Warrior Port,0,
+6,59,Dessert,France,24.99,Other Dessert,97.0,Chateau Doisy Vedrines Sauternes (375ML half-bottle),0,
+7,65,Dessert,USA,12.99,Port,93.0,Terra d'Oro Zinfandel Port (375ML half-bottle),0,
+8,68,Dessert,France,59.99,Other Dessert,96.0,Chateau Rieussec Sauternes,0,
+9,71,Dessert,Portugal,12.99,Port,90.0,Croft Fine Ruby,0,
+10,78,Dessert,Portugal,19.99,Port,90.0,Fonseca Bin No. 27 Port,0,
+11,84,Dessert,Portugal,18.99,Port,90.0,Fonseca Bin No. 27 Port Limited Edition Artist Series,0,
+12,87,Dessert,Portugal,22.99,Port,93.0,Fonseca Late Bottled Vintage,0,
+13,2355,Red,France,39.99,Pinot Noir,91.0,Bouchard Pere & Fils Beaune de Chateau Premier Cru Rouge,0,
+14,2364,Red,Argentina,14.99,Cabernet Sauvignon,95.0,Antucura Cabernet Sauvignon,0,
+15,2365,Red,Australia,32.99,Syrah/Shiraz,96.0,John Duval Entity Shiraz,0,
+16,2366,Red,Chile,13.99,Syrah/Shiraz,93.0,Falernia Syrah Reserva,0,
+17,2367,Red,Italy,17.99,Other Red Blends,95.0,Brancaia Tre,0,
+18,2368,Red,Italy,28.99,Sangiovese,95.0,Fattorie Melini Chianti Classico Riserva La Selvanella,0,
+19,2369,Red,Italy,28.99,Sangiovese,93.0,Querciabella Chianti Classico,0,
+20,2376,Red,New Zealand,38.99,Pinot Noir,96.0,Greywacke Pinot Noir Marlborough,0,
+21,2382,Red,Spain,25.99,Tempranillo,93.0,Bodegas Muga Reserva,0,
+22,2383,Red,Spain,16.99,Tempranillo,93.0,Bodegas Muga Reserva (375ML half-bottle),0,
+23,2385,Red,Spain,16.99,Tempranillo,95.0,Bodegas Muriel Reserva,0,
+24,2386,Red,Spain,14.99,Tempranillo,90.0,Cune Crianza,0,
+25,2387,Red,Spain,27.99,Tempranillo,93.0,Finca Allende,0,
+26,2396,Red,USA,59.99,Cabernet Sauvignon,95.0,Trinchero Cloud's Nest Vineyard Cabernet Sauvignon,0,
+27,2397,Red,USA,23.99,Other Red Blends,93.0,Sean Thackrey Pleiades XXIII Old Vines Red Blend,0,
+28,2404,Red,USA,9.99,Other Red Wine,90.0,J. Lohr Wildflower Valdiguie,0,
+29,2411,Red,USA,24.99,Pinot Noir,92.0,Hahn Estates Santa Lucia Highlands Pinot Noir,0,
+30,2412,Red,Australia,33.99,Cabernet Sauvignon,95.0,Heartland Director's Cut Cabernet Sauvignon,0,
+31,2418,Red,Australia,21.99,Other Red Blends,93.0,Pepperjack Barossa Red Blend,0,
+32,2425,Red,Australia,39.99,Rhone Red Blends,94.0,Torbreck The Steading,0,
+33,2434,Red,Australia,25.99,Syrah/Shiraz,93.0,Elderton Shiraz,0,
+34,2440,Red,Australia,29.99,Syrah/Shiraz,93.0,Two Hands Gnarly Dudes Shiraz,0,
+35,2447,Red,Australia,19.99,Syrah/Shiraz,94.0,Yalumba Barossa Patchwork Shiraz,0,
+36,2454,Red,Australia,15.99,Syrah/Shiraz,92.0,Yalumba The Guardian Shiraz Viognier,0,
+37,2457,Red,Australia,12.99,Cabernet Sauvignon,91.0,Jacob's Creek Reserve Cabernet Sauvignon,0,
+38,2458,Red,Australia,19.99,Cabernet Sauvignon,92.0,Penley Estate Phoenix Cabernet Sauvignon,0,
+39,2459,Red,Australia,34.99,Cabernet Sauvignon,96.0,Wynns Coonawarra Estate Black Label Cabernet Sauvignon,0,
+40,2460,Red,Australia,24.99,Cabernet Sauvignon,94.0,Yalumba The Cigar Cabernet Sauvignon,0,
+41,2462,Red,Australia,29.99,Cabernet Sauvignon,96.0,Robert Oatley Finisterre Cabernet Sauvignon,0,
+42,2463,Red,Australia,18.99,Cabernet Sauvignon,92.0,Robert Oatley Signature Cabernet Sauvignon,0,
+43,2464,Red,Australia,33.99,Cabernet Sauvignon,95.0,Two Hands Sexy Beast Cabernet Sauvignon,0,
+44,2465,Red,Australia,44.99,Grenache,94.0,Twelftree Blewitt Springs Grenache,0,
+45,2471,Red,Australia,19.99,Syrah/Shiraz,89.0,d'Arenberg Footbolt Shiraz,0,
+46,2479,Red,Australia,15.99,Syrah/Shiraz,90.0,Red Knot Shiraz,0,
+47,2482,Red,Australia,18.99,Syrah/Shiraz,93.0,Robert Oatley McLaren Vale Shiraz,0,
+48,2485,Red,Australia,17.99,Pinot Noir,91.0,Innocent Bystander Pinot Noir,0,
+49,2491,Red,Argentina,14.99,Bordeaux,94.0,Dona Paula Black Label Red Blend,0,
+50,2492,Red,Argentina,19.99,Cabernet Sauvignon,92.0,Susana Balbo Signature Cabernet Sauvignon,0,
+51,2493,Red,Argentina,18.99,Malbec,92.0,Altocedro Ano Cero Malbec,0,
+52,2501,Red,Argentina,14.99,Malbec,93.0,Dona Paula Estate Malbec,0,
+53,2502,Red,Argentina,19.99,Malbec,93.0,Susana Balbo Signature Malbec,0,
+54,2503,Red,Argentina,19.99,Other Red Blends,92.0,Clos de los Siete Super Red Blend,0,
+55,2504,Red,Chile,89.99,Bordeaux,97.0,Lapostolle Clos Apalta,0,
+56,2507,Red,Chile,17.99,Cabernet Sauvignon,91.0,Los Vascos Grande Reserve Cabernet Sauvignon,0,
+57,2514,Red,Chile,19.99,Cabernet Sauvignon,89.0,Montes Alpha Series Cabernet Sauvignon,0,
+58,2517,Red,Chile,13.99,Cabernet Sauvignon,92.0,Santa Ema Reserve Cabernet Sauvignon,0,
+59,2524,Red,Chile,18.99,Cabernet Sauvignon,92.0,Vina Ventisquero Cabernet Sauvignon Grey Single Block Vineyard,0,
+60,2530,Red,Chile,15.99,Carmenere,93.0,Apaltagua Envero Carmenere,0,
+61,2536,Red,France,18.99,Bordeaux,91.0,Ch. Beaumont Haut Medoc,0,
+62,2537,Red,France,19.99,Bordeaux,91.0,Chateau Baret,0,
+63,2546,Red,France,25.99,Bordeaux,93.0,Chateau Clos des Jacobins (Futures Pre-sale),0,
+64,2554,Red,France,339.0,Bordeaux,100.0,Chateau Ducru Beaucaillou,0,
+65,2560,Red,France,19.99,Bordeaux,92.0,Chateau Fourcas Dupre,0,
+66,2569,Red,France,34.99,Bordeaux,93.0,Chateau Franc Mayne,0,
+67,2571,Red,France,49.99,Bordeaux,93.0,Chateau la Vieille Cure (1.5L Magnum),0,
+68,2577,Red,France,189.0,Bordeaux,98.0,Chateau Lynch-Bages,0,
+69,2586,Red,France,12.99,Bordeaux,92.0,Chateau Marsau Cotes de Francs (375ML half-bottle),0,
+70,2588,Red,France,39.99,Bordeaux,95.0,Chateau Olivier,0,
+71,2594,Red,France,145.0,Bordeaux,98.0,Chateau Rauzan Segla,0,
+72,2600,Red,France,59.99,Bordeaux,96.0,Clos du Marquis,0,
+73,2606,Red,France,89.99,Bordeaux,97.0,Domaine de Chevalier,0,
+74,2614,Red,Italy,12.99,Other Red Blends,90.0,Fattoria del Cerro Rosso di Montepulciano,0,
+75,2615,Red,Italy,15.99,Other Red Wine,91.0,Zaccagnini Il Vino Dal Tralcetto Montepulciano d'Abruzzo,0,
+76,2616,Red,Italy,34.99,Nebbiolo,93.0,Rocche Costamagna Barolo Rocche dell'Annunziata,0,
+77,2622,Red,Italy,19.99,Nero d'Avola,91.0,Tasca d'Almerita Lamuri Nero d'Avola Sicilia,0,
+78,2629,Red,Italy,99.0,Other Red Blends,95.0,Antinori Guado al Tasso,0,
+79,2635,Red,Italy,12.99,Other Red Blends,90.0,Banfi Centine Toscana,0,
+80,2644,Red,Italy,28.99,Other Red Blends,92.0,Luce Della Vite Lucente,0,
+81,2650,Red,Italy,11.99,Other Red Blends,90.0,Monte Antico Rosso,0,
+82,2651,Red,Italy,16.99,Other Red Blends,90.0,Tenuta La Badiola 642 Maremma Toscana,0,
+83,2654,Red,Italy,64.99,Other Red Blends,97.0,Tenuta Sette Ponti Oreno,0,
+84,2655,Red,Italy,99.99,Sangiovese,98.0,Bibi Graetz Testamatta,0,
+85,2656,Red,Italy,19.99,Sangiovese,92.0,Borgo Scopeto Borgonero,0,
+86,2662,Red,Italy,16.99,Sangiovese,90.0,Borgo Scopeto Chianti Classico,0,
+87,2663,Red,Italy,36.99,Sangiovese,95.0,Caparzo Brunello di Montalcino,0,
+88,2664,Red,Italy,77.99,Sangiovese,93.0,Casanova di Neri Brunello di Montalcino Tenuta Nuova,0,
+89,2672,Red,Italy,24.99,Sangiovese,93.0,Castello di Querceto Chianti Classico Riserva,0,
+90,2673,Red,Italy,49.99,Sangiovese,91.0,Fattoria dei Barbi Brunello di Montalcino,0,
+91,2679,Red,Italy,13.99,Sangiovese,90.0,Fattoria del Cerro Chianti Colli Senesi,0,
+92,2685,Red,Italy,19.99,Sangiovese,91.0,Frescobaldi Nipozzano Chianti Rufina Riserva,0,
+93,2686,Red,Italy,59.99,Sangiovese,95.0,Gianni Brunelli Brunello di Montalcino,0,
+94,2687,Red,Italy,51.99,Sangiovese,97.0,La Serena Brunello di Montalcino,0,
+95,2688,Red,Italy,24.99,Sangiovese,92.0,Tenuta di Nozzole Chianti Classico Riserva,0,
+96,2690,Red,Italy,49.99,Sangiovese,92.0,Tenute Silvio Nardi Brunello di Montalcino,0,
+97,2693,Red,Italy,239.0,Sangiovese,99.0,Valdicava Brunello di Montalcino (1.5 Liter Magnum),0,
+98,2700,Red,New Zealand,57.99,Pinot Noir,95.0,Escarpment Kiwa Pinot Noir,0,
+99,2706,Red,New Zealand,59.99,Pinot Noir,97.0,Escarpment Pahi Pinot Noir,0,
+100,2707,Red,USA,69.99,Cabernet Sauvignon,91.0,Duckhorn Napa Cabernet Sauvignon,0,
+101,2714,Red,USA,99.0,Cabernet Sauvignon,93.0,Stag's Leap Wine Cellars Fay Vineyard Cabernet Sauvignon,0,
+102,2720,Red,USA,19.99,Pinot Noir,92.0,Schug Sonoma Coast Pinot Noir,0,
+103,2721,Red,Argentina,16.99,Cabernet Sauvignon,90.0,Catena Cabernet Sauvignon,0,
+104,2729,Red,Argentina,24.99,Malbec,90.0,Luigi Bosca Malbec,0,
+105,2736,Red,Argentina,18.99,Malbec,92.0,TintoNegro Limestone Block Malbec,0,
+106,2737,Red,Argentina,13.99,Malbec,91.0,TintoNegro Uco Valley-Mendoza Malbec,0,
+107,2738,Red,Argentina,33.99,Pinot Noir,91.0,Luca Pinot Noir,0,
+108,2746,Red,Australia,59.99,Cabernet Sauvignon,90.0,Mollydooker Gigglepot Cabernet Sauvignon,0,
+109,2749,Red,Australia,16.99,Other Red Blends,90.0,Heartland Spice Trader Shiraz Cabernet Sauvignon,0,
+110,2756,Red,Australia,27.99,Cabernet Sauvignon,91.0,Langmeil The Blacksmith Cabernet Sauvignon,0,
+111,2758,Red,Australia,19.99,Rhone Red Blends,91.0,Rustom Farm Pughouse Shiraz Grenache,0,
+112,2765,Red,Australia,29.99,Syrah/Shiraz,92.0,Penfolds Kalimna Bin 28 Shiraz,0,
+113,2767,Red,Australia,149.0,Syrah/Shiraz,99.0,Clarendon Hills Astralis Syrah,0,
+114,2780,Red,Chile,26.99,Pinot Noir,93.0,Matetic EQ Pinot Noir,0,
+115,2781,Red,France,17.99,Other Red Blends,91.0,Locations by Dave Phinney F-2,0,
+116,2782,Red,France,129.0,Bordeaux,95.0,Chateau Gracia,0,
+117,2785,Red,France,64.99,Bordeaux,95.0,Chateau Larcis-Ducasse,0,
+118,2794,Red,France,249.0,Bordeaux,100.0,Chateau Leoville Poyferre,0,
+119,2795,Red,France,269.0,Bordeaux,100.0,Chateau Montrose,0,
+120,2798,Red,France,79.99,Bordeaux,95.0,Chateau Pape Clement (Futures Pre-sale),0,
+121,2801,Red,France,13.99,Rhone Red Blends,91.0,Bila-Haut by Michel Chapoutier Bila-Haut Cotes du Roussillon-Villages,0,
+122,2802,Red,France,29.99,Rhone Red Blends,94.0,Bila-Haut by Michel Chapoutier Occultum Lapidem,0,
+123,2805,Red,France,22.99,Rhone Red Blends,93.0,Domaine de Mourchon Cotes du Rhone Villages Seguret Grande Reserve,0,
+124,2813,Red,France,64.99,Rhone Red Blends,96.0,Vieille Julienne Chateauneuf-du-Pape Les Trois Sources,0,
+125,2821,Red,Italy,17.99,Other Red Blends,90.0,Locations by Dave Phinney I-1,0,
+126,2827,Red,Italy,59.99,Nebbiolo,95.0,Pio Cesare Barolo,0,
+127,2828,Red,Italy,45.99,Cabernet Sauvignon,93.0,Mazzei Philip Cabernet Sauvignon,0,
+128,2839,Red,Italy,35.99,Sangiovese,94.0,Castello di Bossi Chianti Classico Riserva Berardo,0,
+129,2845,Red,Italy,22.99,Sangiovese,92.0,Felsina Berardenga Chianti Classico,0,
+130,2848,Red,Italy,15.99,Sangiovese,91.0,Felsina Berardenga Chianti Classico (375ML half-bottle),0,
+131,2854,Red,Italy,48.99,Sangiovese,95.0,Felsina Chianti Classico Riserva Rancia,0,
+132,2860,Red,New Zealand,71.99,Pinot Noir,95.0,Pyramid Valley Angel Flower Pinot Noir,0,
+133,2861,Red,New Zealand,39.99,Cabernet Franc,92.0,Pyramid Valley Howell Cabernet Franc,0,
+134,2862,Red,South Africa,46.99,Pinot Noir,94.0,Hamilton Russell Pinot Noir,0,
+135,2868,Red,Spain,12.99,Grenache,90.0,Espelt Garnacha Old Vines,0,
+136,2874,Red,Spain,9.99,Grenache,89.0,Evodia Old Vine Grenache,0,
+137,2875,Red,Spain,11.99,Mourvedre,90.0,Bodegas Castano Hecula,0,
+138,2888,Red,Spain,15.99,Mourvedre,92.0,Vinos Sin-Ley Monastrell,0,
+139,2896,Red,Spain,15.99,Other Red Blends,94.0,Bodegas Castano Solanera,0,
+140,2897,Red,Spain,16.99,Other Red Blends,92.0,Bodegas Zerran Tinto,0,
+141,2898,Red,Spain,17.99,Other Red Blends,93.0,Locations by Dave Phinney E-2,0,
+142,2899,Red,Spain,18.99,Other Red Wine,90.0,Arturo Garcia Solar de Sael Crianza Bierzo,0,
+143,2908,Red,Spain,78.99,Other Red Blends,96.0,Marques de Murrieta Castillo Ygay Gran Reserva,0,
+144,2914,Red,Spain,16.99,Other Red Blends,91.0,Palacios Remondo La Montesa,0,
+145,2915,Red,Spain,14.99,Other Red Blends,90.0,Palacios Remondo Rioja Vendimia,0,
+146,2918,Red,Spain,11.99,Other Red Wine,90.0,Antano Gran Seleccion Graciano,0,
+147,2919,Red,Spain,54.99,Tempranillo,95.0,Bodegas Muga Gran Reserva Prado Enea,0,
+148,2925,Red,Spain,21.99,Tempranillo,91.0,Marques de Murrieta Rioja Reserva,0,
+149,2932,Red,USA,59.99,Bordeaux,94.0,Anderson's Conn Valley Vineyards Right Bank Proprietary Red Blend,0,
+150,2933,Red,USA,49.99,Bordeaux,90.0,Conn Creek Anthology,0,
+151,2940,Red,USA,64.99,Bordeaux,92.0,Justin Isosceles,0,
+152,2946,Red,USA,139.99,Bordeaux,94.0,Pahlmeyer Napa Valley Proprietary Red,0,
+153,2947,Red,USA,73.99,Cabernet Sauvignon,90.0,Cakebread Cabernet Sauvignon,0,
+154,2948,Red,USA,29.99,Cabernet Sauvignon,90.0,Emblem Napa Valley Cabernet Sauvignon,0,
+155,2955,Red,USA,79.99,Cabernet Sauvignon,90.0,Etude Napa Valley Cabernet Sauvignon,0,
+156,2957,Red,USA,199.99,Cabernet Sauvignon,100.0,Joseph Phelps Insignia,0,
+157,2958,Red,USA,109.0,Cabernet Sauvignon,100.0,Joseph Phelps Insignia (375ML half-bottle),0,
+158,2959,Red,USA,35.99,Cabernet Sauvignon,90.0,Louis Martini Napa Valley Cabernet Sauvignon,0,
+159,2964,Red,USA,21.99,Cabernet Sauvignon,90.0,Michael David Winery Freakshow,0,
+160,2965,Red,USA,56.99,Cabernet Sauvignon,89.0,Pine Ridge Napa Cabernet Sauvignon,0,
+161,2971,Red,USA,24.99,Cabernet Sauvignon,91.0,Roth Alexander Valley Cabernet Sauvignon,0,
+162,2977,Red,USA,57.99,Cabernet Sauvignon,93.0,Round Pond Estate Rutherford Cabernet Sauvignon,0,
+163,2978,Red,USA,33.99,Cabernet Sauvignon,91.0,St. Supery Cabernet Sauvignon,0,
+164,2979,Red,USA,29.99,Merlot,92.0,Freemark Abbey Merlot,0,
+165,2986,Red,USA,18.99,Other Red Blends,88.0,Gundlach Bundschu Mountain Cuvee,0,
+166,2995,Red,USA,13.99,Other Red Blends,89.0,Marietta Old Vine Red #62,0,
+167,2999,Red,USA,18.99,Other Red Blends,91.0,Michael David Winery Petite Petit,0,
+168,3000,Red,USA,39.99,Other Red Blends,92.0,The Prisoner Wine Company Prisoner,0,
+169,3001,Red,USA,28.99,Other Red Wine,93.0,Taken Wine Company Napa Valley Red Blend,0,
+170,3008,Red,USA,19.99,Pinot Noir,93.0,Migration Russian River Pinot Noir (375ML half-bottle),0,
+171,3015,Red,USA,17.99,Pinot Noir,91.0,Siduri Santa Lucia Highlands Pinot Noir (375ML),0,
+172,3024,Red,USA,33.99,Rhone Red Blends,93.0,Limerick Lane Syrah / Grenache,0,
+173,3031,Red,USA,17.99,Zinfandel,90.0,Michael David Winery 7 Deadly Zins Zinfandel,0,
+174,3038,Red,USA,45.99,Pinot Noir,92.0,Evening Land Eola-Amity Hills Seven Springs Vineyard Pinot Noir,0,
+175,3044,Red,USA,78.99,Bordeaux,94.0,Col Solare,0,
+176,3053,Red,USA,33.99,Cabernet Sauvignon,91.0,Chateau Ste. Michelle Cold Creek Vineyard Cabernet Sauvignon,0,
+177,3056,Red,Argentina,17.99,Malbec,89.0,La Posta Angel Paulucci Vineyard Malbec,0,
+178,3064,Red,Argentina,19.99,Malbec,90.0,Terrazas de los Andes Reserva Malbec,0,
+179,3066,Red,Argentina,31.99,Malbec,91.0,Tikal Amorio Malbec,0,
+180,3073,Red,Australia,19.99,Syrah/Shiraz,91.0,Tait The Ball Buster,0,
+181,3074,Red,Australia,21.99,Syrah/Shiraz,91.0,Torbreck Woodcutters Shiraz,0,
+182,3083,Red,Australia,24.99,Syrah/Shiraz,91.0,d'Arenberg Laughing Magpie Shiraz Viognier,0,
+183,3085,Red,France,32.99,Rhone Red Blends,89.0,Domaine du Vieux Lazaret Chateauneuf-du-Pape,0,
+184,3092,Red,France,17.99,Rhone Red Blends,89.0,Domaine du Vieux Lazaret Chateauneuf-du-Pape (375ML half-bottle),0,
+185,3098,Red,Italy,239.0,Nebbiolo,97.0,Gaja Sperss,0,
+186,3104,Red,Italy,22.99,Nebbiolo,90.0,Marchesi di Gresy Nebbiolo Martinenga,0,
+187,3113,Red,Italy,19.99,Other Red Blends,91.0,Poggio al Tesoro Mediterra,0,
+188,3119,Red,Italy,18.99,Sangiovese,91.0,Castello di Meleto Chianti Classico,0,
+189,3125,Red,Italy,23.99,Sangiovese,90.0,Col d'Orcia Rosso di Montalcino,0,
+190,3128,Red,Spain,10.99,Grenache,88.0,Artazu Artazuri Garnacha,0,
+191,3135,Red,Spain,15.99,Grenache,91.0,Bodegas Breca,0,
+192,3141,Red,Spain,8.99,Grenache,89.0,Bodegas Breca Garnacha de Fuego,0,
+193,3144,Red,Spain,18.99,Grenache,92.0,Borsao Tres Picos Garnacha,0,
+194,3145,Red,Spain,12.99,Mourvedre,91.0,Bodegas Olivares Altos de la Hoya,0,
+195,3152,Red,Spain,16.99,Mourvedre,92.0,Bodegas Volver Tarima Hill,0,
+196,3158,Red,Spain,15.99,Tempranillo,90.0,Bodegas Barco de Piedra Tempranillo,0,
+197,3166,Red,Spain,12.99,Tempranillo,90.0,Vina Gormaz Tempranillo,0,
+198,3167,Red,Spain,10.99,Other Red Wine,90.0,Bodegas y Vinedos Ilurce Rio Madre Graciano,0,
+199,3174,Red,Spain,19.99,Tempranillo,90.0,Sierra Cantabria Crianza,0,
+200,3175,Red,USA,68.99,Cabernet Sauvignon,91.0,Joseph Phelps Cabernet Sauvignon,0,
+201,3176,Red,USA,53.99,Cabernet Sauvignon,93.0,Ramey Cabernet Sauvignon,0,
+202,3183,Red,USA,59.99,Pinot Noir,92.0,Chasseur Umino Pinot Noir,0,
+203,3188,Red,USA,74.99,Pinot Noir,92.0,Pahlmeyer Sonoma Coast Pinot Noir,0,
+204,3190,Red,USA,29.99,Pinot Noir,90.0,WillaKenzie Estate Gisele Pinot Noir,0,
+205,3193,Red,USA,89.99,Bordeaux,94.0,Figgins Estate Red Wine,0,
+206,3194,Red,Argentina,10.99,Malbec,88.0,Trivento Malbec Reserve,0,
+207,3196,Red,Argentina,10.99,Other Red Blends,88.0,Alamos Red Blend,0,
+208,3205,Red,Argentina,19.99,Other Red Wine,93.0,Bodega Garzon Tannat,0,
+209,3207,Red,Chile,13.99,Other Red Blends,92.0,Montes Twins Red Blend,0,
+210,3208,Red,Italy,89.0,Nebbiolo,96.0,Marchesi di Barolo Barolo Cannubi,0,
+211,3210,Red,Italy,10.99,Sangiovese,88.0,Badia a Coltibuono Cetamura Chianti,0,
+212,3217,Red,Italy,21.99,Sangiovese,88.0,Santa Margherita Chianti Classico Riserva,0,
+213,3223,Red,New Zealand,19.99,Pinot Noir,90.0,Mohua Pinot Noir,0,
+214,3226,Red,Spain,37.99,Tempranillo,98.0,Faustino I Gran Reserva,0,
+215,3227,Red,USA,24.99,Bordeaux,92.0,Robert Hall Meritage Red Blend,0,
+216,3233,Red,USA,32.99,Cabernet Sauvignon,91.0,Atalon Cabernet Sauvignon,0,
+217,3239,Red,USA,57.99,Cabernet Sauvignon,95.0,DAOU Vineyards Reserve Cabernet Sauvignon,0,
+218,3242,Red,USA,71.99,Cabernet Sauvignon,95.0,Kenwood Artist Series Cabernet Sauvignon,0,
+219,3249,Red,USA,57.99,Cabernet Sauvignon,95.0,Levendi Stagecoach Cabernet Sauvignon,0,
+220,3251,Red,USA,9.99,Cabernet Sauvignon,90.0,Pennywise Cabernet Sauvignon,0,
+221,3252,Red,USA,19.99,Cabernet Sauvignon,91.0,Plungerhead Dry Creek Cabernet Sauvignon,0,
+222,3253,Red,USA,13.99,Cabernet Sauvignon,90.0,Plungerhead Lodi Cabernet Sauvignon,0,
+223,3256,Red,USA,19.99,Cabernet Sauvignon,90.0,Rodney Strong Cabernet Sauvignon,0,
+224,3263,Red,USA,55.99,Cabernet Sauvignon,91.0,Stag's Leap Wine Cellars Artemis Cabernet Sauvignon,0,
+225,3264,Red,USA,32.99,Cabernet Sauvignon,91.0,Stag's Leap Wine Cellars Artemis Cabernet Sauvignon (375ML half-bottle),0,
+226,3265,Red,USA,89.0,Merlot,95.0,Duckhorn Three Palms Merlot,0,
+227,3273,Red,USA,39.99,Merlot,95.0,Grgich Hills Merlot,0,
+228,3276,Red,USA,11.99,Merlot,91.0,Leese-Fitch Merlot,0,
+229,3282,Red,USA,18.99,Other Red Blends,92.0,Brassfield Eruption Red Blend,0,
+230,3283,Red,USA,11.99,Other Red Blends,90.0,Eppa SupraFruta Organic Red Sangria,0,
+231,3284,Red,USA,9.99,Other Red Blends,90.0,Hey Mambo Sultry Red,0,
+232,3291,Red,USA,41.99,Pinot Noir,92.0,Gary Farrell Russian River Pinot Noir,0,
+233,3294,Red,USA,15.99,Zinfandel,88.0,Brazin Old Vine Lodi Zinfandel,0,
+234,3295,Red,USA,11.99,Zinfandel,88.0,Four Vines Truant Zinfandel,0,
+235,3299,Red,USA,21.99,Pinot Noir,89.0,A to Z Pinot Noir,0,
+236,3305,Red,USA,29.99,Bordeaux,94.0,Browne Family Vineyards Tribute Red Blend,0,
+237,3311,Red,Australia,10.99,Syrah/Shiraz,88.0,d'Arenberg Stump Jump Shiraz,0,
+238,3320,Red,France,15.99,Gamay,91.0,Maison L'Envoye Morgon Cote du Py,0,
+239,3324,Red,France,34.99,Rhone Red Blends,94.0,Domaine du Gour de Chaule Gigondas Cuvee Tradition,0,
+240,3325,Red,Italy,69.99,Nebbiolo,96.0,Domenico Clerico Barolo Ciabot Mentin Ginestra,0,
+241,3333,Red,Italy,55.99,Nebbiolo,94.0,Marcarini Barolo Brunate,0,
+242,3342,Red,Italy,219.0,Bordeaux,97.0,Tenuta dell'Ornellaia,0,
+243,3344,Red,Italy,17.99,Other Red Blends,93.0,Poggio al Tufo Rompicollo,0,
+244,3347,Red,Italy,99.0,Sangiovese,95.0,Antinori Tignanello,0,
+245,3348,Red,Italy,23.99,Sangiovese,90.0,Castellare Chianti Classico,0,
+246,3355,Red,Italy,18.99,Sangiovese,89.0,Castello di Volpaia Chianti Classico,0,
+247,3360,Red,Italy,18.99,Sangiovese,89.0,Fattoria del Cerro Vino Nobile di Montepulciano,0,
+248,3363,Red,Italy,23.99,Sangiovese,95.0,Felsina Chianti Classico Riserva Rancia (half-bottle),0,
+249,3369,Red,Italy,29.99,Sangiovese,92.0,Fonterutoli Chianti Classico,0,
+250,3370,Red,Italy,99.0,Sangiovese,96.0,Il Poggione Brunello di Montalcino Riserva,0,
+251,3371,Red,Italy,29.99,Other Red Wine,92.0,Zenato Valpolicella Superiore Ripassa,0,
+252,3380,Red,Spain,12.99,Other Red Blends,88.0,Bodegas Carchelo C,0,
+253,3382,Red,USA,139.99,Bordeaux,94.0,Dominus Estate,0,
+254,3383,Red,USA,49.99,Bordeaux,91.0,Dominus Napanook Vineyard,0,
+255,3389,Red,USA,89.99,Cabernet Sauvignon,92.0,Beaulieu Vineyard Georges de Latour Private Reserve,0,
+256,3397,Red,USA,56.99,Cabernet Sauvignon,93.0,Chappellet Signature Cabernet Sauvignon,0,
+257,3402,Red,USA,114.99,Cabernet Sauvignon,94.0,Chateau Montelena Estate Cabernet Sauvignon,0,
+258,3412,Red,USA,54.99,Cabernet Sauvignon,90.0,Hall Napa Valley Cabernet Sauvignon,0,
+259,3416,Red,USA,79.99,Cabernet Sauvignon,95.0,La Jota Howell Mountain Cabernet Sauvignon,0,
+260,3424,Red,USA,79.99,Cabernet Sauvignon,94.0,Mt. Brave Cabernet Sauvignon,0,
+261,3431,Red,USA,109.0,Cabernet Sauvignon,97.0,Philip Togni Cabernet Sauvignon,0,
+262,3435,Red,USA,44.99,Cabernet Sauvignon,92.0,Robert Craig Cellars Affinity Cabernet Sauvignon,0,
+263,3438,Red,USA,44.99,Pinot Noir,93.0,Joseph Phelps Freestone Vineyards Sonoma Coast Pinot Noir,0,
+264,3439,Red,USA,34.99,Pinot Noir,90.0,La Crema Russian River Pinot Noir,0,
+265,3442,Red,USA,37.99,Zinfandel,91.0,Ridge Pagani Ranch Zinfandel,0,
+266,3453,Red,Argentina,54.99,Malbec,94.0,Catena Alta Malbec,0,
+267,3454,Red,Argentina,18.99,Malbec,92.0,Salentein Reserve Malbec,0,
+268,3455,Red,Argentina,19.99,Other Red Blends,93.0,Bodega Noemia de Patagonia A Lisa,0,
+269,3458,Red,Australia,73.99,Syrah/Shiraz,94.0,Penfolds St. Henri Shiraz,0,
+270,3460,Red,Australia,19.99,Other Red Blends,89.0,Yalumba The Scribbler,0,
+271,3467,Red,Chile,34.49,Cabernet Sauvignon,93.0,Morande House of Morande,0,
+272,3469,Red,Chile,15.99,Syrah/Shiraz,91.0,Merino Syrah,0,
+273,3471,Red,France,9.99,Rhone Red Blends,90.0,Louis Bernard Cotes du Rhone Villages,0,
+274,3472,Red,Italy,18.99,Barbera,91.0,Renato Ratti Barbera d'Asti,0,
+275,3478,Red,New Zealand,34.99,Pinot Noir,93.0,Dog Point Vineyard Pinot Noir,0,
+276,3479,Red,Spain,19.99,Other Red Blends,90.0,Vina Arnaiz Crianza,0,
+277,3480,Red,Spain,26.65,Tempranillo,91.0,Abadia Retuerta Seleccion Especial,0,
+278,3481,Red,USA,49.99,Cabernet Sauvignon,93.0,Frog's Leap Estate Grown Cabernet Sauvignon,0,
+279,3488,Red,USA,49.99,Cabernet Sauvignon,92.0,Jordan Cabernet Sauvignon,0,
+280,3489,Red,USA,18.99,Merlot,92.0,Frog's Leap Merlot (375ML half-bottle),0,
+281,3492,Red,USA,33.99,Pinot Noir,95.0,Joseph Jewell Russian River Valley Pinot Noir,0,
+282,3493,Red,USA,18.99,Syrah/Shiraz,91.0,Qupe Central Coast Syrah,0,
+283,3502,Red,USA,16.99,Zinfandel,93.0,DeLoach Russian River Zinfandel,0,
+284,3508,Red,USA,15.99,Zinfandel,91.0,Frog's Leap Zinfandel (375ML half-bottle),0,
+285,3514,Red,USA,21.99,Zinfandel,91.0,Quivira Dry Creek Valley Zinfandel,0,
+286,3521,Red,USA,49.99,Pinot Noir,93.0,Adelsheim Elizabeth's Reserve Pinot Noir,0,
+287,3529,Red,USA,25.99,Pinot Noir,90.0,Benton Lane Pinot Noir,0,
+288,3536,Red,USA,54.99,Pinot Noir,94.0,Chapter 24 Fire + Flood The Flood Pinot Noir,0,
+289,3537,Red,USA,74.99,Pinot Noir,96.0,Chapter 24 Last Chapter Pinot Noir,0,
+290,3538,Red,USA,19.99,Pinot Noir,90.0,King Estate Acrobat Pinot Noir,0,
+291,3539,Red,USA,29.99,Pinot Noir,93.0,Willamette Valley Vineyards Estate Pinot Noir,0,
+292,3540,Red,Argentina,23.99,Bordeaux,93.0,Bodega Norton Privada,0,
+293,3546,Red,Argentina,15.99,Cabernet Sauvignon,90.0,Bodega Norton Reserve Cabernet Sauvignon,0,
+294,3548,Red,Argentina,18.99,Cabernet Sauvignon,90.0,Tapiz Alta Cabernet Sauvignon,0,
+295,3555,Red,Argentina,19.99,Malbec,91.0,Catena Malbec,0,
+296,3556,Red,Argentina,15.99,Malbec,91.0,Michel Torino Don David Reserve Malbec,0,
+297,3562,Red,Argentina,27.99,Malbec,94.0,SonVida Malbec,0,
+298,3563,Red,Australia,19.99,Rhone Red Blends,91.0,d'Arenberg d'Arrys Original Shiraz/Grenache,0,
+299,3564,Red,Chile,18.99,Carmenere,92.0,Vina Ventisquero Carmenere Grey Single Block Trinidad Vineyard,0,
+300,3573,Red,Chile,22.99,Other Red Blends,91.0,Lapostolle Canto de Apalta Red Blend,0,
+301,3582,Red,France,97.99,Bordeaux,96.0,Chateau Beausejour Duffau,0,
+302,3591,Red,France,74.99,Bordeaux,95.0,Chateau Branaire-Ducru,0,
+303,3597,Red,France,39.99,Bordeaux,92.0,Chateau de Pez,0,
+304,3601,Red,France,19.99,Bordeaux,92.0,Chateau Des Annereaux Lalande de Pomerol,0,
+305,3602,Red,France,42.99,Bordeaux,90.0,Chateau Gloria,0,
+306,3611,Red,France,34.99,Bordeaux,93.0,Chateau Grand Mayne (Futures Pre-sale),0,
+307,3619,Red,France,69.99,Bordeaux,91.0,Chateau Labegorce (1.5 Liter Magnum),0,
+308,3626,Red,France,29.99,Bordeaux,90.0,Chateau Laffitte Laujac,0,
+309,3632,Red,France,77.99,Bordeaux,95.0,Chateau Leoville Barton,0,
+310,3636,Red,France,17.99,Bordeaux,90.0,Chateau Lyonnat Lussac - Saint Emilion,0,
+311,3643,Red,France,79.99,Bordeaux,94.0,Chateau Magdelaine,0,
+312,3649,Red,France,129.0,Bordeaux,96.0,Chateau Pontet-Canet,0,
+313,3655,Red,France,14.99,Merlot,91.0,Ch√¢teau Mayne Vieil,0,
+314,3656,Red,France,17.99,Rhone Red Blends,91.0,Gerard Bertrand Fitou,0,
+315,3660,Red,France,17.99,Rhone Red Blends,90.0,Gerard Bertrand Syrah-Carignan Minervois,0,
+316,3662,Red,France,14.99,Rhone Red Blends,90.0,Chateau de Segries Cotes du Rhone,0,
+317,3666,Red,France,14.99,Rhone Red Blends,90.0,Guigal Cotes du Rhone Rouge,0,
+318,3667,Red,France,39.99,Rhone Red Blends,93.0,Tardieu-Laurent Chateauneuf-du-Pape,0,
+319,3668,Red,Italy,19.99,Nebbiolo,90.0,Damilano Marghe Nebbiolo Langhe,0,
+320,3670,Red,Italy,48.99,Nebbiolo,94.0,Massolino Barolo,0,
+321,3671,Red,Italy,28.99,Sangiovese,95.0,Felsina Fontalloro (375ML half-bottle),0,
+322,3674,Red,Italy,15.99,Sangiovese,90.0,Lamole di Lamole Chianti Classico,0,
+323,3680,Red,Italy,36.99,Other Red Blends,92.0,Accordini Igino Le Bessole Amarone della Valpolicella,0,
+324,3684,Red,Italy,19.99,Other Red Blends,90.0,Allegrini Palazzo della Torre,0,
+325,3688,Red,Italy,44.99,Other Red Wine,92.0,Goretti Sagrantino di Montefalco,0,
+326,3694,Red,Italy,49.99,Other Red Wine,95.0,Masi Costasera Amarone Classico,0,
+327,3695,Red,New Zealand,19.99,Pinot Noir,90.0,Saint Clair Family Estate Pinot Noir,0,
+328,3700,Red,Spain,48.99,Other Red Blends,92.0,Marco Abella Mas Mallola,0,
+329,3708,Red,USA,8.99,Cabernet Sauvignon,88.0,Avalon California Cabernet Sauvignon,0,
+330,3709,Red,USA,99.0,Cabernet Sauvignon,94.0,Groth Reserve Cabernet Sauvignon,0,
+331,3715,Red,USA,13.99,Cabernet Sauvignon,88.0,Noble Vines 337 Lodi Cabernet Sauvignon,0,
+332,3719,Red,USA,19.99,Cabernet Sauvignon,90.0,Oberon Cabernet Sauvignon,0,
+333,3720,Red,USA,135.0,Cabernet Sauvignon,93.0,Quintessa,0,
+334,3727,Red,USA,73.99,Cabernet Sauvignon,93.0,Quintessa (375ML half-bottle),0,
+335,3733,Red,USA,109.0,Cabernet Sauvignon,95.0,Raymond Generations Cabernet Sauvignon,0,
+336,3737,Red,USA,19.99,Cabernet Sauvignon,89.0,RouteStock Route 29 Cabernet Sauvignon,0,
+337,3738,Red,USA,41.99,Cabernet Sauvignon,93.0,Stonestreet Estate Cabernet Sauvignon,0,
+338,3745,Red,USA,14.99,Merlot,90.0,Bonterra Organically Grown Merlot,0,
+339,3753,Red,USA,15.99,Merlot,91.0,Rays Station Merlot,0,
+340,3758,Red,USA,10.99,Other Red Blends,91.0,Bogle Essential Red,0,
+341,3759,Red,USA,14.99,Other Red Blends,91.0,GIFFT by Kathie Lee Gifford Red Blend,0,
+342,3762,Red,USA,23.99,Pinot Noir,93.0,Byron Santa Maria Pinot Noir,0,
+343,3763,Red,USA,22.99,Pinot Noir,91.0,Cambria Julia's Vineyard Pinot Noir,0,
+344,3769,Red,USA,19.99,Pinot Noir,90.0,Chateau St. Jean Sonoma Coast Pinot Noir,0,
+345,3777,Red,USA,38.99,Pinot Noir,92.0,Dutton Goldfield Dutton Ranch Pinot Noir,0,
+346,3778,Red,USA,9.99,Pinot Noir,90.0,Line 39 Pinot Noir,0,
+347,3784,Red,USA,19.99,Pinot Noir,90.0,Reata Three County Pinot Noir,0,
+348,3790,Red,USA,19.99,Pinot Noir,90.0,Rodney Strong Estate Pinot Noir,0,
+349,3793,Red,USA,16.99,Syrah/Shiraz,93.0,Andrew Murray Tous les Jours Syrah,0,
+350,3794,Red,USA,17.99,Syrah/Shiraz,91.0,Michael David Winery 6th Sense Syrah,0,
+351,3796,Red,USA,19.99,Syrah/Shiraz,92.0,Zaca Mesa Santa Ynez Valley Syrah,0,
+352,3803,Red,USA,18.99,Zinfandel,92.0,Carol Shelton Wild Thing Zinfandel,0,
+353,3809,Red,USA,22.99,Zinfandel,90.0,Decoy Zinfandel,0,
+354,3810,Red,USA,15.99,Zinfandel,92.0,Tierra Divina ZA ZIN,0,
+355,3816,Red,USA,39.99,Cabernet Sauvignon,92.0,L'Ecole 41 Walla Walla Valley Cabernet Sauvignon,0,
+356,3823,Red,USA,24.99,Cabernet Sauvignon,91.0,Seven Hills Winery Columbia Valley Cabernet Sauvignon,0,
+357,3824,Red,USA,17.99,Other Red Blends,91.0,Pendulum Red Blend,0,
+358,3825,Red,USA,15.99,Syrah/Shiraz,90.0,Barnard Griffin Syrah,0,
+359,3827,Red,Argentina,34.99,Bordeaux,92.0,Achaval-Ferrer Quimera,0,
+360,3834,Red,Argentina,39.99,Bordeaux,94.0,Tikal Jubilo,0,
+361,3841,Red,Argentina,17.99,Malbec,92.0,Bodega Norton Malbec Reserva,0,
+362,3842,Red,Argentina,33.99,Malbec,93.0,Luca Malbec,0,
+363,3845,Red,Argentina,10.99,Merlot,88.0,Tilia Merlot,0,
+364,3852,Red,Argentina,19.99,Other Red Blends,91.0,Tikal Patriota,0,
+365,3853,Red,Australia,34.99,Cabernet Sauvignon,93.0,Clarendon Hills Brookman Vineyard Cabernet Sauvignon,0,
+366,3854,Red,Australia,28.99,Cabernet Sauvignon,90.0,Mollydooker The Maitre D' Cabernet Sauvignon,0,
+367,3855,Red,Australia,55.99,Syrah/Shiraz,92.0,Mollydooker Blue Eyed Boy Shiraz,0,
+368,3862,Red,Australia,13.99,Syrah/Shiraz,90.0,Wild Oats Shiraz,0,
+369,3865,Red,Australia,69.99,Syrah/Shiraz,95.0,Two Hands Bella's Garden Shiraz,0,
+370,3866,Red,Australia,14.99,Bordeaux,90.0,Greg Norman Estates Limestone Coast Cabernet/Merlot,0,
+371,3872,Red,Australia,16.99,Cabernet Sauvignon,90.0,Ringbolt Cabernet Sauvignon,0,
+372,3878,Red,Australia,39.99,Grenache,95.0,Clarendon Hills Kangarilla Grenache,0,
+373,3885,Red,Australia,10.99,Rhone Red Blends,89.0,d'Arenberg Stump Jump Red,0,
+374,3891,Red,Australia,44.99,Syrah/Shiraz,95.0,Clarendon Hills Hickinbotham Vineyard Syrah,0,
+375,3892,Red,Australia,78.99,Syrah/Shiraz,94.0,Mollydooker Carnival of Love,0,
+376,3893,Red,Chile,16.99,Bordeaux,89.0,Haras Character Cabernet Sauvignon-Carmenere,0,
+377,3897,Red,Chile,36.99,Bordeaux,93.0,Santa Rita Triple C,0,
+378,3900,Red,Chile,18.99,Cabernet Sauvignon,91.0,Concha y Toro Gran Reserva Serie Riberas Cabernet Sauvignon,0,
+379,3907,Red,Chile,23.99,Cabernet Sauvignon,91.0,Concha y Toro Marques de Casa Concha Cabernet Sauvignon,0,
+380,3908,Red,Chile,9.99,Cabernet Sauvignon,89.0,Veramonte Cabernet Sauvignon,0,
+381,3915,Red,Chile,34.99,Other Red Blends,91.0,Emiliana Coyam (Certified Biodynamic),0,
+382,3924,Red,Chile,13.99,Syrah/Shiraz,90.0,Vina Bisquertt La Joya Gran Reserva Syrah,0,
+383,3931,Red,France,29.99,Bordeaux,90.0,Chateau Barde Haut,0,
+384,3932,Red,France,59.99,Bordeaux,95.0,Chateau Monbousquet,0,
+385,3939,Red,France,17.99,Rhone Red Blends,90.0,Gerard Bertrand Grand Terroir Pic Saint Loup,0,
+386,3946,Red,France,32.99,Grenache,91.0,Guigal Gigondas Rouge,0,
+387,3954,Red,France,69.99,Rhone Red Blends,93.0,Chateau de Beaucastel Chateauneuf-du-Pape,0,
+388,3955,Red,France,59.99,Rhone Red Blends,95.0,Vieille Julienne Chateauneuf-du-Pape,0,
+389,3961,Red,France,24.99,Syrah/Shiraz,92.0,Maison Nicolas Perrin Crozes-Hermitage,0,
+390,3967,Red,Italy,29.99,Other Red Blends,91.0,Antinori Guado al Tasso Il Bruciato,0,
+391,3972,Red,Italy,12.99,Other Red Blends,90.0,Di Majo Norante Ramitello Rosso,0,
+392,3973,Red,Italy,23.99,Other Red Wine,91.0,Azienda Bisceglia Aglianico del Vulture Gudarra,0,
+393,3981,Red,Italy,15.99,Barbera,90.0,Bel Sit Barbera d'Asti La Turna,0,
+394,3987,Red,Italy,16.99,Merlot,90.0,Castiglion del Bosco Dainero,0,
+395,3993,Red,Italy,21.99,Other Red Blends,90.0,Antinori Villa Toscana,0,
+396,3994,Red,Italy,11.99,Other Red Blends,88.0,Frescobaldi Remole Toscana Rosso,0,
+397,4000,Red,Italy,14.99,Other Red Blends,90.0,Il Molino di Grace Il Volano,0,
+398,4009,Red,Italy,19.99,Other Red Blends,90.0,Querciabella Mongrana,0,
+399,4012,Red,Italy,229.0,Other Red Blends,95.0,Tenuta San Guido Sassicaia,0,
+400,4019,Red,Italy,29.99,Sangiovese,91.0,Avignonesi Vino Nobile di Montepulciano,0,
+401,4028,Red,Italy,11.99,Sangiovese,88.0,Bibi Graetz Casamatta Rosso,0,
+402,4030,Red,Italy,78.99,Sangiovese,96.0,Caparzo Brunello di Montalcino Riserva,0,
+403,4031,Red,Italy,19.99,Sangiovese,91.0,Castiglion del Bosco Rosso di Montalcino,0,
+404,4034,Red,Italy,54.99,Other Red Wine,91.0,Tedeschi Amarone della Valpolicella,0,
+405,4040,Red,Italy,24.99,Other Red Wine,90.0,Tommasi Ripasso Valpolicella,0,
+406,4048,Red,Portugal,19.99,Other Red Blends,93.0,Churchill's Estates Duoro,0,
+407,4049,Red,South Africa,17.99,Bordeaux,90.0,Glen Carlou Grand Classique,0,
+408,4050,Red,South Africa,19.99,Bordeaux,91.0,Mulderbosch Faithful Hound,0,
+409,4056,Red,South Africa,29.99,Cabernet Sauvignon,91.0,Rust en Vrede Cabernet Sauvignon,0,
+410,4062,Red,Spain,19.99,Other Red Blends,92.0,Losada Bierzo,0,
+411,4071,Red,Spain,16.99,Tempranillo,89.0,Bodegas Volver La Mancha Single Vineyard Tempranillo,0,
+412,4080,Red,Spain,14.99,Tempranillo,89.0,Campo Viejo Reserva Rioja,0,
+413,4083,Red,Spain,19.99,Tempranillo,91.0,Conde de Valdemar Rioja Inspiracion,0,
+414,4086,Red,Spain,29.99,Tempranillo,92.0,La Rioja Alta Vina Ardanza Reserva,0,
+415,4087,Red,Spain,12.99,Tempranillo,88.0,Marques de Caceres Rioja Crianza,0,
+416,4090,Red,Spain,15.99,Tempranillo,89.0,Vina Eguia Reserva,0,
+417,4096,Red,Spain,18.99,Tempranillo,90.0,Vina Herminia Rioja Reserva,0,
+418,4102,Red,USA,28.99,Cabernet Sauvignon,90.0,Beringer Knights Valley Cabernet Sauvignon,0,
+419,4103,Red,USA,23.99,Merlot,89.0,Markham Merlot,0,
+420,4107,Red,USA,23.99,Other Red Blends,90.0,Markham Cellar 1879 Napa Valley Red Blend,0,
+421,4114,Red,USA,39.99,Pinot Noir,92.0,Belle Glos Dairyman Vineyard Pinot Noir,0,
+422,4115,Red,USA,39.99,Pinot Noir,93.0,Belle Glos Las Alturas Vineyard Pinot Noir,0,
+423,4116,Red,USA,49.99,Pinot Noir,91.0,Goldeneye Anderson Valley Pinot Noir,0,
+424,4122,Red,USA,22.99,Pinot Noir,88.0,La Crema Monterey Pinot Noir,0,
+425,4123,Red,USA,43.99,Zinfandel,93.0,Seghesio Old Vine Zinfandel,0,
+426,4129,Red,USA,27.99,Pinot Noir,92.0,Adelsheim Pinot Noir,0,
+427,4130,Red,USA,18.99,Pinot Noir,92.0,Adelsheim Pinot Noir (375ML half-bottle),0,
+428,4131,Red,USA,28.99,Pinot Noir,90.0,Elk Cove Willamette Valley Pinot Noir,0,
+429,4138,Red,USA,33.99,Pinot Noir,90.0,La Crema Willamette Valley Pinot Noir,0,
+430,4141,Red,USA,21.99,Pinot Noir,89.0,Panther Creek Winemaker's Cuvee Pinot Noir,0,
+431,4149,Red,USA,39.99,Pinot Noir,92.0,Ponzi Willamette Valley Pinot Noir,0,
+432,4154,Red,USA,29.99,Pinot Noir,92.0,Roco Willamette Valley Pinot Noir,0,
+433,4155,Red,USA,15.99,Cabernet Sauvignon,88.0,Chateau Ste. Michelle Cabernet Sauvignon,0,
+434,4161,Red,USA,12.99,Cabernet Sauvignon,90.0,Columbia Crest Grand Estates Cabernet Sauvignon,0,
+435,4162,Red,USA,14.99,Cabernet Sauvignon,89.0,Milbrandt Traditions Cabernet Sauvignon,0,
+436,4171,Red,USA,24.99,Cabernet Sauvignon,91.0,Novelty Hill Cabernet Sauvignon,0,
+437,4178,Red,USA,12.99,Merlot,89.0,Columbia Crest Grand Estates Merlot,0,
+438,4185,Red,USA,16.99,Syrah/Shiraz,90.0,Charles Smith Boom Boom Syrah,0,
+439,4191,Red,USA,24.99,Syrah/Shiraz,91.0,Owen Roe Ex Umbris Syrah,0,
+440,4195,Red,Argentina,11.99,Malbec,88.0,Belasco de Baquedano Llama Malbec,0,
+441,4201,Red,New Zealand,17.99,Merlot,91.0,Maimai Merlot,0,
+442,4207,Red,USA,19.99,Bordeaux,91.0,Francis Ford Coppola Diamond Collection Claret,0,
+443,4213,Red,USA,28.99,Cabernet Sauvignon,94.0,DAOU Vineyards Cabernet Sauvignon,0,
+444,4214,Red,USA,41.99,Cabernet Sauvignon,90.0,Rombauer Cabernet Sauvignon,0,
+445,4215,Red,USA,66.99,Cabernet Sauvignon,90.0,Silver Oak Alexander Valley Cabernet Sauvignon,0,
+446,4216,Red,USA,99.99,Cabernet Sauvignon,92.0,Silver Oak Napa Valley Cabernet Sauvignon,0,
+447,4217,Red,USA,29.99,Cabernet Sauvignon,90.0,Wine Spots Napa Cabernet Sauvignon,0,
+448,4225,Red,USA,59.99,Merlot,95.0,Emmolo Merlot,0,
+449,4227,Red,USA,29.99,Merlot,91.0,Swanson Oakville Merlot,0,
+450,4234,Red,USA,54.99,Merlot,90.0,Twomey Cellars by Silver Oak Merlot,0,
+451,4235,Red,USA,8.99,Other Red Wine,91.0,Heliotrope Winery Red Moscato,0,
+452,4242,Red,USA,34.99,Pinot Noir,90.0,Davis Bynum Jane's Vineyard Pinot Noir,0,
+453,4249,Red,USA,15.99,Zinfandel,88.0,Cline Ancient Vines Zinfandel,0,
+454,4257,Red,USA,19.99,Zinfandel,90.0,Zinfandelic Sierra Foothills Old Vine Zinfandel,0,
+455,4359,Rose,Australia,9.99,Ros√©,92.0,Angove Family Winemakers Nine Vines Rose,0,
+456,4365,Rose,France,79.99,Ros√© Sparkling Wine,94.0,Billecart-Salmon Brut Rose,0,
+457,4371,Rose,France,46.99,Ros√© Sparkling Wine,94.0,Billecart-Salmon Brut Rose (375ML half-bottle),0,
+458,4373,Rose,Chile,10.99,Ros√©,90.0,Los Vascos Rose,0,
+459,4380,Rose,France,44.99,Ros√©,90.0,Miraval Rose (1.5 Liter Magnum),0,
+460,4389,Rose,Spain,17.99,Ros√© Sparkling Wine,90.0,Juve Y Camps Rose Brut Cava,0,
+461,4396,Rose,Australia,10.99,Ros√©,90.0,Innocent Bystander Pink Moscato (375ML half-bottle) 2014,0,
+462,4399,Rose,France,15.99,Ros√©,88.0,Domaine de Triennes Rose,0,
+463,4405,Rose,USA,8.99,Ros√©,88.0,Bonny Doon Vin Gris de Cigare,0,
+464,4411,Rose,France,72.99,Ros√© Sparkling Wine,91.0,Veuve Clicquot Rose,0,
+465,4418,Rose,France,19.99,Ros√©,92.0,Domaines Ott Les Domaniers Cotes de Provence Rose,0,
+466,4424,Rose,USA,14.99,Ros√© Sparkling Wine,90.0,Korbel Brut Rose,0,
+467,4430,Rose,France,68.99,Ros√© Sparkling Wine,90.0,Moet & Chandon Rose Imperial,0,
+468,4433,Rose,France,94.99,Ros√© Sparkling Wine,92.0,Veuve Clicquot Brut Rose,0,
+469,4442,Rose,USA,26.99,Ros√© Sparkling Wine,92.0,Roederer Estate Brut Rose,0,
+470,4450,Rose,USA,13.99,Ros√©,91.0,Charles & Charles Rose 2014,0,
+471,4665,Sparkling,France,219.99,Vintage Sparkling Wine,97.0,Louis Roederer Cristal Brut,0,
+472,4671,Sparkling,France,149.99,Vintage Sparkling Wine,95.0,Veuve Clicquot La Grande Dame,0,
+473,4672,Sparkling,South Africa,14.99,Non-Vintage Sparkling Wine,90.0,Graham Beck Brut Methode Cap Classique,0,
+474,4674,Sparkling,France,195.0,Vintage Sparkling Wine,98.0,Dom Perignon Limited Edition Metamorphosis in Gift Box,0,
+475,4680,Sparkling,Italy,17.99,Non-Vintage Sparkling Wine,90.0,Nino Franco Rustico Prosecco,0,
+476,4686,Sparkling,Italy,12.99,Non-Vintage Sparkling Wine,88.0,Zardetto Brut Private Cuvee Prosecco,0,
+477,4693,Sparkling,Spain,17.99,Non-Vintage Sparkling Wine,92.0,Bodegas Botani Sparkling Muscat,0,
+478,4697,Sparkling,France,34.99,Non-Vintage Sparkling Wine,92.0,Moet & Chandon Imperial (375ML half-bottle),0,
+479,4700,Sparkling,Italy,12.99,Non-Vintage Sparkling Wine,91.0,Menage a Trois Prosecco,0,
+480,4707,Sparkling,France,54.99,Non-Vintage Sparkling Wine,90.0,Veuve Clicquot Brut Yellow Label with Ice Jacket,0,
+481,4710,Sparkling,Italy,14.99,Non-Vintage Sparkling Wine,90.0,Adami Prosecco Garbel 13,0,
+482,4716,Sparkling,Italy,12.99,Non-Vintage Sparkling Wine,88.0,Mionetto Il Lambrusco,0,
+483,4725,Sparkling,Italy,12.99,Non-Vintage Sparkling Wine,88.0,Valdo Prosecco,0,
+484,4730,Sparkling,Spain,11.99,Non-Vintage Sparkling Wine,88.0,Segura Viudas Aria Brut Cava,0,
+485,4733,Sparkling,France,19.99,Non-Vintage Sparkling Wine,90.0,Lucien Albrecht Cremant d'Alsace Brut,0,
+486,4736,Sparkling,France,134.99,Non-Vintage Sparkling Wine,97.0,Laurent-Perrier Grand Siecle,0,
+487,4745,Sparkling,Italy,19.99,Non-Vintage Sparkling Wine,90.0,Berlucchi Cuvee 61 Brut,0,
+488,4752,Sparkling,USA,19.99,Non-Vintage Sparkling Wine,89.0,Domaine Chandon Blanc de Noirs,0,
+489,4758,Sparkling,USA,26.99,Non-Vintage Sparkling Wine,93.0,Domaine Chandon Etoile,0,
+490,4761,Sparkling,USA,21.99,Non-Vintage Sparkling Wine,90.0,Gloria Ferrer Brut,0,
+491,4765,Sparkling,USA,26.99,Non-Vintage Sparkling Wine,91.0,J Vineyards & Winery Cuvee 20 Brut,0,
+492,4766,Sparkling,USA,18.99,Non-Vintage Sparkling Wine,91.0,Mumm Napa Cuvee M,0,
+493,4772,Sparkling,USA,14.99,Non-Vintage Sparkling Wine,92.0,Roederer Estate Brut (375ML half-bottle),0,
+494,4778,Sparkling,France,75.99,Non-Vintage Sparkling Wine,93.0,Bollinger Brut Special Cuvee,0,
+495,4784,Sparkling,France,39.99,Non-Vintage Sparkling Wine,92.0,Gosset Brut Excellence,0,
+496,4785,Sparkling,France,35.99,Non-Vintage Sparkling Wine,92.0,Mumm Brut Cordon Rouge,0,
+497,4786,Sparkling,France,52.99,Non-Vintage Sparkling Wine,91.0,Perrier-Jouet Grand Brut,0,
+498,4787,Sparkling,France,129.99,Non-Vintage Sparkling Wine,90.0,Veuve Clicquot Brut Yellow Label (1.5 Liter Magnum),0,
+499,4790,Sparkling,France,95.0,Vintage Sparkling Wine,93.0,Veuve Clicquot Vintage Brut,0,
+500,4797,Sparkling,Spain,12.99,Non-Vintage Sparkling Wine,87.0,Freixenet Sparkling Cordon Negro Brut Cava,0,
+501,4803,Sparkling,USA,18.99,Non-Vintage Sparkling Wine,91.0,Mumm Napa Brut Prestige,0,
+502,4809,Sparkling,USA,29.99,Vintage Sparkling Wine,90.0,Domaine Carneros Brut,0,
+503,4811,Sparkling,USA,19.99,Vintage Sparkling Wine,91.0,Gloria Ferrer Brut Royal Cuvee,0,
+504,4812,Sparkling,USA,18.99,Non-Vintage Sparkling Wine,90.0,Gruet Blanc de Noirs,0,
+505,4821,Sparkling,USA,15.99,Non-Vintage Sparkling Wine,89.0,Gruet Brut,0,
+506,6054,White,Spain,18.99,Albarino,93.0,Pazo de Barrantes Albarino,0,
+507,6055,White,USA,38.99,Chardonnay,91.0,Jordan Chardonnay,0,
+508,6056,White,Australia,19.99,Semillon,94.0,Brokenwood Semillon,0,
+509,6057,White,Australia,25.99,Chardonnay,96.0,Robert Oatley Finisterre Chardonnay,0,
+510,6061,White,Australia,16.99,Riesling,95.0,Pewsey Vale Eden Valley Riesling 2014,0,
+511,6067,White,Chile,10.99,Chardonnay,90.0,Los Vascos Chardonnay,0,
+512,6073,White,Chile,17.99,Sauvignon Blanc,93.0,Ritual Casablanca Valley Sauvignon Blanc,0,
+513,6079,White,France,28.99,Sauvignon Blanc,95.0,Les Hauts de Smith Blanc,0,
+514,6082,White,Italy,22.99,Pinot Gris/Grigio,92.0,Terlano Pinot Grigio,0,
+515,6088,White,New Zealand,14.99,Sauvignon Blanc,90.0,Forrest Estate The Doctors' Sauvignon Blanc,0,
+516,6097,White,Argentina,14.99,Torrontes,92.0,Domingo Molina Hermanos Torrontes,0,
+517,6100,White,France,12.99,Other White Blends,90.0,Domaine Lafage Vin du Pays Cote d'Est,0,
+518,6107,White,France,34.99,Sauvignon Blanc,94.0,Alphonse Mellot Sancerre Blanc Le Moussiere,0,
+519,6109,White,New Zealand,71.99,Chardonnay,95.0,Pyramid Valley Lions Tooth Chardonnay,0,
+520,6115,White,South Africa,9.99,Chenin Blanc,90.0,The Royal Chenin Blanc Old Vine Steen,0,
+521,6122,White,Spain,25.99,Sherry,96.0,Alvear Pedro Ximinez 1927 (375ML half-bottle),0,
+522,6128,White,Spain,27.99,Sherry,96.0,Emilio Lustau East India Solera,0,
+523,6137,White,Spain,16.99,Sherry,93.0,Emilio Lustau Solera Reserva los Arcos Dry Amontillado Sherry,0,
+524,6144,White,Spain,13.99,Other White Blends,90.0,Telmo Rodriguez Basa White,0,
+525,6147,White,USA,34.99,Chardonnay,91.0,Beringer Luminus Chardonnay,0,
+526,6153,White,USA,29.99,Chardonnay,92.0,Kendall-Jackson Jackson Estate Camelot Highlands Chardonnay,0,
+527,6160,White,USA,24.99,Chardonnay,90.0,Matanzas Creek Chardonnay,0,
+528,6163,White,USA,52.99,Chardonnay,94.0,Newton Unfiltered Chardonnay,0,
+529,6169,White,USA,34.99,Chardonnay,91.0,Ramey Russian River Chardonnay,0,
+530,6172,White,USA,35.99,Chardonnay,93.0,Stonestreet Estate Chardonnay,0,
+531,6178,White,USA,29.99,Other White Blends,90.0,The Prisoner Wine Company Blindfold,0,
+532,6184,White,USA,13.99,Petite Sirah,90.0,Spellbound Petite Sirah,0,
+533,6185,White,New Zealand,17.99,Sauvignon Blanc,91.0,Goldwater Sauvignon Blanc,0,
+534,6191,White,Spain,15.99,Albarino,89.0,Columna Albarino,0,
+535,6193,White,Spain,15.99,Albarino,90.0,Burgans Albarino,0,
+536,6200,White,Spain,17.99,Albarino,91.0,La Cana Albarino,0,
+537,6206,White,Spain,14.99,Albarino,91.0,Pazo de Galegos Albarino,0,
+538,6212,White,USA,59.99,Chardonnay,91.0,Chasseur Lorenzo Chardonnay,0,
+539,6219,White,USA,62.99,Chardonnay,91.0,Rochioli Chardonnay,0,
+540,6226,White,Germany,12.99,Riesling,90.0,August Kesseler R Riesling Kabinett,0,
+541,6232,White,Italy,19.99,Other White Blends,90.0,Feudi di San Gregorio Fiano di Avellino,0,
+542,6239,White,Italy,17.99,Pinot Gris/Grigio,90.0,Pighin Pinot Grigio,0,
+543,6240,White,New Zealand,14.99,Riesling,92.0,Forrest Estate The Doctors' Riesling,0,
+544,6246,White,USA,19.99,Chardonnay,90.0,Gundlach Bundschu Chardonnay,0,
+545,6252,White,USA,14.99,Chardonnay,90.0,High Flyer Sierra Madre Chardonnay,0,
+546,6261,White,USA,12.99,Chardonnay,90.0,Moobuzz Monterey Chardonnay,0,
+547,6263,White,USA,31.99,Chardonnay,89.0,Stag's Leap Wine Cellars KARIA Chardonnay,0,
+548,6271,White,USA,23.99,Chardonnay,90.0,William Hill Napa Valley Chardonnay,0,
+549,6277,White,USA,12.99,Petite Sirah,92.0,The Crusher Petite Sirah,0,
+550,6278,White,USA,15.99,Pinot Blanc,91.0,Valley of the Moon Pinot Blanc,0,
+551,6281,White,USA,29.99,Sauvignon Blanc,90.0,Grgich Hills Fume Blanc,0,
+552,6285,White,USA,19.99,Sauvignon Blanc,91.0,Matanzas Creek Sauvignon Blanc,0,
+553,6294,White,USA,10.99,Sauvignon Blanc,91.0,Matanzas Creek Sauvignon Blanc (375ML half-bottle),0,
+554,6302,White,USA,19.99,Sauvignon Blanc,90.0,Schug Sauvignon Blanc,0,
+555,6309,White,USA,13.99,Viognier,88.0,Bonterra Organically Grown Viognier,0,
+556,6317,White,USA,17.99,Riesling,92.0,Chateau Ste. Michelle Cold Creek Vineyard Riesling,0,
+557,6318,White,France,54.99,Chardonnay,89.0,Louis Jadot Chassagne-Montrachet,0,
+558,6321,White,France,29.99,Chardonnay,89.0,William Fevre Chablis Domaine,0,
+559,6329,White,Italy,18.99,Chardonnay,90.0,Frescobaldi Pomino Chardonnay,0,
+560,6332,White,USA,28.99,Chardonnay,93.0,Dierberg Chardonnay,0,
+561,6340,White,USA,25.99,Chardonnay,92.0,Melville Estate Chardonnay,0,
+562,6347,White,Chile,17.99,Sauvignon Blanc,91.0,Errazuriz Max Reserva Sauvignon Blanc,0,
+563,6353,White,Chile,10.99,Sauvignon Blanc,90.0,Los Vascos Sauvignon Blanc 2014,0,
+564,6359,White,Chile,18.99,Sauvignon Blanc,91.0,Vina Maipo Vitral Sauvignon Blanc,0,
+565,6363,White,South Africa,14.99,Chenin Blanc,90.0,Badenhorst Secateurs Chenin Blanc,0,
+566,6369,White,USA,45.99,Chardonnay,93.0,Flowers Sonoma Coast Chardonnay,0,
+567,6370,White,USA,23.99,Chardonnay,90.0,Landmark Overlook Chardonnay,0,
+568,6375,White,USA,23.99,Chardonnay,94.0,Thomas Fogarty Santa Cruz Mountains Chardonnay,0,
+569,6378,White,USA,10.99,Petite Sirah,89.0,Bogle Petite Sirah,0,
+570,6385,White,USA,19.99,Petite Sirah,94.0,Parducci True Grit Petite Sirah,0,
+571,6386,White,USA,39.99,Petite Sirah,91.0,Stags' Leap Winery Petite Sirah,0,
+572,6392,White,USA,16.99,Pinot Gris/Grigio,90.0,Erath Pinot Gris,0,
+573,6400,White,Austria,17.99,Gruner Veltliner,90.0,Loimer Lois Gruner Veltliner,0,
+574,6408,White,France,19.99,Bordeaux,91.0,Chateau Couhins Blanc,0,
+575,6414,White,France,67.99,Chardonnay,94.0,Chateau Fuisse Les Combettes Pouilly-Fuisse,0,
+576,6416,White,France,31.99,Chardonnay,93.0,Simonnet-Febvre Chablis Premier Cru Vaillons,0,
+577,6419,White,France,31.99,Sauvignon Blanc,90.0,Chateau de Sancerre,0,
+578,6427,White,Greece,17.99,Other White Wine,90.0,Boutari Moschofilero,0,
+579,6434,White,New Zealand,18.99,Sauvignon Blanc,90.0,Nautilus Sauvignon Blanc,0,
+580,6440,White,New Zealand,13.99,Sauvignon Blanc,90.0,Wither Hills Sauvignon Blanc,0,
+581,6446,White,USA,19.99,Chardonnay,91.0,DeLoach Russian River Chardonnay,0,
+582,6452,White,USA,15.99,Chardonnay,90.0,Rutherford Ranch Chardonnay,0,
+583,6453,White,USA,15.99,Chardonnay,90.0,Wente Morning Fog Chardonnay,0,
+584,6455,White,USA,26.99,Petite Sirah,92.0,Michael David Winery Earthquake Petite Sirah,0,
+585,6461,White,USA,24.99,Sauvignon Blanc,92.0,Hall Napa Valley Sauvignon Blanc,0,
+586,6467,White,USA,14.99,Sauvignon Blanc,89.0,Honig Sauvignon Blanc,0,
+587,6470,White,USA,19.99,Sauvignon Blanc,91.0,Merryvale Starmont Sauvignon Blanc,0,
+588,6476,White,USA,19.99,Pinot Gris/Grigio,90.0,WillaKenzie Estate Pinot Gris,0,
+589,6480,White,USA,14.99,Riesling,89.0,Willamette Valley Vineyards Riesling,0,
+590,6483,White,USA,14.99,Chardonnay,90.0,Boomtown by Dusted Valley Chardonnay,0,
+591,6486,White,USA,15.99,Chenin Blanc,92.0,L'Ecole 41 Chenin Blanc,0,
+592,6487,White,USA,12.99,Pinot Gris/Grigio,89.0,Chateau Ste. Michelle Pinot Gris,0,
+593,6493,White,USA,10.99,Riesling,88.0,Pacific Rim Riesling,0,
+594,6502,White,USA,21.99,Riesling,93.0,Poet's Leap Riesling,0,
+595,6508,White,USA,16.99,Sauvignon Blanc,90.0,Chateau Ste. Michelle Horse Heaven Vineyard Sauvignon Blanc,0,
+596,6514,White,Argentina,18.99,Chardonnay,89.0,Catena Chardonnay,0,
+597,6519,White,Australia,10.99,Chardonnay,89.0,Shoofly Chardonnay,0,
+598,6528,White,Australia,14.99,Chardonnay,90.0,Wild Oats Chardonnay,0,
+599,6534,White,Chile,11.99,Sauvignon Blanc,88.0,Concha y Toro Casillero del Diablo Sauvignon Blanc,0,
+600,6540,White,France,19.99,Gewurztraminer,90.0,Trimbach Gewurztraminer,0,
+601,6547,White,France,19.99,Rhone White Blends,90.0,Michel Gassier Costieres de Nimes Nostre Pais White,0,
+602,6550,White,France,17.99,Chenin Blanc,91.0,Guy Saget Vouvray Marie de Beauregard,0,
+603,6556,White,Italy,21.99,Muscat,89.0,Ceretto Santo Stefano Moscato d'Asti,0,
+604,6557,White,New Zealand,22.99,Sauvignon Blanc,90.0,Astrolabe Province Sauvignon Blanc,0,
+605,6558,White,New Zealand,17.99,Sauvignon Blanc,90.0,Saint Clair Family Estate Sauvignon Blanc,0,
+606,6564,White,South Africa,18.99,Chardonnay,90.0,De Wetshof Bon Vallon Chardonnay,0,
+607,6565,White,South Africa,15.99,Sauvignon Blanc,90.0,Bayten Buitenverwachting Sauvignon Blanc,0,
+608,6571,White,Spain,14.99,Other White Blends,90.0,Cune Monopole,0,
+609,6577,White,USA,24.99,Sauvignon Blanc,90.0,Round Pond Sauvignon Blanc,0,
+610,6578,White,USA,18.99,Pinot Gris/Grigio,90.0,Solena Estate Pinot Gris,0,
+611,6580,White,USA,24.99,Viognier,90.0,K Vintners Viognier,0,
+612,6583,White,Chile,7.99,Chardonnay,89.0,La Playa Estate Un-Oaked Chardonnay 2014,0,
+613,6589,White,Italy,13.99,Pinot Gris/Grigio,90.0,Masi Masianco Pinot Grigio/Verduzzo,0,
+614,6591,White,New Zealand,14.99,Sauvignon Blanc,90.0,Yealands Sauvignon Blanc 2014,0,
+615,6597,White,USA,29.99,Chardonnay,90.0,Pine Ridge Dijon Clone Carneros Chardonnay,0,
+616,6601,White,USA,19.99,Chardonnay,90.0,Rodney Strong Chalk Hill Chardonnay,0,
+617,6607,White,USA,15.99,Sauvignon Blanc,91.0,Rodney Strong Charlotte's Home Sauvignon Blanc,0,
