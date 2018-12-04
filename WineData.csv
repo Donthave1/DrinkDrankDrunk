@@ -1,0 +1,630 @@
+﻿Wine Type,Final Price,Grape Variety,Rating Score,Wine Name,Alcohol_Percent
+Dessert,19.99,Port,92,Yalumba Antique Reserve Tawny Port (375ML half-bottle),0
+Dessert,29.99,Port,93,Taylor Fladgate 10 Year Old Tawny,0
+Dessert,18.99,Other Dessert,94,Yalumba Museum Reserve Muscat (375ML half-bottle),0
+Dessert,51.99,Port,95,Taylor Fladgate 20 Year Old Tawny,0
+Dessert,34.99,Fruit Wine,92,Neige Apple Ice Wine (375ML half-bottle),0
+Dessert,17.99,Port,91,Quinta do Noval Noval Black,0
+Dessert,16.99,Port,90,Warre's Warrior Port,0
+Dessert,24.99,Other Dessert,97,Chateau Doisy Vedrines Sauternes (375ML half-bottle),0
+Dessert,12.99,Port,93,Terra d'Oro Zinfandel Port (375ML half-bottle),0
+Dessert,59.99,Other Dessert,96,Chateau Rieussec Sauternes,0
+Dessert,12.99,Port,90,Croft Fine Ruby,0
+Dessert,19.99,Port,90,Fonseca Bin No. 27 Port,0
+Dessert,18.99,Port,90,Fonseca Bin No. 27 Port Limited Edition Artist Series,0
+Dessert,22.99,Port,93,Fonseca Late Bottled Vintage,0
+Red,39.99,Pinot Noir,91,Bouchard Pere & Fils Beaune de Chateau Premier Cru Rouge,0
+Red,14.99,Cabernet Sauvignon,95,Antucura Cabernet Sauvignon,0
+Red,32.99,Syrah/Shiraz,96,John Duval Entity Shiraz,0
+Red,13.99,Syrah/Shiraz,93,Falernia Syrah Reserva,0
+Red,17.99,Other Red Blends,95,Brancaia Tre,0
+Red,28.99,Sangiovese,95,Fattorie Melini Chianti Classico Riserva La Selvanella,0
+Red,28.99,Sangiovese,93,Querciabella Chianti Classico,0
+Red,38.99,Pinot Noir,96,Greywacke Pinot Noir Marlborough,0
+Red,25.99,Tempranillo,93,Bodegas Muga Reserva,0
+Red,16.99,Tempranillo,93,Bodegas Muga Reserva (375ML half-bottle),0
+Red,16.99,Tempranillo,95,Bodegas Muriel Reserva,0
+Red,14.99,Tempranillo,90,Cune Crianza,0
+Red,27.99,Tempranillo,93,Finca Allende,0
+Red,59.99,Cabernet Sauvignon,95,Trinchero Cloud's Nest Vineyard Cabernet Sauvignon,0
+Red,23.99,Other Red Blends,93,Sean Thackrey Pleiades XXIII Old Vines Red Blend,0
+Red,9.99,Other Red Wine,90,J. Lohr Wildflower Valdiguie,0
+Red,24.99,Pinot Noir,92,Hahn Estates Santa Lucia Highlands Pinot Noir,0
+Red,33.99,Cabernet Sauvignon,95,Heartland Director's Cut Cabernet Sauvignon,0
+Red,21.99,Other Red Blends,93,Pepperjack Barossa Red Blend,0
+Red,39.99,Rhone Red Blends,94,Torbreck The Steading,0
+Red,25.99,Syrah/Shiraz,93,Elderton Shiraz,0
+Red,29.99,Syrah/Shiraz,93,Two Hands Gnarly Dudes Shiraz,0
+Red,19.99,Syrah/Shiraz,94,Yalumba Barossa Patchwork Shiraz,0
+Red,15.99,Syrah/Shiraz,92,Yalumba The Guardian Shiraz Viognier,0
+Red,12.99,Cabernet Sauvignon,91,Jacob's Creek Reserve Cabernet Sauvignon,0
+Red,19.99,Cabernet Sauvignon,92,Penley Estate Phoenix Cabernet Sauvignon,0
+Red,34.99,Cabernet Sauvignon,96,Wynns Coonawarra Estate Black Label Cabernet Sauvignon,0
+Red,24.99,Cabernet Sauvignon,94,Yalumba The Cigar Cabernet Sauvignon,0
+Red,29.99,Cabernet Sauvignon,96,Robert Oatley Finisterre Cabernet Sauvignon,0
+Red,18.99,Cabernet Sauvignon,92,Robert Oatley Signature Cabernet Sauvignon,0
+Red,33.99,Cabernet Sauvignon,95,Two Hands Sexy Beast Cabernet Sauvignon,0
+Red,44.99,Grenache,94,Twelftree Blewitt Springs Grenache,0
+Red,19.99,Syrah/Shiraz,89,d'Arenberg Footbolt Shiraz,0
+Red,15.99,Syrah/Shiraz,90,Red Knot Shiraz,0
+Red,18.99,Syrah/Shiraz,93,Robert Oatley McLaren Vale Shiraz,0
+Red,17.99,Pinot Noir,91,Innocent Bystander Pinot Noir,0
+Red,14.99,Bordeaux,94,Dona Paula Black Label Red Blend,0
+Red,19.99,Cabernet Sauvignon,92,Susana Balbo Signature Cabernet Sauvignon,0
+Red,18.99,Malbec,92,Altocedro Ano Cero Malbec,0
+Red,14.99,Malbec,93,Dona Paula Estate Malbec,0
+Red,19.99,Malbec,93,Susana Balbo Signature Malbec,0
+Red,19.99,Other Red Blends,92,Clos de los Siete Super Red Blend,0
+Red,89.99,Bordeaux,97,Lapostolle Clos Apalta,0
+Red,17.99,Cabernet Sauvignon,91,Los Vascos Grande Reserve Cabernet Sauvignon,0
+Red,19.99,Cabernet Sauvignon,89,Montes Alpha Series Cabernet Sauvignon,0
+Red,13.99,Cabernet Sauvignon,92,Santa Ema Reserve Cabernet Sauvignon,0
+Red,18.99,Cabernet Sauvignon,92,Vina Ventisquero Cabernet Sauvignon Grey Single Block Vineyard,0
+Red,15.99,Carmenere,93,Apaltagua Envero Carmenere,0
+Red,18.99,Bordeaux,91,Ch. Beaumont Haut Medoc,0
+Red,19.99,Bordeaux,91,Chateau Baret,0
+Red,25.99,Bordeaux,93,Chateau Clos des Jacobins (Futures Pre-sale),0
+Red,339,Bordeaux,100,Chateau Ducru Beaucaillou,0
+Red,19.99,Bordeaux,92,Chateau Fourcas Dupre,0
+Red,34.99,Bordeaux,93,Chateau Franc Mayne,0
+Red,49.99,Bordeaux,93,Chateau la Vieille Cure (1.5L Magnum),0
+Red,189,Bordeaux,98,Chateau Lynch-Bages,0
+Red,12.99,Bordeaux,92,Chateau Marsau Cotes de Francs (375ML half-bottle),0
+Red,39.99,Bordeaux,95,Chateau Olivier,0
+Red,145,Bordeaux,98,Chateau Rauzan Segla,0
+Red,59.99,Bordeaux,96,Clos du Marquis,0
+Red,89.99,Bordeaux,97,Domaine de Chevalier,0
+Red,12.99,Other Red Blends,90,Fattoria del Cerro Rosso di Montepulciano,0
+Red,15.99,Other Red Wine,91,Zaccagnini Il Vino Dal Tralcetto Montepulciano d'Abruzzo,0
+Red,34.99,Nebbiolo,93,Rocche Costamagna Barolo Rocche dell'Annunziata,0
+Red,19.99,Nero d'Avola,91,Tasca d'Almerita Lamuri Nero d'Avola Sicilia,0
+Red,99,Other Red Blends,95,Antinori Guado al Tasso,0
+Red,12.99,Other Red Blends,90,Banfi Centine Toscana,0
+Red,28.99,Other Red Blends,92,Luce Della Vite Lucente,0
+Red,11.99,Other Red Blends,90,Monte Antico Rosso,0
+Red,16.99,Other Red Blends,90,Tenuta La Badiola 642 Maremma Toscana,0
+Red,64.99,Other Red Blends,97,Tenuta Sette Ponti Oreno,0
+Red,99.99,Sangiovese,98,Bibi Graetz Testamatta,0
+Red,19.99,Sangiovese,92,Borgo Scopeto Borgonero,0
+Red,16.99,Sangiovese,90,Borgo Scopeto Chianti Classico,0
+Red,36.99,Sangiovese,95,Caparzo Brunello di Montalcino,0
+Red,77.99,Sangiovese,93,Casanova di Neri Brunello di Montalcino Tenuta Nuova,0
+Red,24.99,Sangiovese,93,Castello di Querceto Chianti Classico Riserva,0
+Red,49.99,Sangiovese,91,Fattoria dei Barbi Brunello di Montalcino,0
+Red,13.99,Sangiovese,90,Fattoria del Cerro Chianti Colli Senesi,0
+Red,19.99,Sangiovese,91,Frescobaldi Nipozzano Chianti Rufina Riserva,0
+Red,59.99,Sangiovese,95,Gianni Brunelli Brunello di Montalcino,0
+Red,51.99,Sangiovese,97,La Serena Brunello di Montalcino,0
+Red,24.99,Sangiovese,92,Tenuta di Nozzole Chianti Classico Riserva,0
+Red,49.99,Sangiovese,92,Tenute Silvio Nardi Brunello di Montalcino,0
+Red,239,Sangiovese,99,Valdicava Brunello di Montalcino (1.5 Liter Magnum),0
+Red,57.99,Pinot Noir,95,Escarpment Kiwa Pinot Noir,0
+Red,59.99,Pinot Noir,97,Escarpment Pahi Pinot Noir,0
+Red,69.99,Cabernet Sauvignon,91,Duckhorn Napa Cabernet Sauvignon,0
+Red,99,Cabernet Sauvignon,93,Stag's Leap Wine Cellars Fay Vineyard Cabernet Sauvignon,0
+Red,19.99,Pinot Noir,92,Schug Sonoma Coast Pinot Noir,0
+Red,16.99,Cabernet Sauvignon,90,Catena Cabernet Sauvignon,0
+Red,24.99,Malbec,90,Luigi Bosca Malbec,0
+Red,18.99,Malbec,92,TintoNegro Limestone Block Malbec,0
+Red,13.99,Malbec,91,TintoNegro Uco Valley-Mendoza Malbec,0
+Red,33.99,Pinot Noir,91,Luca Pinot Noir,0
+Red,59.99,Cabernet Sauvignon,90,Mollydooker Gigglepot Cabernet Sauvignon,0
+Red,16.99,Other Red Blends,90,Heartland Spice Trader Shiraz Cabernet Sauvignon,0
+Red,27.99,Cabernet Sauvignon,91,Langmeil The Blacksmith Cabernet Sauvignon,0
+Red,19.99,Rhone Red Blends,91,Rustom Farm Pughouse Shiraz Grenache,0
+Red,29.99,Syrah/Shiraz,92,Penfolds Kalimna Bin 28 Shiraz,0
+Red,149,Syrah/Shiraz,99,Clarendon Hills Astralis Syrah,0
+Red,139,Syrah/Shiraz,97,Clarendon Hills Astralis Syrah,0
+Red,26.99,Pinot Noir,93,Matetic EQ Pinot Noir,0
+Red,17.99,Other Red Blends,91,Locations by Dave Phinney F-2,0
+Red,129,Bordeaux,95,Chateau Gracia,0
+Red,64.99,Bordeaux,95,Chateau Larcis-Ducasse,0
+Red,249,Bordeaux,100,Chateau Leoville Poyferre,0
+Red,269,Bordeaux,100,Chateau Montrose,0
+Red,79.99,Bordeaux,95,Chateau Pape Clement (Futures Pre-sale),0
+Red,13.99,Rhone Red Blends,91,Bila-Haut by Michel Chapoutier Bila-Haut Cotes du Roussillon-Villages,0
+Red,29.99,Rhone Red Blends,94,Bila-Haut by Michel Chapoutier Occultum Lapidem,0
+Red,22.99,Rhone Red Blends,93,Domaine de Mourchon Cotes du Rhone Villages Seguret Grande Reserve,0
+Red,64.99,Rhone Red Blends,96,Vieille Julienne Chateauneuf-du-Pape Les Trois Sources,0
+Red,17.99,Other Red Blends,90,Locations by Dave Phinney I-1,0
+Red,59.99,Nebbiolo,95,Pio Cesare Barolo,0
+Red,45.99,Cabernet Sauvignon,93,Mazzei Philip Cabernet Sauvignon,0
+Red,39.99,Sangiovese,91,Caparzo Brunello di Montalcino,0
+Red,35.99,Sangiovese,94,Castello di Bossi Chianti Classico Riserva Berardo,0
+Red,22.99,Sangiovese,92,Felsina Berardenga Chianti Classico,0
+Red,15.99,Sangiovese,91,Felsina Berardenga Chianti Classico (375ML half-bottle),0
+Red,48.99,Sangiovese,95,Felsina Chianti Classico Riserva Rancia,0
+Red,71.99,Pinot Noir,95,Pyramid Valley Angel Flower Pinot Noir,0
+Red,39.99,Cabernet Franc,92,Pyramid Valley Howell Cabernet Franc,0
+Red,46.99,Pinot Noir,94,Hamilton Russell Pinot Noir,0
+Red,12.99,Grenache,90,Espelt Garnacha Old Vines,0
+Red,9.99,Grenache,89,Evodia Old Vine Grenache,0
+Red,11.99,Mourvedre,90,Bodegas Castano Hecula,0
+Red,11.99,Mourvedre,91,Bodegas Castano Hecula,0
+Red,15.99,Mourvedre,92,Vinos Sin-Ley Monastrell,0
+Red,15.99,Other Red Blends,94,Bodegas Castano Solanera,0
+Red,16.99,Other Red Blends,92,Bodegas Zerran Tinto,0
+Red,17.99,Other Red Blends,93,Locations by Dave Phinney E-2,0
+Red,18.99,Other Red Wine,90,Arturo Garcia Solar de Sael Crianza Bierzo,0
+Red,78.99,Other Red Blends,96,Marques de Murrieta Castillo Ygay Gran Reserva,0
+Red,16.99,Other Red Blends,91,Palacios Remondo La Montesa,0
+Red,14.99,Other Red Blends,90,Palacios Remondo Rioja Vendimia,0
+Red,11.99,Other Red Wine,90,Antano Gran Seleccion Graciano,0
+Red,54.99,Tempranillo,95,Bodegas Muga Gran Reserva Prado Enea,0
+Red,21.99,Tempranillo,91,Marques de Murrieta Rioja Reserva,0
+Red,59.99,Bordeaux,94,Anderson's Conn Valley Vineyards Right Bank Proprietary Red Blend,0
+Red,49.99,Bordeaux,90,Conn Creek Anthology,0
+Red,64.99,Bordeaux,92,Justin Isosceles,0
+Red,139.99,Bordeaux,94,Pahlmeyer Napa Valley Proprietary Red,0
+Red,73.99,Cabernet Sauvignon,90,Cakebread Cabernet Sauvignon,0
+Red,29.99,Cabernet Sauvignon,90,Emblem Napa Valley Cabernet Sauvignon,0
+Red,79.99,Cabernet Sauvignon,90,Etude Napa Valley Cabernet Sauvignon,0
+Red,199.99,Cabernet Sauvignon,100,Joseph Phelps Insignia,0
+Red,109,Cabernet Sauvignon,100,Joseph Phelps Insignia (375ML half-bottle),0
+Red,35.99,Cabernet Sauvignon,90,Louis Martini Napa Valley Cabernet Sauvignon,0
+Red,21.99,Cabernet Sauvignon,90,Michael David Winery Freakshow,0
+Red,56.99,Cabernet Sauvignon,89,Pine Ridge Napa Cabernet Sauvignon,0
+Red,24.99,Cabernet Sauvignon,91,Roth Alexander Valley Cabernet Sauvignon,0
+Red,57.99,Cabernet Sauvignon,93,Round Pond Estate Rutherford Cabernet Sauvignon,0
+Red,33.99,Cabernet Sauvignon,91,St. Supery Cabernet Sauvignon,0
+Red,29.99,Merlot,92,Freemark Abbey Merlot,0
+Red,18.99,Other Red Blends,88,Gundlach Bundschu Mountain Cuvee,0
+Red,13.99,Other Red Blends,89,Marietta Old Vine Red #62,0
+Red,18.99,Other Red Blends,91,Michael David Winery Petite Petit,0
+Red,39.99,Other Red Blends,92,The Prisoner Wine Company Prisoner,0
+Red,28.99,Other Red Wine,93,Taken Wine Company Napa Valley Red Blend,0
+Red,19.99,Pinot Noir,93,Migration Russian River Pinot Noir (375ML half-bottle),0
+Red,17.99,Pinot Noir,91,Siduri Santa Lucia Highlands Pinot Noir (375ML),0
+Red,33.99,Rhone Red Blends,93,Limerick Lane Syrah / Grenache,0
+Red,17.99,Zinfandel,90,Michael David Winery 7 Deadly Zins Zinfandel,0
+Red,45.99,Pinot Noir,92,Evening Land Eola-Amity Hills Seven Springs Vineyard Pinot Noir,0
+Red,78.99,Bordeaux,94,Col Solare,0
+Red,33.99,Cabernet Sauvignon,91,Chateau Ste. Michelle Cold Creek Vineyard Cabernet Sauvignon,0
+Red,17.99,Malbec,89,La Posta Angel Paulucci Vineyard Malbec,0
+Red,19.99,Malbec,90,Terrazas de los Andes Reserva Malbec,0
+Red,31.99,Malbec,91,Tikal Amorio Malbec,0
+Red,19.99,Syrah/Shiraz,91,Tait The Ball Buster,0
+Red,21.99,Syrah/Shiraz,91,Torbreck Woodcutters Shiraz,0
+Red,24.99,Syrah/Shiraz,91,d'Arenberg Laughing Magpie Shiraz Viognier,0
+Red,32.99,Rhone Red Blends,89,Domaine du Vieux Lazaret Chateauneuf-du-Pape,0
+Red,17.99,Rhone Red Blends,89,Domaine du Vieux Lazaret Chateauneuf-du-Pape (375ML half-bottle),0
+Red,239,Nebbiolo,97,Gaja Sperss,0
+Red,22.99,Nebbiolo,90,Marchesi di Gresy Nebbiolo Martinenga,0
+Red,19.99,Other Red Blends,91,Poggio al Tesoro Mediterra,0
+Red,18.99,Sangiovese,91,Castello di Meleto Chianti Classico,0
+Red,23.99,Sangiovese,90,Col d'Orcia Rosso di Montalcino,0
+Red,10.99,Grenache,88,Artazu Artazuri Garnacha,0
+Red,15.99,Grenache,91,Bodegas Breca,0
+Red,8.99,Grenache,89,Bodegas Breca Garnacha de Fuego,0
+Red,18.99,Grenache,92,Borsao Tres Picos Garnacha,0
+Red,12.99,Mourvedre,91,Bodegas Olivares Altos de la Hoya,0
+Red,16.99,Mourvedre,92,Bodegas Volver Tarima Hill,0
+Red,15.99,Tempranillo,90,Bodegas Barco de Piedra Tempranillo,0
+Red,12.99,Tempranillo,90,Vina Gormaz Tempranillo,0
+Red,10.99,Other Red Wine,90,Bodegas y Vinedos Ilurce Rio Madre Graciano,0
+Red,19.99,Tempranillo,90,Sierra Cantabria Crianza,0
+Red,68.99,Cabernet Sauvignon,91,Joseph Phelps Cabernet Sauvignon,0
+Red,53.99,Cabernet Sauvignon,93,Ramey Cabernet Sauvignon,0
+Red,59.99,Pinot Noir,92,Chasseur Umino Pinot Noir,0
+Red,74.99,Pinot Noir,92,Pahlmeyer Sonoma Coast Pinot Noir,0
+Red,29.99,Pinot Noir,90,WillaKenzie Estate Gisele Pinot Noir,0
+Red,89.99,Bordeaux,94,Figgins Estate Red Wine,0
+Red,10.99,Malbec,88,Trivento Malbec Reserve,0
+Red,10.99,Other Red Blends,88,Alamos Red Blend,0
+Red,19.99,Other Red Wine,93,Bodega Garzon Tannat,0
+Red,13.99,Other Red Blends,92,Montes Twins Red Blend,0
+Red,89,Nebbiolo,96,Marchesi di Barolo Barolo Cannubi,0
+Red,10.99,Sangiovese,88,Badia a Coltibuono Cetamura Chianti,0
+Red,21.99,Sangiovese,88,Santa Margherita Chianti Classico Riserva,0
+Red,19.99,Pinot Noir,90,Mohua Pinot Noir,0
+Red,37.99,Tempranillo,98,Faustino I Gran Reserva,0
+Red,24.99,Bordeaux,92,Robert Hall Meritage Red Blend,0
+Red,32.99,Cabernet Sauvignon,91,Atalon Cabernet Sauvignon,0
+Red,57.99,Cabernet Sauvignon,95,DAOU Vineyards Reserve Cabernet Sauvignon,0
+Red,71.99,Cabernet Sauvignon,95,Kenwood Artist Series Cabernet Sauvignon,0
+Red,57.99,Cabernet Sauvignon,95,Levendi Stagecoach Cabernet Sauvignon,0
+Red,9.99,Cabernet Sauvignon,90,Pennywise Cabernet Sauvignon,0
+Red,19.99,Cabernet Sauvignon,91,Plungerhead Dry Creek Cabernet Sauvignon,0
+Red,13.99,Cabernet Sauvignon,90,Plungerhead Lodi Cabernet Sauvignon,0
+Red,19.99,Cabernet Sauvignon,90,Rodney Strong Cabernet Sauvignon,0
+Red,55.99,Cabernet Sauvignon,91,Stag's Leap Wine Cellars Artemis Cabernet Sauvignon,0
+Red,32.99,Cabernet Sauvignon,91,Stag's Leap Wine Cellars Artemis Cabernet Sauvignon (375ML half-bottle),0
+Red,89,Merlot,95,Duckhorn Three Palms Merlot,0
+Red,39.99,Merlot,95,Grgich Hills Merlot,0
+Red,11.99,Merlot,91,Leese-Fitch Merlot,0
+Red,18.99,Other Red Blends,92,Brassfield Eruption Red Blend,0
+Red,11.99,Other Red Blends,90,Eppa SupraFruta Organic Red Sangria,0
+Red,9.99,Other Red Blends,90,Hey Mambo Sultry Red,0
+Red,41.99,Pinot Noir,92,Gary Farrell Russian River Pinot Noir,0
+Red,15.99,Zinfandel,88,Brazin Old Vine Lodi Zinfandel,0
+Red,11.99,Zinfandel,88,Four Vines Truant Zinfandel,0
+Red,21.99,Pinot Noir,89,A to Z Pinot Noir,0
+Red,29.99,Bordeaux,94,Browne Family Vineyards Tribute Red Blend,0
+Red,10.99,Syrah/Shiraz,88,d'Arenberg Stump Jump Shiraz,0
+Red,15.99,Gamay,91,Maison L'Envoye Morgon Cote du Py,0
+Red,34.99,Rhone Red Blends,94,Domaine du Gour de Chaule Gigondas Cuvee Tradition,0
+Red,69.99,Nebbiolo,96,Domenico Clerico Barolo Ciabot Mentin Ginestra,0
+Red,55.99,Nebbiolo,94,Marcarini Barolo Brunate,0
+Red,219,Bordeaux,97,Tenuta dell'Ornellaia,0
+Red,17.99,Other Red Blends,93,Poggio al Tufo Rompicollo,0
+Red,99,Sangiovese,95,Antinori Tignanello,0
+Red,23.99,Sangiovese,90,Castellare Chianti Classico,0
+Red,18.99,Sangiovese,89,Castello di Volpaia Chianti Classico,0
+Red,18.99,Sangiovese,89,Fattoria del Cerro Vino Nobile di Montepulciano,0
+Red,23.99,Sangiovese,95,Felsina Chianti Classico Riserva Rancia (half-bottle),0
+Red,29.99,Sangiovese,92,Fonterutoli Chianti Classico,0
+Red,99,Sangiovese,96,Il Poggione Brunello di Montalcino Riserva,0
+Red,29.99,Other Red Wine,92,Zenato Valpolicella Superiore Ripassa,0
+Red,12.99,Other Red Blends,88,Bodegas Carchelo C,0
+Red,139.99,Bordeaux,94,Dominus Estate,0
+Red,49.99,Bordeaux,91,Dominus Napanook Vineyard,0
+Red,89.99,Cabernet Sauvignon,92,Beaulieu Vineyard Georges de Latour Private Reserve,0
+Red,56.99,Cabernet Sauvignon,93,Chappellet Signature Cabernet Sauvignon,0
+Red,114.99,Cabernet Sauvignon,94,Chateau Montelena Estate Cabernet Sauvignon,0
+Red,115,Cabernet Sauvignon,92,Chateau Montelena Estate Cabernet Sauvignon,0
+Red,54.99,Cabernet Sauvignon,90,Hall Napa Valley Cabernet Sauvignon,0
+Red,179.99,Cabernet Sauvignon,95,Joseph Phelps Insignia,0
+Red,79.99,Cabernet Sauvignon,95,La Jota Howell Mountain Cabernet Sauvignon,0
+Red,79.99,Cabernet Sauvignon,94,Mt. Brave Cabernet Sauvignon,0
+Red,109,Cabernet Sauvignon,97,Philip Togni Cabernet Sauvignon,0
+Red,44.99,Cabernet Sauvignon,92,Robert Craig Cellars Affinity Cabernet Sauvignon,0
+Red,44.99,Pinot Noir,93,Joseph Phelps Freestone Vineyards Sonoma Coast Pinot Noir,0
+Red,34.99,Pinot Noir,90,La Crema Russian River Pinot Noir,0
+Red,37.99,Zinfandel,91,Ridge Pagani Ranch Zinfandel,0
+Red,19.99,Other Red Wine,91,Bouza Tannat Reserva,0
+Red,54.99,Malbec,94,Catena Alta Malbec,0
+Red,18.99,Malbec,92,Salentein Reserve Malbec,0
+Red,19.99,Other Red Blends,93,Bodega Noemia de Patagonia A Lisa,0
+Red,25.99,Other Red Blends,92,Bodega Noemia de Patagonia A Lisa,0
+Red,73.99,Syrah/Shiraz,94,Penfolds St. Henri Shiraz,0
+Red,19.99,Other Red Blends,89,Yalumba The Scribbler,0
+Red,19.99,Cabernet Sauvignon,90,Penley Estate Phoenix Cabernet Sauvignon,0
+Red,34.49,Cabernet Sauvignon,93,Morande House of Morande,0
+Red,15.99,Syrah/Shiraz,91,Merino Syrah,0
+Red,9.99,Rhone Red Blends,90,Louis Bernard Cotes du Rhone Villages,0
+Red,18.99,Barbera,91,Renato Ratti Barbera d'Asti,0
+Red,34.99,Pinot Noir,93,Dog Point Vineyard Pinot Noir,0
+Red,19.99,Other Red Blends,90,Vina Arnaiz Crianza,0
+Red,26.65,Tempranillo,91,Abadia Retuerta Seleccion Especial,0
+Red,49.99,Cabernet Sauvignon,93,Frog's Leap Estate Grown Cabernet Sauvignon,0
+Red,49.99,Cabernet Sauvignon,92,Jordan Cabernet Sauvignon,0
+Red,18.99,Merlot,92,Frog's Leap Merlot (375ML half-bottle),0
+Red,33.99,Pinot Noir,95,Joseph Jewell Russian River Valley Pinot Noir,0
+Red,18.99,Syrah/Shiraz,91,Qupe Central Coast Syrah,0
+Red,16.99,Zinfandel,93,DeLoach Russian River Zinfandel,0
+Red,15.99,Zinfandel,91,Frog's Leap Zinfandel (375ML half-bottle),0
+Red,21.99,Zinfandel,91,Quivira Dry Creek Valley Zinfandel,0
+Red,49.99,Pinot Noir,93,Adelsheim Elizabeth's Reserve Pinot Noir,0
+Red,25.99,Pinot Noir,90,Benton Lane Pinot Noir,0
+Red,54.99,Pinot Noir,94,Chapter 24 Fire + Flood The Flood Pinot Noir,0
+Red,74.99,Pinot Noir,96,Chapter 24 Last Chapter Pinot Noir,0
+Red,19.99,Pinot Noir,90,King Estate Acrobat Pinot Noir,0
+Red,29.99,Pinot Noir,93,Willamette Valley Vineyards Estate Pinot Noir,0
+Red,23.99,Bordeaux,93,Bodega Norton Privada,0
+Red,15.99,Cabernet Sauvignon,90,Bodega Norton Reserve Cabernet Sauvignon,0
+Red,18.99,Cabernet Sauvignon,90,Tapiz Alta Cabernet Sauvignon,0
+Red,19.99,Malbec,91,Catena Malbec,0
+Red,15.99,Malbec,91,Michel Torino Don David Reserve Malbec,0
+Red,27.99,Malbec,94,SonVida Malbec,0
+Red,19.99,Rhone Red Blends,91,d'Arenberg d'Arrys Original Shiraz/Grenache,0
+Red,18.99,Carmenere,92,Vina Ventisquero Carmenere Grey Single Block Trinidad Vineyard,0
+Red,22.99,Other Red Blends,91,Lapostolle Canto de Apalta Red Blend,0
+Red,97.99,Bordeaux,96,Chateau Beausejour Duffau,0
+Red,74.99,Bordeaux,95,Chateau Branaire-Ducru,0
+Red,39.99,Bordeaux,92,Chateau de Pez,0
+Red,19.99,Bordeaux,92,Chateau Des Annereaux Lalande de Pomerol,0
+Red,42.99,Bordeaux,90,Chateau Gloria,0
+Red,34.99,Bordeaux,93,Chateau Grand Mayne (Futures Pre-sale),0
+Red,69.99,Bordeaux,91,Chateau Labegorce (1.5 Liter Magnum),0
+Red,64.99,Bordeaux,92,Chateau Labegorce (1.5 Liter Magnum),0
+Red,29.99,Bordeaux,90,Chateau Laffitte Laujac,0
+Red,77.99,Bordeaux,95,Chateau Leoville Barton,0
+Red,17.99,Bordeaux,90,Chateau Lyonnat Lussac - Saint Emilion,0
+Red,79.99,Bordeaux,94,Chateau Magdelaine,0
+Red,129,Bordeaux,96,Chateau Pontet-Canet,0
+Red,14.99,Merlot,91,Château Mayne Vieil,0
+Red,17.99,Rhone Red Blends,91,Gerard Bertrand Fitou,0
+Red,17.99,Rhone Red Blends,90,Gerard Bertrand Syrah-Carignan Minervois,0
+Red,14.99,Rhone Red Blends,90,Chateau de Segries Cotes du Rhone,0
+Red,14.99,Rhone Red Blends,90,Guigal Cotes du Rhone Rouge,0
+Red,39.99,Rhone Red Blends,93,Tardieu-Laurent Chateauneuf-du-Pape,0
+Red,19.99,Nebbiolo,90,Damilano Marghe Nebbiolo Langhe,0
+Red,48.99,Nebbiolo,94,Massolino Barolo,0
+Red,28.99,Sangiovese,95,Felsina Fontalloro (375ML half-bottle),0
+Red,15.99,Sangiovese,90,Lamole di Lamole Chianti Classico,0
+Red,36.99,Other Red Blends,92,Accordini Igino Le Bessole Amarone della Valpolicella,0
+Red,19.99,Other Red Blends,90,Allegrini Palazzo della Torre,0
+Red,44.99,Other Red Wine,92,Goretti Sagrantino di Montefalco,0
+Red,49.99,Other Red Wine,95,Masi Costasera Amarone Classico,0
+Red,19.99,Pinot Noir,90,Saint Clair Family Estate Pinot Noir,0
+Red,48.99,Other Red Blends,92,Marco Abella Mas Mallola,0
+Red,8.99,Cabernet Sauvignon,88,Avalon California Cabernet Sauvignon,0
+Red,99,Cabernet Sauvignon,94,Groth Reserve Cabernet Sauvignon,0
+Red,13.99,Cabernet Sauvignon,88,Noble Vines 337 Lodi Cabernet Sauvignon,0
+Red,19.99,Cabernet Sauvignon,90,Oberon Cabernet Sauvignon,0
+Red,135,Cabernet Sauvignon,93,Quintessa,0
+Red,73.99,Cabernet Sauvignon,93,Quintessa (375ML half-bottle),0
+Red,109,Cabernet Sauvignon,95,Raymond Generations Cabernet Sauvignon,0
+Red,19.99,Cabernet Sauvignon,89,RouteStock Route 29 Cabernet Sauvignon,0
+Red,41.99,Cabernet Sauvignon,93,Stonestreet Estate Cabernet Sauvignon,0
+Red,14.99,Merlot,90,Bonterra Organically Grown Merlot,0
+Red,15.99,Merlot,91,Rays Station Merlot,0
+Red,10.99,Other Red Blends,91,Bogle Essential Red,0
+Red,14.99,Other Red Blends,91,GIFFT by Kathie Lee Gifford Red Blend,0
+Red,23.99,Pinot Noir,93,Byron Santa Maria Pinot Noir,0
+Red,22.99,Pinot Noir,91,Cambria Julia's Vineyard Pinot Noir,0
+Red,19.99,Pinot Noir,90,Chateau St. Jean Sonoma Coast Pinot Noir,0
+Red,38.99,Pinot Noir,92,Dutton Goldfield Dutton Ranch Pinot Noir,0
+Red,9.99,Pinot Noir,90,Line 39 Pinot Noir,0
+Red,19.99,Pinot Noir,90,Reata Three County Pinot Noir,0
+Red,19.99,Pinot Noir,90,Rodney Strong Estate Pinot Noir,0
+Red,16.99,Syrah/Shiraz,93,Andrew Murray Tous les Jours Syrah,0
+Red,17.99,Syrah/Shiraz,91,Michael David Winery 6th Sense Syrah,0
+Red,19.99,Syrah/Shiraz,92,Zaca Mesa Santa Ynez Valley Syrah,0
+Red,18.99,Zinfandel,92,Carol Shelton Wild Thing Zinfandel,0
+Red,22.99,Zinfandel,90,Decoy Zinfandel,0
+Red,15.99,Zinfandel,92,Tierra Divina ZA ZIN,0
+Red,39.99,Cabernet Sauvignon,92,L'Ecole 41 Walla Walla Valley Cabernet Sauvignon,0
+Red,24.99,Cabernet Sauvignon,91,Seven Hills Winery Columbia Valley Cabernet Sauvignon,0
+Red,17.99,Other Red Blends,91,Pendulum Red Blend,0
+Red,15.99,Syrah/Shiraz,90,Barnard Griffin Syrah,0
+Red,34.99,Bordeaux,92,Achaval-Ferrer Quimera,0
+Red,39.99,Bordeaux,94,Tikal Jubilo,0
+Red,17.99,Malbec,92,Bodega Norton Malbec Reserva,0
+Red,33.99,Malbec,93,Luca Malbec,0
+Red,10.99,Merlot,88,Tilia Merlot,0
+Red,19.99,Other Red Blends,91,Tikal Patriota,0
+Red,34.99,Cabernet Sauvignon,93,Clarendon Hills Brookman Vineyard Cabernet Sauvignon,0
+Red,28.99,Cabernet Sauvignon,90,Mollydooker The Maitre D' Cabernet Sauvignon,0
+Red,55.99,Syrah/Shiraz,92,Mollydooker Blue Eyed Boy Shiraz,0
+Red,13.99,Syrah/Shiraz,90,Wild Oats Shiraz,0
+Red,69.99,Syrah/Shiraz,95,Two Hands Bella's Garden Shiraz,0
+Red,14.99,Bordeaux,90,Greg Norman Estates Limestone Coast Cabernet/Merlot,0
+Red,16.99,Cabernet Sauvignon,90,Ringbolt Cabernet Sauvignon,0
+Red,39.99,Grenache,95,Clarendon Hills Kangarilla Grenache,0
+Red,10.99,Rhone Red Blends,89,d'Arenberg Stump Jump Red,0
+Red,44.99,Syrah/Shiraz,95,Clarendon Hills Hickinbotham Vineyard Syrah,0
+Red,78.99,Syrah/Shiraz,94,Mollydooker Carnival of Love,0
+Red,16.99,Bordeaux,89,Haras Character Cabernet Sauvignon-Carmenere,0
+Red,36.99,Bordeaux,93,Santa Rita Triple C,0
+Red,18.99,Cabernet Sauvignon,91,Concha y Toro Gran Reserva Serie Riberas Cabernet Sauvignon,0
+Red,23.99,Cabernet Sauvignon,91,Concha y Toro Marques de Casa Concha Cabernet Sauvignon,0
+Red,9.99,Cabernet Sauvignon,89,Veramonte Cabernet Sauvignon,0
+Red,34.99,Other Red Blends,91,Emiliana Coyam (Certified Biodynamic),0
+Red,13.99,Syrah/Shiraz,90,Vina Bisquertt La Joya Gran Reserva Syrah,0
+Red,29.99,Bordeaux,90,Chateau Barde Haut,0
+Red,59.99,Bordeaux,95,Chateau Monbousquet,0
+Red,17.99,Rhone Red Blends,90,Gerard Bertrand Grand Terroir Pic Saint Loup,0
+Red,32.99,Grenache,91,Guigal Gigondas Rouge,0
+Red,69.99,Rhone Red Blends,93,Chateau de Beaucastel Chateauneuf-du-Pape,0
+Red,59.99,Rhone Red Blends,95,Vieille Julienne Chateauneuf-du-Pape,0
+Red,24.99,Syrah/Shiraz,92,Maison Nicolas Perrin Crozes-Hermitage,0
+Red,29.99,Other Red Blends,91,Antinori Guado al Tasso Il Bruciato,0
+Red,12.99,Other Red Blends,90,Di Majo Norante Ramitello Rosso,0
+Red,23.99,Other Red Wine,91,Azienda Bisceglia Aglianico del Vulture Gudarra,0
+Red,15.99,Barbera,90,Bel Sit Barbera d'Asti La Turna,0
+Red,16.99,Merlot,90,Castiglion del Bosco Dainero,0
+Red,21.99,Other Red Blends,90,Antinori Villa Toscana,0
+Red,11.99,Other Red Blends,88,Frescobaldi Remole Toscana Rosso,0
+Red,14.99,Other Red Blends,90,Il Molino di Grace Il Volano,0
+Red,19.99,Other Red Blends,90,Querciabella Mongrana,0
+Red,229,Other Red Blends,95,Tenuta San Guido Sassicaia,0
+Red,29.99,Sangiovese,91,Avignonesi Vino Nobile di Montepulciano,0
+Red,11.99,Sangiovese,88,Bibi Graetz Casamatta Rosso,0
+Red,78.99,Sangiovese,96,Caparzo Brunello di Montalcino Riserva,0
+Red,19.99,Sangiovese,91,Castiglion del Bosco Rosso di Montalcino,0
+Red,54.99,Other Red Wine,91,Tedeschi Amarone della Valpolicella,0
+Red,24.99,Other Red Wine,90,Tommasi Ripasso Valpolicella,0
+Red,19.99,Other Red Blends,93,Churchill's Estates Duoro,0
+Red,17.99,Bordeaux,90,Glen Carlou Grand Classique,0
+Red,19.99,Bordeaux,91,Mulderbosch Faithful Hound,0
+Red,19.99,Bordeaux,89,Mulderbosch Faithful Hound,0
+Red,29.99,Cabernet Sauvignon,91,Rust en Vrede Cabernet Sauvignon,0
+Red,19.99,Other Red Blends,92,Losada Bierzo,0
+Red,16.99,Tempranillo,89,Bodegas Volver La Mancha Single Vineyard Tempranillo,0
+Red,14.99,Tempranillo,89,Campo Viejo Reserva Rioja,0
+Red,19.99,Tempranillo,91,Conde de Valdemar Rioja Inspiracion,0
+Red,29.99,Tempranillo,92,La Rioja Alta Vina Ardanza Reserva,0
+Red,12.99,Tempranillo,88,Marques de Caceres Rioja Crianza,0
+Red,15.99,Tempranillo,89,Vina Eguia Reserva,0
+Red,18.99,Tempranillo,90,Vina Herminia Rioja Reserva,0
+Red,28.99,Cabernet Sauvignon,90,Beringer Knights Valley Cabernet Sauvignon,0
+Red,23.99,Merlot,89,Markham Merlot,0
+Red,23.99,Other Red Blends,90,Markham Cellar 1879 Napa Valley Red Blend,0
+Red,39.99,Pinot Noir,92,Belle Glos Dairyman Vineyard Pinot Noir,0
+Red,39.99,Pinot Noir,93,Belle Glos Las Alturas Vineyard Pinot Noir,0
+Red,49.99,Pinot Noir,91,Goldeneye Anderson Valley Pinot Noir,0
+Red,22.99,Pinot Noir,88,La Crema Monterey Pinot Noir,0
+Red,43.99,Zinfandel,93,Seghesio Old Vine Zinfandel,0
+Red,27.99,Pinot Noir,92,Adelsheim Pinot Noir,0
+Red,18.99,Pinot Noir,92,Adelsheim Pinot Noir (375ML half-bottle),0
+Red,28.99,Pinot Noir,90,Elk Cove Willamette Valley Pinot Noir,0
+Red,33.99,Pinot Noir,90,La Crema Willamette Valley Pinot Noir,0
+Red,21.99,Pinot Noir,89,Panther Creek Winemaker's Cuvee Pinot Noir,0
+Red,39.99,Pinot Noir,92,Ponzi Willamette Valley Pinot Noir,0
+Red,29.99,Pinot Noir,92,Roco Willamette Valley Pinot Noir,0
+Red,15.99,Cabernet Sauvignon,88,Chateau Ste. Michelle Cabernet Sauvignon,0
+Red,12.99,Cabernet Sauvignon,90,Columbia Crest Grand Estates Cabernet Sauvignon,0
+Red,14.99,Cabernet Sauvignon,89,Milbrandt Traditions Cabernet Sauvignon,0
+Red,24.99,Cabernet Sauvignon,91,Novelty Hill Cabernet Sauvignon,0
+Red,12.99,Merlot,89,Columbia Crest Grand Estates Merlot,0
+Red,16.99,Syrah/Shiraz,90,Charles Smith Boom Boom Syrah,0
+Red,24.99,Syrah/Shiraz,91,Owen Roe Ex Umbris Syrah,0
+Red,11.99,Malbec,88,Belasco de Baquedano Llama Malbec,0
+Red,17.99,Merlot,91,Maimai Merlot,0
+Red,19.99,Bordeaux,91,Francis Ford Coppola Diamond Collection Claret,0
+Red,28.99,Cabernet Sauvignon,94,DAOU Vineyards Cabernet Sauvignon,0
+Red,41.99,Cabernet Sauvignon,90,Rombauer Cabernet Sauvignon,0
+Red,66.99,Cabernet Sauvignon,90,Silver Oak Alexander Valley Cabernet Sauvignon,0
+Red,99.99,Cabernet Sauvignon,92,Silver Oak Napa Valley Cabernet Sauvignon,0
+Red,29.99,Cabernet Sauvignon,90,Wine Spots Napa Cabernet Sauvignon,0
+Red,59.99,Merlot,95,Emmolo Merlot,0
+Red,29.99,Merlot,91,Swanson Oakville Merlot,0
+Red,54.99,Merlot,90,Twomey Cellars by Silver Oak Merlot,0
+Red,8.99,Other Red Wine,91,Heliotrope Winery Red Moscato,0
+Red,34.99,Pinot Noir,90,Davis Bynum Jane's Vineyard Pinot Noir,0
+Red,15.99,Zinfandel,88,Cline Ancient Vines Zinfandel,0
+Red,19.99,Zinfandel,90,Zinfandelic Sierra Foothills Old Vine Zinfandel,0
+Rose,9.99,Rosé,92,Angove Family Winemakers Nine Vines Rose,0
+Rose,79.99,Rosé Sparkling Wine,94,Billecart-Salmon Brut Rose,0
+Rose,46.99,Rosé Sparkling Wine,94,Billecart-Salmon Brut Rose (375ML half-bottle),0
+Rose,10.99,Rosé,90,Los Vascos Rose,0
+Rose,44.99,Rosé,90,Miraval Rose (1.5 Liter Magnum),0
+Rose,17.99,Rosé Sparkling Wine,90,Juve Y Camps Rose Brut Cava,0
+Rose,10.99,Rosé,90,Innocent Bystander Pink Moscato (375ML half-bottle) 2014,0
+Rose,15.99,Rosé,88,Domaine de Triennes Rose,0
+Rose,8.99,Rosé,88,Bonny Doon Vin Gris de Cigare,0
+Rose,72.99,Rosé Sparkling Wine,91,Veuve Clicquot Rose,0
+Rose,19.99,Rosé,92,Domaines Ott Les Domaniers Cotes de Provence Rose,0
+Rose,14.99,Rosé Sparkling Wine,90,Korbel Brut Rose,0
+Rose,68.99,Rosé Sparkling Wine,90,Moet & Chandon Rose Imperial,0
+Rose,94.99,Rosé Sparkling Wine,92,Veuve Clicquot Brut Rose,0
+Rose,26.99,Rosé Sparkling Wine,92,Roederer Estate Brut Rose,0
+Rose,13.99,Rosé,91,Charles & Charles Rose 2014,0
+Sparkling,219.99,Vintage Sparkling Wine,97,Louis Roederer Cristal Brut,0
+Sparkling,149.99,Vintage Sparkling Wine,95,Veuve Clicquot La Grande Dame,0
+Sparkling,14.99,Non-Vintage Sparkling Wine,90,Graham Beck Brut Methode Cap Classique,0
+Sparkling,195,Vintage Sparkling Wine,98,Dom Perignon Limited Edition Metamorphosis in Gift Box,0
+Sparkling,17.99,Non-Vintage Sparkling Wine,90,Nino Franco Rustico Prosecco,0
+Sparkling,12.99,Non-Vintage Sparkling Wine,88,Zardetto Brut Private Cuvee Prosecco,0
+Sparkling,17.99,Non-Vintage Sparkling Wine,92,Bodegas Botani Sparkling Muscat,0
+Sparkling,34.99,Non-Vintage Sparkling Wine,92,Moet & Chandon Imperial (375ML half-bottle),0
+Sparkling,12.99,Non-Vintage Sparkling Wine,91,Menage a Trois Prosecco,0
+Sparkling,54.99,Non-Vintage Sparkling Wine,90,Veuve Clicquot Brut Yellow Label with Ice Jacket,0
+Sparkling,14.99,Non-Vintage Sparkling Wine,90,Adami Prosecco Garbel 13,0
+Sparkling,12.99,Non-Vintage Sparkling Wine,88,Mionetto Il Lambrusco,0
+Sparkling,12.99,Non-Vintage Sparkling Wine,88,Valdo Prosecco,0
+Sparkling,11.99,Non-Vintage Sparkling Wine,88,Segura Viudas Aria Brut Cava,0
+Sparkling,19.99,Non-Vintage Sparkling Wine,90,Lucien Albrecht Cremant d'Alsace Brut,0
+Sparkling,134.99,Non-Vintage Sparkling Wine,97,Laurent-Perrier Grand Siecle,0
+Sparkling,19.99,Non-Vintage Sparkling Wine,90,Berlucchi Cuvee 61 Brut,0
+Sparkling,19.99,Non-Vintage Sparkling Wine,89,Domaine Chandon Blanc de Noirs,0
+Sparkling,26.99,Non-Vintage Sparkling Wine,93,Domaine Chandon Etoile,0
+Sparkling,21.99,Non-Vintage Sparkling Wine,90,Gloria Ferrer Brut,0
+Sparkling,26.99,Non-Vintage Sparkling Wine,91,J Vineyards & Winery Cuvee 20 Brut,0
+Sparkling,18.99,Non-Vintage Sparkling Wine,91,Mumm Napa Cuvee M,0
+Sparkling,14.99,Non-Vintage Sparkling Wine,92,Roederer Estate Brut (375ML half-bottle),0
+Sparkling,75.99,Non-Vintage Sparkling Wine,93,Bollinger Brut Special Cuvee,0
+Sparkling,39.99,Non-Vintage Sparkling Wine,92,Gosset Brut Excellence,0
+Sparkling,35.99,Non-Vintage Sparkling Wine,92,Mumm Brut Cordon Rouge,0
+Sparkling,52.99,Non-Vintage Sparkling Wine,91,Perrier-Jouet Grand Brut,0
+Sparkling,129.99,Non-Vintage Sparkling Wine,90,Veuve Clicquot Brut Yellow Label (1.5 Liter Magnum),0
+Sparkling,95,Vintage Sparkling Wine,93,Veuve Clicquot Vintage Brut,0
+Sparkling,12.99,Non-Vintage Sparkling Wine,87,Freixenet Sparkling Cordon Negro Brut Cava,0
+Sparkling,18.99,Non-Vintage Sparkling Wine,91,Mumm Napa Brut Prestige,0
+Sparkling,29.99,Vintage Sparkling Wine,90,Domaine Carneros Brut,0
+Sparkling,19.99,Vintage Sparkling Wine,91,Gloria Ferrer Brut Royal Cuvee,0
+Sparkling,18.99,Non-Vintage Sparkling Wine,90,Gruet Blanc de Noirs,0
+Sparkling,15.99,Non-Vintage Sparkling Wine,89,Gruet Brut,0
+White,18.99,Albarino,93,Pazo de Barrantes Albarino,0
+White,38.99,Chardonnay,91,Jordan Chardonnay,0
+White,19.99,Semillon,94,Brokenwood Semillon,0
+White,25.99,Chardonnay,96,Robert Oatley Finisterre Chardonnay,0
+White,16.99,Riesling,95,Pewsey Vale Eden Valley Riesling 2014,0
+White,10.99,Chardonnay,90,Los Vascos Chardonnay,0
+White,17.99,Sauvignon Blanc,93,Ritual Casablanca Valley Sauvignon Blanc,0
+White,28.99,Sauvignon Blanc,95,Les Hauts de Smith Blanc,0
+White,22.99,Pinot Gris/Grigio,92,Terlano Pinot Grigio,0
+White,14.99,Sauvignon Blanc,90,Forrest Estate The Doctors' Sauvignon Blanc,0
+White,14.99,Torrontes,92,Domingo Molina Hermanos Torrontes,0
+White,12.99,Other White Blends,90,Domaine Lafage Vin du Pays Cote d'Est,0
+White,34.99,Sauvignon Blanc,94,Alphonse Mellot Sancerre Blanc Le Moussiere,0
+White,71.99,Chardonnay,95,Pyramid Valley Lions Tooth Chardonnay,0
+White,9.99,Chenin Blanc,90,The Royal Chenin Blanc Old Vine Steen,0
+White,25.99,Sherry,96,Alvear Pedro Ximinez 1927 (375ML half-bottle),0
+White,27.99,Sherry,96,Emilio Lustau East India Solera,0
+White,16.99,Sherry,93,Emilio Lustau Solera Reserva los Arcos Dry Amontillado Sherry,0
+White,13.99,Other White Blends,90,Telmo Rodriguez Basa White,0
+White,34.99,Chardonnay,91,Beringer Luminus Chardonnay,0
+White,29.99,Chardonnay,92,Kendall-Jackson Jackson Estate Camelot Highlands Chardonnay,0
+White,24.99,Chardonnay,90,Matanzas Creek Chardonnay,0
+White,52.99,Chardonnay,94,Newton Unfiltered Chardonnay,0
+White,34.99,Chardonnay,91,Ramey Russian River Chardonnay,0
+White,35.99,Chardonnay,93,Stonestreet Estate Chardonnay,0
+White,29.99,Other White Blends,90,The Prisoner Wine Company Blindfold,0
+White,13.99,Petite Sirah,90,Spellbound Petite Sirah,0
+White,17.99,Sauvignon Blanc,91,Goldwater Sauvignon Blanc,0
+White,15.99,Albarino,89,Columna Albarino,0
+White,15.99,Albarino,90,Burgans Albarino,0
+White,17.99,Albarino,91,La Cana Albarino,0
+White,14.99,Albarino,91,Pazo de Galegos Albarino,0
+White,59.99,Chardonnay,91,Chasseur Lorenzo Chardonnay,0
+White,62.99,Chardonnay,91,Rochioli Chardonnay,0
+White,12.99,Riesling,90,August Kesseler R Riesling Kabinett,0
+White,19.99,Other White Blends,90,Feudi di San Gregorio Fiano di Avellino,0
+White,17.99,Pinot Gris/Grigio,90,Pighin Pinot Grigio,0
+White,14.99,Riesling,92,Forrest Estate The Doctors' Riesling,0
+White,19.99,Chardonnay,90,Gundlach Bundschu Chardonnay,0
+White,14.99,Chardonnay,90,High Flyer Sierra Madre Chardonnay,0
+White,12.99,Chardonnay,90,Moobuzz Monterey Chardonnay,0
+White,31.99,Chardonnay,89,Stag's Leap Wine Cellars KARIA Chardonnay,0
+White,23.99,Chardonnay,90,William Hill Napa Valley Chardonnay,0
+White,12.99,Petite Sirah,92,The Crusher Petite Sirah,0
+White,15.99,Pinot Blanc,91,Valley of the Moon Pinot Blanc,0
+White,29.99,Sauvignon Blanc,90,Grgich Hills Fume Blanc,0
+White,19.99,Sauvignon Blanc,91,Matanzas Creek Sauvignon Blanc,0
+White,10.99,Sauvignon Blanc,91,Matanzas Creek Sauvignon Blanc (375ML half-bottle),0
+White,19.99,Sauvignon Blanc,90,Schug Sauvignon Blanc,0
+White,13.99,Viognier,88,Bonterra Organically Grown Viognier,0
+White,17.99,Riesling,92,Chateau Ste. Michelle Cold Creek Vineyard Riesling,0
+White,54.99,Chardonnay,89,Louis Jadot Chassagne-Montrachet,0
+White,29.99,Chardonnay,89,William Fevre Chablis Domaine,0
+White,18.99,Chardonnay,90,Frescobaldi Pomino Chardonnay,0
+White,28.99,Chardonnay,93,Dierberg Chardonnay,0
+White,25.99,Chardonnay,92,Melville Estate Chardonnay,0
+White,17.99,Sauvignon Blanc,91,Errazuriz Max Reserva Sauvignon Blanc,0
+White,10.99,Sauvignon Blanc,90,Los Vascos Sauvignon Blanc 2014,0
+White,18.99,Sauvignon Blanc,91,Vina Maipo Vitral Sauvignon Blanc,0
+White,14.99,Chenin Blanc,90,Badenhorst Secateurs Chenin Blanc,0
+White,45.99,Chardonnay,93,Flowers Sonoma Coast Chardonnay,0
+White,23.99,Chardonnay,90,Landmark Overlook Chardonnay,0
+White,23.99,Chardonnay,94,Thomas Fogarty Santa Cruz Mountains Chardonnay,0
+White,10.99,Petite Sirah,89,Bogle Petite Sirah,0
+White,19.99,Petite Sirah,94,Parducci True Grit Petite Sirah,0
+White,39.99,Petite Sirah,91,Stags' Leap Winery Petite Sirah,0
+White,16.99,Pinot Gris/Grigio,90,Erath Pinot Gris,0
+White,17.99,Gruner Veltliner,90,Loimer Lois Gruner Veltliner,0
+White,19.99,Bordeaux,91,Chateau Couhins Blanc,0
+White,67.99,Chardonnay,94,Chateau Fuisse Les Combettes Pouilly-Fuisse,0
+White,31.99,Chardonnay,93,Simonnet-Febvre Chablis Premier Cru Vaillons,0
+White,31.99,Sauvignon Blanc,90,Chateau de Sancerre,0
+White,17.99,Other White Wine,90,Boutari Moschofilero,0
+White,18.99,Sauvignon Blanc,90,Nautilus Sauvignon Blanc,0
+White,13.99,Sauvignon Blanc,90,Wither Hills Sauvignon Blanc,0
+White,19.99,Chardonnay,91,DeLoach Russian River Chardonnay,0
+White,15.99,Chardonnay,90,Rutherford Ranch Chardonnay,0
+White,15.99,Chardonnay,90,Wente Morning Fog Chardonnay,0
+White,26.99,Petite Sirah,92,Michael David Winery Earthquake Petite Sirah,0
+White,24.99,Sauvignon Blanc,92,Hall Napa Valley Sauvignon Blanc,0
+White,14.99,Sauvignon Blanc,89,Honig Sauvignon Blanc,0
+White,19.99,Sauvignon Blanc,91,Merryvale Starmont Sauvignon Blanc,0
+White,19.99,Pinot Gris/Grigio,90,WillaKenzie Estate Pinot Gris,0
+White,14.99,Riesling,89,Willamette Valley Vineyards Riesling,0
+White,14.99,Chardonnay,90,Boomtown by Dusted Valley Chardonnay,0
+White,15.99,Chenin Blanc,92,L'Ecole 41 Chenin Blanc,0
+White,12.99,Pinot Gris/Grigio,89,Chateau Ste. Michelle Pinot Gris,0
+White,10.99,Riesling,88,Pacific Rim Riesling,0
+White,21.99,Riesling,93,Poet's Leap Riesling,0
+White,16.99,Sauvignon Blanc,90,Chateau Ste. Michelle Horse Heaven Vineyard Sauvignon Blanc,0
+White,18.99,Chardonnay,89,Catena Chardonnay,0
+White,10.99,Chardonnay,89,Shoofly Chardonnay,0
+White,14.99,Chardonnay,90,Wild Oats Chardonnay,0
+White,11.99,Sauvignon Blanc,88,Concha y Toro Casillero del Diablo Sauvignon Blanc,0
+White,19.99,Gewurztraminer,90,Trimbach Gewurztraminer,0
+White,19.99,Rhone White Blends,90,Michel Gassier Costieres de Nimes Nostre Pais White,0
+White,17.99,Chenin Blanc,91,Guy Saget Vouvray Marie de Beauregard,0
+White,21.99,Muscat,89,Ceretto Santo Stefano Moscato d'Asti,0
+White,22.99,Sauvignon Blanc,90,Astrolabe Province Sauvignon Blanc,0
+White,17.99,Sauvignon Blanc,90,Saint Clair Family Estate Sauvignon Blanc,0
+White,18.99,Chardonnay,90,De Wetshof Bon Vallon Chardonnay,0
+White,15.99,Sauvignon Blanc,90,Bayten Buitenverwachting Sauvignon Blanc,0
+White,14.99,Other White Blends,90,Cune Monopole,0
+White,24.99,Sauvignon Blanc,90,Round Pond Sauvignon Blanc,0
+White,18.99,Pinot Gris/Grigio,90,Solena Estate Pinot Gris,0
+White,24.99,Viognier,90,K Vintners Viognier,0
+White,7.99,Chardonnay,89,La Playa Estate Un-Oaked Chardonnay 2014,0
+White,13.99,Pinot Gris/Grigio,90,Masi Masianco Pinot Grigio/Verduzzo,0
+White,14.99,Sauvignon Blanc,90,Yealands Sauvignon Blanc 2014,0
+White,29.99,Chardonnay,90,Pine Ridge Dijon Clone Carneros Chardonnay,0
+White,19.99,Chardonnay,90,Rodney Strong Chalk Hill Chardonnay,0
+White,15.99,Sauvignon Blanc,91,Rodney Strong Charlotte's Home Sauvignon Blanc,0
