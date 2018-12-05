@@ -1,0 +1,595 @@
+,index,Wine Type,Country,Final Price,Grape Variety,Rating Score,Wine Name,alcohol_percent,food_pairing
+0,32,Dessert,Australia,19.99,Port,92,Yalumba Antique Reserve Tawny Port ,19%,Chocolate and Caramel
+1,39,Dessert,Portugal,29.99,Port,93,Taylor Fladgate 10 Year Old Tawny,20%,Chocolate and Caramel
+2,42,Dessert,Australia,18.99,Other Dessert,94,Yalumba Museum Reserve Muscat ,18%,Chilis and Hot Spicy Foods
+3,45,Dessert,Portugal,51.99,Port,95,Taylor Fladgate 20 Year Old Tawny,19-20%,Chocolate and Caramel
+4,49,Dessert,Portugal,17.99,Port,91,Quinta do Noval Noval Black,19-20%,Chocolate and Caramel
+5,55,Dessert,Portugal,16.99,Port,90,Warre's Warrior Port,20%,Chocolate and Caramel
+6,59,Dessert,France,24.99,Other Dessert,97,Chateau Doisy Vedrines Sauternes ,13-14%,Blue Cheeses
+7,65,Dessert,USA,12.99,Port,93,Terra d'Oro Zinfandel Port ,19%,Chocolate and Caramel
+8,68,Dessert,France,59.99,Other Dessert,96,Chateau Rieussec Sauternes,12-14%,Blue Cheeses
+9,71,Dessert,Portugal,12.99,Port,90,Croft Fine Ruby,20%,Chocolate and Caramel
+10,78,Dessert,Portugal,19.99,Port,90,Fonseca Bin No. 27 Port,20%,Chocolate and Caramel
+11,84,Dessert,Portugal,18.99,Port,90,Fonseca Bin No. 27 Port Limited Edition Artist Series,20%,Chocolate and Caramel
+12,87,Dessert,Portugal,22.99,Port,93,Fonseca Late Bottled Vintage,20%,Chocolate and Caramel
+13,2355,Red,France,39.99,Pinot Noir,91,Bouchard Pere & Fils Beaune de Chateau Premier Cru Rouge,12-13%,"Duck, Goose and Game Birds"
+14,2364,Red,Argentina,14.99,Cabernet Sauvignon,95,Antucura Cabernet Sauvignon,14-15%,Beef and Venison
+15,2365,Red,Australia,32.99,Syrah/Shiraz,96,John Duval Entity Shiraz,14%,Beef and Venison
+16,2366,Red,Chile,13.99,Syrah/Shiraz,93,Falernia Syrah Reserva,14%,Lamb
+17,2367,Red,Italy,17.99,Other Red Blends,95,Brancaia Tre,13-14%,Beef and Venison
+18,2368,Red,Italy,28.99,Sangiovese,95,Fattorie Melini Chianti Classico Riserva La Selvanella,13-14%,Lamb
+19,2369,Red,Italy,28.99,Sangiovese,93,Querciabella Chianti Classico,13-14%,Lamb
+20,2376,Red,New Zealand,38.99,Pinot Noir,96,Greywacke Pinot Noir Marlborough,13-14%,Meaty and Oily Fish
+21,2382,Red,Spain,25.99,Tempranillo,93,Bodegas Muga Reserva,13-14%,Lamb
+22,2383,Red,Spain,16.99,Tempranillo,93,Bodegas Muga Reserva ,13-14%,Lamb
+23,2385,Red,Spain,16.99,Tempranillo,95,Bodegas Muriel Reserva,13-14%,Lamb
+24,2386,Red,Spain,14.99,Tempranillo,90,Cune Crianza,12-14%,Lamb
+25,2387,Red,Spain,27.99,Tempranillo,93,Finca Allende,13-14%,Lamb
+26,2396,Red,USA,59.99,Cabernet Sauvignon,95,Trinchero Cloud's Nest Vineyard Cabernet Sauvignon,14-15%,Beef and Venison
+27,2397,Red,USA,23.99,Other Red Blends,93,Sean Thackrey Pleiades XXIII Old Vines Red Blend,13-15%,Lamb
+28,2404,Red,USA,9.99,Other Red Wine,90,J. Lohr Wildflower Valdiguie,12-13%,Lamb
+29,2411,Red,USA,24.99,Pinot Noir,92,Hahn Estates Santa Lucia Highlands Pinot Noir,14-15%,Chicken and Turkey
+30,2412,Red,Australia,33.99,Cabernet Sauvignon,95,Heartland Director's Cut Cabernet Sauvignon,14-15%,Beef and Venison
+31,2418,Red,Australia,21.99,Other Red Blends,93,Pepperjack Barossa Red Blend,14%,Beef and Venison
+32,2425,Red,Australia,39.99,Rhone Red Blends,94,Torbreck The Steading,14-15%,Beef and Venison
+33,2434,Red,Australia,25.99,Syrah/Shiraz,93,Elderton Shiraz,14%,Beef and Venison
+34,2440,Red,Australia,29.99,Syrah/Shiraz,93,Two Hands Gnarly Dudes Shiraz,13-15%,Beef and Venison
+35,2447,Red,Australia,19.99,Syrah/Shiraz,94,Yalumba Barossa Patchwork Shiraz,13-14%,Beef and Venison
+36,2454,Red,Australia,15.99,Syrah/Shiraz,92,Yalumba The Guardian Shiraz Viognier,13-14%,Beef and Venison
+37,2457,Red,Australia,12.99,Cabernet Sauvignon,91,Jacob's Creek Reserve Cabernet Sauvignon,13-14%,Beef and Venison
+38,2458,Red,Australia,19.99,Cabernet Sauvignon,92,Penley Estate Phoenix Cabernet Sauvignon,14-15%,Beef and Venison
+39,2459,Red,Australia,34.99,Cabernet Sauvignon,96,Wynns Coonawarra Estate Black Label Cabernet Sauvignon,12-14%,Beef and Venison
+40,2460,Red,Australia,24.99,Cabernet Sauvignon,94,Yalumba The Cigar Cabernet Sauvignon,13-14%,Beef and Venison
+41,2462,Red,Australia,29.99,Cabernet Sauvignon,96,Robert Oatley Finisterre Cabernet Sauvignon,13-14%,Beef and Venison
+42,2463,Red,Australia,18.99,Cabernet Sauvignon,92,Robert Oatley Signature Cabernet Sauvignon,12-14%,Beef and Venison
+43,2464,Red,Australia,33.99,Cabernet Sauvignon,95,Two Hands Sexy Beast Cabernet Sauvignon,13-14%,Beef and Venison
+44,2465,Red,Australia,44.99,Grenache,94,Twelftree Blewitt Springs Grenache,14%,Beef and Venison
+45,2471,Red,Australia,19.99,Syrah/Shiraz,89,d'Arenberg Footbolt Shiraz,14%,Beef and Venison
+46,2479,Red,Australia,15.99,Syrah/Shiraz,90,Red Knot Shiraz,13-14%,Beef and Venison
+47,2482,Red,Australia,18.99,Syrah/Shiraz,93,Robert Oatley McLaren Vale Shiraz,14-15%,Beef and Venison
+48,2485,Red,Australia,17.99,Pinot Noir,91,Innocent Bystander Pinot Noir,13-14%,Chicken and Turkey
+49,2491,Red,Argentina,14.99,Bordeaux,94,Dona Paula Black Label Red Blend,13-14%,Beef and Venison
+50,2492,Red,Argentina,19.99,Cabernet Sauvignon,92,Susana Balbo Signature Cabernet Sauvignon,13-14%,Beef and Venison
+51,2493,Red,Argentina,18.99,Malbec,92,Altocedro Ano Cero Malbec,13-15%,Beef and Venison
+52,2501,Red,Argentina,14.99,Malbec,93,Dona Paula Estate Malbec,13-14%,Beef and Venison
+53,2502,Red,Argentina,19.99,Malbec,93,Susana Balbo Signature Malbec,13-14%,Beef and Venison
+54,2503,Red,Argentina,19.99,Other Red Blends,92,Clos de los Siete Super Red Blend,14-15%,Beef and Venison
+55,2504,Red,Chile,89.99,Bordeaux,97,Lapostolle Clos Apalta,14-15%,Beef and Venison
+56,2507,Red,Chile,17.99,Cabernet Sauvignon,91,Los Vascos Grande Reserve Cabernet Sauvignon,14%,Beef and Venison
+57,2514,Red,Chile,19.99,Cabernet Sauvignon,89,Montes Alpha Series Cabernet Sauvignon,13-14%,Beef and Venison
+58,2517,Red,Chile,13.99,Cabernet Sauvignon,92,Santa Ema Reserve Cabernet Sauvignon,13-14%,Beef and Venison
+59,2524,Red,Chile,18.99,Cabernet Sauvignon,92,Vina Ventisquero Cabernet Sauvignon Grey Single Block Vineyard,14%,Beef and Venison
+60,2530,Red,Chile,15.99,Carmenere,93,Apaltagua Envero Carmenere,14%,Beef and Venison
+61,2536,Red,France,18.99,Bordeaux,91,Ch. Beaumont Haut Medoc,12-14%,Beef and Venison
+62,2537,Red,France,19.99,Bordeaux,91,Chateau Baret,12-14%,Beef and Venison
+63,2546,Red,France,25.99,Bordeaux,93,Chateau Clos des Jacobins ,13-14%,Beef and Venison
+64,2554,Red,France,339,Bordeaux,100,Chateau Ducru Beaucaillou,12-13%,Beef and Venison
+65,2560,Red,France,19.99,Bordeaux,92,Chateau Fourcas Dupre,12-13%,Beef and Venison
+66,2569,Red,France,34.99,Bordeaux,93,Chateau Franc Mayne,12-14%,Beef and Venison
+67,2571,Red,France,49.99,Bordeaux,93,Chateau la Vieille Cure ,14-15%,Beef and Venison
+68,2577,Red,France,189,Bordeaux,98,Chateau Lynch-Bages,12-13%,Beef and Venison
+69,2586,Red,France,12.99,Bordeaux,92,Chateau Marsau Cotes de Francs ,14%,Beef and Venison
+70,2588,Red,France,39.99,Bordeaux,95,Chateau Olivier,13-14%,Beef and Venison
+71,2594,Red,France,145,Bordeaux,98,Chateau Rauzan Segla,12-14%,Beef and Venison
+72,2600,Red,France,59.99,Bordeaux,96,Clos du Marquis,12-13%,Beef and Venison
+73,2606,Red,France,89.99,Bordeaux,97,Domaine de Chevalier,12-14%,Beef and Venison
+74,2614,Red,Italy,12.99,Other Red Blends,90,Fattoria del Cerro Rosso di Montepulciano,12-14%,Beef and Venison
+75,2615,Red,Italy,15.99,Other Red Wine,91,Zaccagnini Il Vino Dal Tralcetto Montepulciano d'Abruzzo,12-13%,Beef and Venison
+76,2616,Red,Italy,34.99,Nebbiolo,93,Rocche Costamagna Barolo Rocche dell'Annunziata,13-14%,Lamb
+77,2622,Red,Italy,19.99,Nero d'Avola,91,Tasca d'Almerita Lamuri Nero d'Avola Sicilia,13-14%,Beef and Venison
+78,2629,Red,Italy,99,Other Red Blends,95,Antinori Guado al Tasso,13-14%,Beef and Venison
+79,2635,Red,Italy,12.99,Other Red Blends,90,Banfi Centine Toscana,12-14%,Beef and Venison
+80,2644,Red,Italy,28.99,Other Red Blends,92,Luce Della Vite Lucente,13-14%,Beef and Venison
+81,2650,Red,Italy,11.99,Other Red Blends,90,Monte Antico Rosso,12-13%,Beef and Venison
+82,2651,Red,Italy,16.99,Other Red Blends,90,Tenuta La Badiola 642 Maremma Toscana,14%,Beef and Venison
+83,2654,Red,Italy,64.99,Other Red Blends,97,Tenuta Sette Ponti Oreno,14-15%,Beef and Venison
+84,2655,Red,Italy,99.99,Sangiovese,98,Bibi Graetz Testamatta,12-14%,Beef and Venison
+85,2656,Red,Italy,19.99,Sangiovese,92,Borgo Scopeto Borgonero,13-14%,Beef and Venison
+86,2662,Red,Italy,16.99,Sangiovese,90,Borgo Scopeto Chianti Classico,12-13%,Lamb
+87,2663,Red,Italy,36.99,Sangiovese,95,Caparzo Brunello di Montalcino,13-15%,Beef and Venison
+88,2664,Red,Italy,77.99,Sangiovese,93,Casanova di Neri Brunello di Montalcino Tenuta Nuova,14-15%,Beef and Venison
+89,2672,Red,Italy,24.99,Sangiovese,93,Castello di Querceto Chianti Classico Riserva,12-14%,Lamb
+90,2673,Red,Italy,49.99,Sangiovese,91,Fattoria dei Barbi Brunello di Montalcino,13-14%,Beef and Venison
+91,2679,Red,Italy,13.99,Sangiovese,90,Fattoria del Cerro Chianti Colli Senesi,12-14%,Lamb
+92,2685,Red,Italy,19.99,Sangiovese,91,Frescobaldi Nipozzano Chianti Rufina Riserva,12-14%,Lamb
+93,2686,Red,Italy,59.99,Sangiovese,95,Gianni Brunelli Brunello di Montalcino,13-14%,Beef and Venison
+94,2687,Red,Italy,51.99,Sangiovese,97,La Serena Brunello di Montalcino,14-15%,Beef and Venison
+95,2688,Red,Italy,24.99,Sangiovese,92,Tenuta di Nozzole Chianti Classico Riserva,13-14%,Lamb
+96,2690,Red,Italy,49.99,Sangiovese,92,Tenute Silvio Nardi Brunello di Montalcino,13-14%,Beef and Venison
+97,2693,Red,Italy,239,Sangiovese,99,Valdicava Brunello di Montalcino ,13-14%,Beef and Venison
+98,2700,Red,New Zealand,57.99,Pinot Noir,95,Escarpment Kiwa Pinot Noir,13-14%,Meaty and Oily Fish
+99,2706,Red,New Zealand,59.99,Pinot Noir,97,Escarpment Pahi Pinot Noir,12-14%,Meaty and Oily Fish
+100,2707,Red,USA,69.99,Cabernet Sauvignon,91,Duckhorn Napa Cabernet Sauvignon,13-14%,Beef and Venison
+101,2714,Red,USA,99,Cabernet Sauvignon,93,Stag's Leap Wine Cellars Fay Vineyard Cabernet Sauvignon,13-14%,Beef and Venison
+102,2720,Red,USA,19.99,Pinot Noir,92,Schug Sonoma Coast Pinot Noir,13-14%,"Duck, Goose and Game Birds"
+103,2721,Red,Argentina,16.99,Cabernet Sauvignon,90,Catena Cabernet Sauvignon,13-14%,Beef and Venison
+104,2729,Red,Argentina,24.99,Malbec,90,Luigi Bosca Malbec,13-14%,Beef and Venison
+105,2736,Red,Argentina,18.99,Malbec,92,TintoNegro Limestone Block Malbec,14%,Beef and Venison
+107,2738,Red,Argentina,33.99,Pinot Noir,91,Luca Pinot Noir,14%,Chicken and Turkey
+108,2746,Red,Australia,59.99,Cabernet Sauvignon,90,Mollydooker Gigglepot Cabernet Sauvignon,15-16%,Beef and Venison
+109,2749,Red,Australia,16.99,Other Red Blends,90,Heartland Spice Trader Shiraz Cabernet Sauvignon,14%,Beef and Venison
+110,2756,Red,Australia,27.99,Cabernet Sauvignon,91,Langmeil The Blacksmith Cabernet Sauvignon,14-15%,Beef and Venison
+112,2765,Red,Australia,29.99,Syrah/Shiraz,92,Penfolds Kalimna Bin 28 Shiraz,14%,Beef and Venison
+113,2767,Red,Australia,149,Syrah/Shiraz,99,Clarendon Hills Astralis Syrah,13-14%,Beef and Venison
+114,2780,Red,Chile,26.99,Pinot Noir,93,Matetic EQ Pinot Noir,14-15%,Chicken and Turkey
+116,2782,Red,France,129,Bordeaux,95,Chateau Gracia,15%,Beef and Venison
+117,2785,Red,France,64.99,Bordeaux,95,Chateau Larcis-Ducasse,14%,Beef and Venison
+118,2794,Red,France,249,Bordeaux,100,Chateau Leoville Poyferre,12-47%,Beef and Venison
+119,2795,Red,France,269,Bordeaux,100,Chateau Montrose,12-14%,Beef and Venison
+120,2798,Red,France,79.99,Bordeaux,95,Chateau Pape Clement ,13-14%,Beef and Venison
+121,2801,Red,France,13.99,Rhone Red Blends,91,Bila-Haut by Michel Chapoutier Bila-Haut Cotes du Roussillon-Villages,12-14%,Lamb
+122,2802,Red,France,29.99,Rhone Red Blends,94,Bila-Haut by Michel Chapoutier Occultum Lapidem,14%,Lamb
+123,2805,Red,France,22.99,Rhone Red Blends,93,Domaine de Mourchon Cotes du Rhone Villages Seguret Grande Reserve,13-15%,Lamb
+126,2827,Red,Italy,59.99,Nebbiolo,95,Pio Cesare Barolo,14%,Lamb
+127,2828,Red,Italy,45.99,Cabernet Sauvignon,93,Mazzei Philip Cabernet Sauvignon,13-14%,Beef and Venison
+128,2839,Red,Italy,35.99,Sangiovese,94,Castello di Bossi Chianti Classico Riserva Berardo,13-14%,Lamb
+129,2845,Red,Italy,22.99,Sangiovese,92,Felsina Berardenga Chianti Classico,13-14%,Lamb
+130,2848,Red,Italy,15.99,Sangiovese,91,Felsina Berardenga Chianti Classico ,13-14%,Lamb
+131,2854,Red,Italy,48.99,Sangiovese,95,Felsina Chianti Classico Riserva Rancia,13-14%,Lamb
+132,2860,Red,New Zealand,71.99,Pinot Noir,95,Pyramid Valley Angel Flower Pinot Noir,12-14%,Meaty and Oily Fish
+133,2861,Red,New Zealand,39.99,Cabernet Franc,92,Pyramid Valley Howell Cabernet Franc,14%,Beef and Venison
+134,2862,Red,South Africa,46.99,Pinot Noir,94,Hamilton Russell Pinot Noir,13-14%,"Duck, Goose and Game Birds"
+135,2868,Red,Spain,12.99,Grenache,90,Espelt Garnacha Old Vines,13-15%,Lamb
+136,2874,Red,Spain,9.99,Grenache,89,Evodia Old Vine Grenache,15%,Lamb
+137,2875,Red,Spain,11.99,Mourvedre,90,Bodegas Castano Hecula,13-14%,Lamb
+138,2888,Red,Spain,15.99,Mourvedre,92,Vinos Sin-Ley Monastrell,14%,Lamb
+139,2896,Red,Spain,15.99,Other Red Blends,94,Bodegas Castano Solanera,14%,Lamb
+140,2897,Red,Spain,16.99,Other Red Blends,92,Bodegas Zerran Tinto,14%,Lamb
+142,2899,Red,Spain,18.99,Other Red Wine,90,Arturo Garcia Solar de Sael Crianza Bierzo,14%,Lamb
+143,2908,Red,Spain,78.99,Other Red Blends,96,Marques de Murrieta Castillo Ygay Gran Reserva,13-14%,Lamb
+144,2914,Red,Spain,16.99,Other Red Blends,91,Palacios Remondo La Montesa,13-14%,Lamb
+145,2915,Red,Spain,14.99,Other Red Blends,90,Palacios Remondo Rioja Vendimia,13-14%,Lamb
+147,2919,Red,Spain,54.99,Tempranillo,95,Bodegas Muga Gran Reserva Prado Enea,13-14%,Lamb
+148,2925,Red,Spain,21.99,Tempranillo,91,Marques de Murrieta Rioja Reserva,13-14%,Lamb
+150,2933,Red,USA,49.99,Bordeaux,90,Conn Creek Anthology,14-15%,Beef and Venison
+151,2940,Red,USA,64.99,Bordeaux,92,Justin Isosceles,14-16%,Beef and Venison
+152,2946,Red,USA,139.99,Bordeaux,94,Pahlmeyer Napa Valley Proprietary Red,15%,Beef and Venison
+153,2947,Red,USA,73.99,Cabernet Sauvignon,90,Cakebread Cabernet Sauvignon,14%,Beef and Venison
+154,2948,Red,USA,29.99,Cabernet Sauvignon,90,Emblem Napa Valley Cabernet Sauvignon,14%,Beef and Venison
+155,2955,Red,USA,79.99,Cabernet Sauvignon,90,Etude Napa Valley Cabernet Sauvignon,14%,Beef and Venison
+156,2957,Red,USA,199.99,Cabernet Sauvignon,100,Joseph Phelps Insignia,13-15%,Beef and Venison
+157,2958,Red,USA,109,Cabernet Sauvignon,100,Joseph Phelps Insignia ,13-15%,Beef and Venison
+158,2959,Red,USA,35.99,Cabernet Sauvignon,90,Louis Martini Napa Valley Cabernet Sauvignon,13-15%,Beef and Venison
+159,2964,Red,USA,21.99,Cabernet Sauvignon,90,Michael David Winery Freakshow,15%,Lamb
+160,2965,Red,USA,56.99,Cabernet Sauvignon,89,Pine Ridge Napa Cabernet Sauvignon,14%,Beef and Venison
+161,2971,Red,USA,24.99,Cabernet Sauvignon,91,Roth Alexander Valley Cabernet Sauvignon,13-14%,Beef and Venison
+162,2977,Red,USA,57.99,Cabernet Sauvignon,93,Round Pond Estate Rutherford Cabernet Sauvignon,14-15%,Beef and Venison
+163,2978,Red,USA,33.99,Cabernet Sauvignon,91,St. Supery Cabernet Sauvignon,13-15%,Beef and Venison
+164,2979,Red,USA,29.99,Merlot,92,Freemark Abbey Merlot,13-14%,Lamb
+165,2986,Red,USA,18.99,Other Red Blends,88,Gundlach Bundschu Mountain Cuvee,13-14%,Beef and Venison
+167,2999,Red,USA,18.99,Other Red Blends,91,Michael David Winery Petite Petit,14-15%,Lamb
+168,3000,Red,USA,39.99,Other Red Blends,92,The Prisoner Wine Company Prisoner,15%,Lamb
+169,3001,Red,USA,28.99,Other Red Wine,93,Taken Wine Company Napa Valley Red Blend,14%,Beef and Venison
+170,3008,Red,USA,19.99,Pinot Noir,93,Migration Russian River Pinot Noir ,14%,"Duck, Goose and Game Birds"
+171,3015,Red,USA,17.99,Pinot Noir,91,Siduri Santa Lucia Highlands Pinot Noir ,14%,Chicken and Turkey
+172,3024,Red,USA,33.99,Rhone Red Blends,93,Limerick Lane Syrah / Grenache,14%,Lamb
+173,3031,Red,USA,17.99,Zinfandel,90,Michael David Winery 7 Deadly Zins Zinfandel,14-15%,Lamb
+174,3038,Red,USA,45.99,Pinot Noir,92,Evening Land Eola-Amity Hills Seven Springs Vineyard Pinot Noir,13%,Chicken and Turkey
+175,3044,Red,USA,78.99,Bordeaux,94,Col Solare,14-15%,Beef and Venison
+176,3053,Red,USA,33.99,Cabernet Sauvignon,91,Chateau Ste. Michelle Cold Creek Vineyard Cabernet Sauvignon,14-16%,Beef and Venison
+177,3056,Red,Argentina,17.99,Malbec,89,La Posta Angel Paulucci Vineyard Malbec,13-14%,Beef and Venison
+178,3064,Red,Argentina,19.99,Malbec,90,Terrazas de los Andes Reserva Malbec,14-15%,Beef and Venison
+179,3066,Red,Argentina,31.99,Malbec,91,Tikal Amorio Malbec,13-14%,Beef and Venison
+180,3073,Red,Australia,19.99,Syrah/Shiraz,91,Tait The Ball Buster,15-16%,Beef and Venison
+181,3074,Red,Australia,21.99,Syrah/Shiraz,91,Torbreck Woodcutters Shiraz,14-15%,Beef and Venison
+182,3083,Red,Australia,24.99,Syrah/Shiraz,91,d'Arenberg Laughing Magpie Shiraz Viognier,13-15%,Beef and Venison
+183,3085,Red,France,32.99,Rhone Red Blends,89,Domaine du Vieux Lazaret Chateauneuf-du-Pape,14-15%,Lamb
+184,3092,Red,France,17.99,Rhone Red Blends,89,Domaine du Vieux Lazaret Chateauneuf-du-Pape ,14-15%,Lamb
+185,3098,Red,Italy,239,Nebbiolo,97,Gaja Sperss,14%,Lamb
+186,3104,Red,Italy,22.99,Nebbiolo,90,Marchesi di Gresy Nebbiolo Martinenga,13-14%,Lamb
+187,3113,Red,Italy,19.99,Other Red Blends,91,Poggio al Tesoro Mediterra,13-14%,Beef and Venison
+188,3119,Red,Italy,18.99,Sangiovese,91,Castello di Meleto Chianti Classico,13-15%,Lamb
+189,3125,Red,Italy,23.99,Sangiovese,90,Col d'Orcia Rosso di Montalcino,14%,Beef and Venison
+190,3128,Red,Spain,10.99,Grenache,88,Artazu Artazuri Garnacha,14%,Lamb
+191,3135,Red,Spain,15.99,Grenache,91,Bodegas Breca,14%,Lamb
+192,3141,Red,Spain,8.99,Grenache,89,Bodegas Breca Garnacha de Fuego,14%,Lamb
+193,3144,Red,Spain,18.99,Grenache,92,Borsao Tres Picos Garnacha,14-15%,Lamb
+194,3145,Red,Spain,12.99,Mourvedre,91,Bodegas Olivares Altos de la Hoya,13-14%,Lamb
+195,3152,Red,Spain,16.99,Mourvedre,92,Bodegas Volver Tarima Hill,15%,Lamb
+196,3158,Red,Spain,15.99,Tempranillo,90,Bodegas Barco de Piedra Tempranillo,13-14%,Lamb
+197,3166,Red,Spain,12.99,Tempranillo,90,Vina Gormaz Tempranillo,12-14%,Lamb
+198,3167,Red,Spain,10.99,Other Red Wine,90,Bodegas y Vinedos Ilurce Rio Madre Graciano,14%,Lamb
+199,3174,Red,Spain,19.99,Tempranillo,90,Sierra Cantabria Crianza,13-14%,Lamb
+200,3175,Red,USA,68.99,Cabernet Sauvignon,91,Joseph Phelps Cabernet Sauvignon,14%,Beef and Venison
+201,3176,Red,USA,53.99,Cabernet Sauvignon,93,Ramey Cabernet Sauvignon,14%,Beef and Venison
+202,3183,Red,USA,59.99,Pinot Noir,92,Chasseur Umino Pinot Noir,14%,"Duck, Goose and Game Birds"
+203,3188,Red,USA,74.99,Pinot Noir,92,Pahlmeyer Sonoma Coast Pinot Noir,14-15%,"Duck, Goose and Game Birds"
+204,3190,Red,USA,29.99,Pinot Noir,90,WillaKenzie Estate Gisele Pinot Noir,13-14%,Chicken and Turkey
+205,3193,Red,USA,89.99,Bordeaux,94,Figgins Estate Red Wine,14%,Beef and Venison
+206,3194,Red,Argentina,10.99,Malbec,88,Trivento Malbec Reserve,13-14%,Beef and Venison
+207,3196,Red,Argentina,10.99,Other Red Blends,88,Alamos Red Blend,13-14%,Beef and Venison
+208,3205,Red,Argentina,19.99,Other Red Wine,93,Bodega Garzon Tannat,13-14%,Beef and Venison
+209,3207,Red,Chile,13.99,Other Red Blends,92,Montes Twins Red Blend,14%,Beef and Venison
+210,3208,Red,Italy,89,Nebbiolo,96,Marchesi di Barolo Barolo Cannubi,13-14%,Lamb
+211,3210,Red,Italy,10.99,Sangiovese,88,Badia a Coltibuono Cetamura Chianti,12-13%,Lamb
+212,3217,Red,Italy,21.99,Sangiovese,88,Santa Margherita Chianti Classico Riserva,13-14%,Lamb
+213,3223,Red,New Zealand,19.99,Pinot Noir,90,Mohua Pinot Noir,13-14%,"Duck, Goose and Game Birds"
+214,3226,Red,Spain,37.99,Tempranillo,98,Faustino I Gran Reserva,13-14%,Lamb
+215,3227,Red,USA,24.99,Bordeaux,92,Robert Hall Meritage Red Blend,14-15%,Lamb
+216,3233,Red,USA,32.99,Cabernet Sauvignon,91,Atalon Cabernet Sauvignon,13-15%,Beef and Venison
+217,3239,Red,USA,57.99,Cabernet Sauvignon,95,DAOU Vineyards Reserve Cabernet Sauvignon,14%,Beef and Venison
+218,3242,Red,USA,71.99,Cabernet Sauvignon,95,Kenwood Artist Series Cabernet Sauvignon,14-16%,Beef and Venison
+219,3249,Red,USA,57.99,Cabernet Sauvignon,95,Levendi Stagecoach Cabernet Sauvignon,14-15%,Beef and Venison
+220,3251,Red,USA,9.99,Cabernet Sauvignon,90,Pennywise Cabernet Sauvignon,13-14%,Beef and Venison
+221,3252,Red,USA,19.99,Cabernet Sauvignon,91,Plungerhead Dry Creek Cabernet Sauvignon,14%,Beef and Venison
+222,3253,Red,USA,13.99,Cabernet Sauvignon,90,Plungerhead Lodi Cabernet Sauvignon,14%,Beef and Venison
+223,3256,Red,USA,19.99,Cabernet Sauvignon,90,Rodney Strong Cabernet Sauvignon,13-14%,Beef and Venison
+224,3263,Red,USA,55.99,Cabernet Sauvignon,91,Stag's Leap Wine Cellars Artemis Cabernet Sauvignon,13-14%,Beef and Venison
+225,3264,Red,USA,32.99,Cabernet Sauvignon,91,Stag's Leap Wine Cellars Artemis Cabernet Sauvignon ,13-14%,Beef and Venison
+226,3265,Red,USA,89,Merlot,95,Duckhorn Three Palms Merlot,14%,Lamb
+227,3273,Red,USA,39.99,Merlot,95,Grgich Hills Merlot,13-15%,Lamb
+228,3276,Red,USA,11.99,Merlot,91,Leese-Fitch Merlot,13-14%,Lamb
+229,3282,Red,USA,18.99,Other Red Blends,92,Brassfield Eruption Red Blend,14%,Lamb
+231,3284,Red,USA,9.99,Other Red Blends,90,Hey Mambo Sultry Red,13-14%,Lamb
+232,3291,Red,USA,41.99,Pinot Noir,92,Gary Farrell Russian River Pinot Noir,13-14%,"Duck, Goose and Game Birds"
+233,3294,Red,USA,15.99,Zinfandel,88,Brazin Old Vine Lodi Zinfandel,14-15%,Lamb
+234,3295,Red,USA,11.99,Zinfandel,88,Four Vines Truant Zinfandel,14%,Lamb
+235,3299,Red,USA,21.99,Pinot Noir,89,A to Z Pinot Noir,13%,Chicken and Turkey
+236,3305,Red,USA,29.99,Bordeaux,94,Browne Family Vineyards Tribute Red Blend,13%,Beef and Venison
+237,3311,Red,Australia,10.99,Syrah/Shiraz,88,d'Arenberg Stump Jump Shiraz,14%,Beef and Venison
+239,3324,Red,France,34.99,Rhone Red Blends,94,Domaine du Gour de Chaule Gigondas Cuvee Tradition,14%,Lamb
+240,3325,Red,Italy,69.99,Nebbiolo,96,Domenico Clerico Barolo Ciabot Mentin Ginestra,14%,Lamb
+241,3333,Red,Italy,55.99,Nebbiolo,94,Marcarini Barolo Brunate,13-14%,Lamb
+242,3342,Red,Italy,219,Bordeaux,97,Tenuta dell'Ornellaia,13-15%,Beef and Venison
+243,3344,Red,Italy,17.99,Other Red Blends,93,Poggio al Tufo Rompicollo,13%,Beef and Venison
+244,3347,Red,Italy,99,Sangiovese,95,Antinori Tignanello,12-14%,Beef and Venison
+245,3348,Red,Italy,23.99,Sangiovese,90,Castellare Chianti Classico,13-14%,Lamb
+246,3355,Red,Italy,18.99,Sangiovese,89,Castello di Volpaia Chianti Classico,12-14%,Lamb
+247,3360,Red,Italy,18.99,Sangiovese,89,Fattoria del Cerro Vino Nobile di Montepulciano,13-14%,Beef and Venison
+248,3363,Red,Italy,23.99,Sangiovese,95,Felsina Chianti Classico Riserva Rancia ,13-14%,Lamb
+249,3369,Red,Italy,29.99,Sangiovese,92,Fonterutoli Chianti Classico,13-14%,Lamb
+250,3370,Red,Italy,99,Sangiovese,96,Il Poggione Brunello di Montalcino Riserva,13-15%,Beef and Venison
+251,3371,Red,Italy,29.99,Other Red Wine,92,Zenato Valpolicella Superiore Ripassa,13-14%,Beef and Venison
+253,3382,Red,USA,139.99,Bordeaux,94,Dominus Estate,13-15%,Beef and Venison
+254,3383,Red,USA,49.99,Bordeaux,91,Dominus Napanook Vineyard,13-15%,Beef and Venison
+255,3389,Red,USA,89.99,Cabernet Sauvignon,92,Beaulieu Vineyard Georges de Latour Private Reserve,14-16%,Beef and Venison
+256,3397,Red,USA,56.99,Cabernet Sauvignon,93,Chappellet Signature Cabernet Sauvignon,14-15%,Beef and Venison
+257,3402,Red,USA,114.99,Cabernet Sauvignon,94,Chateau Montelena Estate Cabernet Sauvignon,14%,Beef and Venison
+258,3412,Red,USA,54.99,Cabernet Sauvignon,90,Hall Napa Valley Cabernet Sauvignon,14-15%,Beef and Venison
+259,3416,Red,USA,79.99,Cabernet Sauvignon,95,La Jota Howell Mountain Cabernet Sauvignon,14-15%,Beef and Venison
+260,3424,Red,USA,79.99,Cabernet Sauvignon,94,Mt. Brave Cabernet Sauvignon,14-15%,Beef and Venison
+261,3431,Red,USA,109,Cabernet Sauvignon,97,Philip Togni Cabernet Sauvignon,12-14%,Beef and Venison
+262,3435,Red,USA,44.99,Cabernet Sauvignon,92,Robert Craig Cellars Affinity Cabernet Sauvignon,14-15%,Beef and Venison
+263,3438,Red,USA,44.99,Pinot Noir,93,Joseph Phelps Freestone Vineyards Sonoma Coast Pinot Noir,13-14%,"Duck, Goose and Game Birds"
+264,3439,Red,USA,34.99,Pinot Noir,90,La Crema Russian River Pinot Noir,14-15%,"Duck, Goose and Game Birds"
+265,3442,Red,USA,37.99,Zinfandel,91,Ridge Pagani Ranch Zinfandel,14-15%,Lamb
+266,3453,Red,Argentina,54.99,Malbec,94,Catena Alta Malbec,13-14%,Beef and Venison
+267,3454,Red,Argentina,18.99,Malbec,92,Salentein Reserve Malbec,14-15%,Beef and Venison
+268,3455,Red,Argentina,19.99,Other Red Blends,93,Bodega Noemia de Patagonia A Lisa,13-14%,Lamb
+269,3458,Red,Australia,73.99,Syrah/Shiraz,94,Penfolds St. Henri Shiraz,13-14%,Beef and Venison
+270,3460,Red,Australia,19.99,Other Red Blends,89,Yalumba The Scribbler,13-14%,Beef and Venison
+271,3467,Red,Chile,34.49,Cabernet Sauvignon,93,Morande House of Morande,13-15%,Beef and Venison
+273,3471,Red,France,9.99,Rhone Red Blends,90,Louis Bernard Cotes du Rhone Villages,13-14%,Lamb
+275,3478,Red,New Zealand,34.99,Pinot Noir,93,Dog Point Vineyard Pinot Noir,13-14%,Meaty and Oily Fish
+276,3479,Red,Spain,19.99,Other Red Blends,90,Vina Arnaiz Crianza,13-14%,Lamb
+277,3480,Red,Spain,26.65,Tempranillo,91,Abadia Retuerta Seleccion Especial,13-15%,Lamb
+278,3481,Red,USA,49.99,Cabernet Sauvignon,93,Frog's Leap Estate Grown Cabernet Sauvignon,13-14%,Beef and Venison
+279,3488,Red,USA,49.99,Cabernet Sauvignon,92,Jordan Cabernet Sauvignon,13-14%,Beef and Venison
+280,3489,Red,USA,18.99,Merlot,92,Frog's Leap Merlot ,12-14%,Lamb
+281,3492,Red,USA,33.99,Pinot Noir,95,Joseph Jewell Russian River Valley Pinot Noir,13-14%,"Duck, Goose and Game Birds"
+282,3493,Red,USA,18.99,Syrah/Shiraz,91,Qupe Central Coast Syrah,13-14%,Lamb
+283,3502,Red,USA,16.99,Zinfandel,93,DeLoach Russian River Zinfandel,14-16%,Lamb
+284,3508,Red,USA,15.99,Zinfandel,91,Frog's Leap Zinfandel ,13-14%,Lamb
+285,3514,Red,USA,21.99,Zinfandel,91,Quivira Dry Creek Valley Zinfandel,14-15%,Lamb
+286,3521,Red,USA,49.99,Pinot Noir,93,Adelsheim Elizabeth's Reserve Pinot Noir,13-14%,Chicken and Turkey
+287,3529,Red,USA,25.99,Pinot Noir,90,Benton Lane Pinot Noir,13-14%,Chicken and Turkey
+290,3538,Red,USA,19.99,Pinot Noir,90,King Estate Acrobat Pinot Noir,13%,Chicken and Turkey
+291,3539,Red,USA,29.99,Pinot Noir,93,Willamette Valley Vineyards Estate Pinot Noir,13-14%,Chicken and Turkey
+292,3540,Red,Argentina,23.99,Bordeaux,93,Bodega Norton Privada,14-15%,Beef and Venison
+293,3546,Red,Argentina,15.99,Cabernet Sauvignon,90,Bodega Norton Reserve Cabernet Sauvignon,13-14%,Beef and Venison
+294,3548,Red,Argentina,18.99,Cabernet Sauvignon,90,Tapiz Alta Cabernet Sauvignon,13%,Beef and Venison
+295,3555,Red,Argentina,19.99,Malbec,91,Catena Malbec,13-14%,Beef and Venison
+296,3556,Red,Argentina,15.99,Malbec,91,Michel Torino Don David Reserve Malbec,13-14%,Beef and Venison
+297,3562,Red,Argentina,27.99,Malbec,94,SonVida Malbec,14%,Beef and Venison
+298,3563,Red,Australia,19.99,Rhone Red Blends,91,d'Arenberg d'Arrys Original Shiraz/Grenache,14-15%,Beef and Venison
+299,3564,Red,Chile,18.99,Carmenere,92,Vina Ventisquero Carmenere Grey Single Block Trinidad Vineyard,13-14%,Beef and Venison
+300,3573,Red,Chile,22.99,Other Red Blends,91,Lapostolle Canto de Apalta Red Blend,14-15%,Beef and Venison
+301,3582,Red,France,97.99,Bordeaux,96,Chateau Beausejour Duffau,14%,Beef and Venison
+302,3591,Red,France,74.99,Bordeaux,95,Chateau Branaire-Ducru,12-14%,Beef and Venison
+303,3597,Red,France,39.99,Bordeaux,92,Chateau de Pez,12-14%,Beef and Venison
+304,3601,Red,France,19.99,Bordeaux,92,Chateau Des Annereaux Lalande de Pomerol,12-14%,Beef and Venison
+305,3602,Red,France,42.99,Bordeaux,90,Chateau Gloria,12-13%,Beef and Venison
+306,3611,Red,France,34.99,Bordeaux,93,Chateau Grand Mayne ,12-15%,Beef and Venison
+307,3619,Red,France,69.99,Bordeaux,91,Chateau Labegorce ,12-14%,Beef and Venison
+308,3626,Red,France,29.99,Bordeaux,90,Chateau Laffitte Laujac,13-14%,Beef and Venison
+309,3632,Red,France,77.99,Bordeaux,95,Chateau Leoville Barton,12-14%,Beef and Venison
+310,3636,Red,France,17.99,Bordeaux,90,Chateau Lyonnat Lussac - Saint Emilion,12-14%,Beef and Venison
+311,3643,Red,France,79.99,Bordeaux,94,Chateau Magdelaine,12-14%,Beef and Venison
+312,3649,Red,France,129,Bordeaux,96,Chateau Pontet-Canet,13-14%,Beef and Venison
+314,3656,Red,France,17.99,Rhone Red Blends,91,Gerard Bertrand Fitou,14%,Lamb
+315,3660,Red,France,17.99,Rhone Red Blends,90,Gerard Bertrand Syrah-Carignan Minervois,13-14%,Lamb
+316,3662,Red,France,14.99,Rhone Red Blends,90,Chateau de Segries Cotes du Rhone,14%,Lamb
+317,3666,Red,France,14.99,Rhone Red Blends,90,Guigal Cotes du Rhone Rouge,13-14%,Lamb
+318,3667,Red,France,39.99,Rhone Red Blends,93,Tardieu-Laurent Chateauneuf-du-Pape,14%,Lamb
+319,3668,Red,Italy,19.99,Nebbiolo,90,Damilano Marghe Nebbiolo Langhe,14%,Lamb
+320,3670,Red,Italy,48.99,Nebbiolo,94,Massolino Barolo,13-14%,Lamb
+321,3671,Red,Italy,28.99,Sangiovese,95,Felsina Fontalloro ,13-14%,Beef and Venison
+322,3674,Red,Italy,15.99,Sangiovese,90,Lamole di Lamole Chianti Classico,12-13%,Lamb
+323,3680,Red,Italy,36.99,Other Red Blends,92,Accordini Igino Le Bessole Amarone della Valpolicella,15%,Beef and Venison
+324,3684,Red,Italy,19.99,Other Red Blends,90,Allegrini Palazzo della Torre,13-14%,Beef and Venison
+325,3688,Red,Italy,44.99,Other Red Wine,92,Goretti Sagrantino di Montefalco,14%,Beef and Venison
+326,3694,Red,Italy,49.99,Other Red Wine,95,Masi Costasera Amarone Classico,14-16%,Beef and Venison
+327,3695,Red,New Zealand,19.99,Pinot Noir,90,Saint Clair Family Estate Pinot Noir,13-14%,Meaty and Oily Fish
+328,3700,Red,Spain,48.99,Other Red Blends,92,Marco Abella Mas Mallola,14-15%,Lamb
+329,3708,Red,USA,8.99,Cabernet Sauvignon,88,Avalon California Cabernet Sauvignon,13-14%,Beef and Venison
+330,3709,Red,USA,99,Cabernet Sauvignon,94,Groth Reserve Cabernet Sauvignon,14-15%,Beef and Venison
+331,3715,Red,USA,13.99,Cabernet Sauvignon,88,Noble Vines 337 Lodi Cabernet Sauvignon,14%,Beef and Venison
+332,3719,Red,USA,19.99,Cabernet Sauvignon,90,Oberon Cabernet Sauvignon,14%,Beef and Venison
+333,3720,Red,USA,135,Cabernet Sauvignon,93,Quintessa,14-15%,Beef and Venison
+334,3727,Red,USA,73.99,Cabernet Sauvignon,93,Quintessa ,14-15%,Beef and Venison
+335,3733,Red,USA,109,Cabernet Sauvignon,95,Raymond Generations Cabernet Sauvignon,14-16%,Beef and Venison
+336,3737,Red,USA,19.99,Cabernet Sauvignon,89,RouteStock Route 29 Cabernet Sauvignon,13-15%,Beef and Venison
+337,3738,Red,USA,41.99,Cabernet Sauvignon,93,Stonestreet Estate Cabernet Sauvignon,14-15%,Beef and Venison
+338,3745,Red,USA,14.99,Merlot,90,Bonterra Organically Grown Merlot,13-14%,Lamb
+339,3753,Red,USA,15.99,Merlot,91,Rays Station Merlot,14%,Lamb
+340,3758,Red,USA,10.99,Other Red Blends,91,Bogle Essential Red,13-14%,Lamb
+341,3759,Red,USA,14.99,Other Red Blends,91,GIFFT by Kathie Lee Gifford Red Blend,13%,Lamb
+342,3762,Red,USA,23.99,Pinot Noir,93,Byron Santa Maria Pinot Noir,13-15%,Chicken and Turkey
+343,3763,Red,USA,22.99,Pinot Noir,91,Cambria Julia's Vineyard Pinot Noir,14%,"Duck, Goose and Game Birds"
+344,3769,Red,USA,19.99,Pinot Noir,90,Chateau St. Jean Sonoma Coast Pinot Noir,14%,Lamb
+345,3777,Red,USA,38.99,Pinot Noir,92,Dutton Goldfield Dutton Ranch Pinot Noir,13-14%,"Duck, Goose and Game Birds"
+346,3778,Red,USA,9.99,Pinot Noir,90,Line 39 Pinot Noir,13-14%,Chicken and Turkey
+347,3784,Red,USA,19.99,Pinot Noir,90,Reata Three County Pinot Noir,14%,Chicken and Turkey
+348,3790,Red,USA,19.99,Pinot Noir,90,Rodney Strong Estate Pinot Noir,12-14%,"Duck, Goose and Game Birds"
+349,3793,Red,USA,16.99,Syrah/Shiraz,93,Andrew Murray Tous les Jours Syrah,14%,Lamb
+350,3794,Red,USA,17.99,Syrah/Shiraz,91,Michael David Winery 6th Sense Syrah,14-37%,Lamb
+351,3796,Red,USA,19.99,Syrah/Shiraz,92,Zaca Mesa Santa Ynez Valley Syrah,13-15%,Lamb
+352,3803,Red,USA,18.99,Zinfandel,92,Carol Shelton Wild Thing Zinfandel,14-16%,Lamb
+353,3809,Red,USA,22.99,Zinfandel,90,Decoy Zinfandel,13-14%,Lamb
+354,3810,Red,USA,15.99,Zinfandel,92,Tierra Divina ZA ZIN,14-15%,Lamb
+355,3816,Red,USA,39.99,Cabernet Sauvignon,92,L'Ecole 41 Walla Walla Valley Cabernet Sauvignon,14%,Beef and Venison
+356,3823,Red,USA,24.99,Cabernet Sauvignon,91,Seven Hills Winery Columbia Valley Cabernet Sauvignon,13-14%,Beef and Venison
+357,3824,Red,USA,17.99,Other Red Blends,91,Pendulum Red Blend,13-14%,Beef and Venison
+358,3825,Red,USA,15.99,Syrah/Shiraz,90,Barnard Griffin Syrah,13-14%,Beef and Venison
+359,3827,Red,Argentina,34.99,Bordeaux,92,Achaval-Ferrer Quimera,14%,Beef and Venison
+360,3834,Red,Argentina,39.99,Bordeaux,94,Tikal Jubilo,14%,Beef and Venison
+361,3841,Red,Argentina,17.99,Malbec,92,Bodega Norton Malbec Reserva,13-14%,Beef and Venison
+362,3842,Red,Argentina,33.99,Malbec,93,Luca Malbec,13-14%,Beef and Venison
+363,3845,Red,Argentina,10.99,Merlot,88,Tilia Merlot,13-14%,Beef and Venison
+364,3852,Red,Argentina,19.99,Other Red Blends,91,Tikal Patriota,13-14%,Beef and Venison
+365,3853,Red,Australia,34.99,Cabernet Sauvignon,93,Clarendon Hills Brookman Vineyard Cabernet Sauvignon,14%,Beef and Venison
+366,3854,Red,Australia,28.99,Cabernet Sauvignon,90,Mollydooker The Maitre D' Cabernet Sauvignon,15-16%,Beef and Venison
+367,3855,Red,Australia,55.99,Syrah/Shiraz,92,Mollydooker Blue Eyed Boy Shiraz,16%,Beef and Venison
+368,3862,Red,Australia,13.99,Syrah/Shiraz,90,Wild Oats Shiraz,13-14%,Beef and Venison
+369,3865,Red,Australia,69.99,Syrah/Shiraz,95,Two Hands Bella's Garden Shiraz,14-16%,Beef and Venison
+370,3866,Red,Australia,14.99,Bordeaux,90,Greg Norman Estates Limestone Coast Cabernet/Merlot,14%,Beef and Venison
+371,3872,Red,Australia,16.99,Cabernet Sauvignon,90,Ringbolt Cabernet Sauvignon,13-15%,Beef and Venison
+372,3878,Red,Australia,39.99,Grenache,95,Clarendon Hills Kangarilla Grenache,14%,Beef and Venison
+373,3885,Red,Australia,10.99,Rhone Red Blends,89,d'Arenberg Stump Jump Red,14-15%,Beef and Venison
+374,3891,Red,Australia,44.99,Syrah/Shiraz,95,Clarendon Hills Hickinbotham Vineyard Syrah,14%,Beef and Venison
+375,3892,Red,Australia,78.99,Syrah/Shiraz,94,Mollydooker Carnival of Love,15-16%,Beef and Venison
+376,3893,Red,Chile,16.99,Bordeaux,89,Haras Character Cabernet Sauvignon-Carmenere,14-15%,Beef and Venison
+377,3897,Red,Chile,36.99,Bordeaux,93,Santa Rita Triple C,14%,Beef and Venison
+378,3900,Red,Chile,18.99,Cabernet Sauvignon,91,Concha y Toro Gran Reserva Serie Riberas Cabernet Sauvignon,12-14%,Beef and Venison
+379,3907,Red,Chile,23.99,Cabernet Sauvignon,91,Concha y Toro Marques de Casa Concha Cabernet Sauvignon,12-14%,Beef and Venison
+380,3908,Red,Chile,9.99,Cabernet Sauvignon,89,Veramonte Cabernet Sauvignon,14%,Beef and Venison
+381,3915,Red,Chile,34.99,Other Red Blends,91,Emiliana Coyam ,14-15%,Beef and Venison
+382,3924,Red,Chile,13.99,Syrah/Shiraz,90,Vina Bisquertt La Joya Gran Reserva Syrah,14%,Beef and Venison
+383,3931,Red,France,29.99,Bordeaux,90,Chateau Barde Haut,12-14%,Beef and Venison
+384,3932,Red,France,59.99,Bordeaux,95,Chateau Monbousquet,12-14%,Beef and Venison
+385,3939,Red,France,17.99,Rhone Red Blends,90,Gerard Bertrand Grand Terroir Pic Saint Loup,13-14%,Lamb
+386,3946,Red,France,32.99,Grenache,91,Guigal Gigondas Rouge,13-14%,Lamb
+387,3954,Red,France,69.99,Rhone Red Blends,93,Chateau de Beaucastel Chateauneuf-du-Pape,13-15%,Lamb
+388,3955,Red,France,59.99,Rhone Red Blends,95,Vieille Julienne Chateauneuf-du-Pape,14-16%,Lamb
+389,3961,Red,France,24.99,Syrah/Shiraz,92,Maison Nicolas Perrin Crozes-Hermitage,12-13%,Lamb
+390,3967,Red,Italy,29.99,Other Red Blends,91,Antinori Guado al Tasso Il Bruciato,13-14%,Beef and Venison
+391,3972,Red,Italy,12.99,Other Red Blends,90,Di Majo Norante Ramitello Rosso,13-14%,Beef and Venison
+392,3973,Red,Italy,23.99,Other Red Wine,91,Azienda Bisceglia Aglianico del Vulture Gudarra,13-14%,Lamb
+394,3987,Red,Italy,16.99,Merlot,90,Castiglion del Bosco Dainero,13%,Beef and Venison
+395,3993,Red,Italy,21.99,Other Red Blends,90,Antinori Villa Toscana,12%,Beef and Venison
+396,3994,Red,Italy,11.99,Other Red Blends,88,Frescobaldi Remole Toscana Rosso,12-13%,Beef and Venison
+397,4000,Red,Italy,14.99,Other Red Blends,90,Il Molino di Grace Il Volano,13-14%,Beef and Venison
+398,4009,Red,Italy,19.99,Other Red Blends,90,Querciabella Mongrana,13-14%,Beef and Venison
+399,4012,Red,Italy,229,Other Red Blends,95,Tenuta San Guido Sassicaia,12-14%,Beef and Venison
+400,4019,Red,Italy,29.99,Sangiovese,91,Avignonesi Vino Nobile di Montepulciano,13-14%,Beef and Venison
+401,4028,Red,Italy,11.99,Sangiovese,88,Bibi Graetz Casamatta Rosso,12%,Beef and Venison
+402,4030,Red,Italy,78.99,Sangiovese,96,Caparzo Brunello di Montalcino Riserva,13-14%,Beef and Venison
+403,4031,Red,Italy,19.99,Sangiovese,91,Castiglion del Bosco Rosso di Montalcino,13-14%,Beef and Venison
+404,4034,Red,Italy,54.99,Other Red Wine,91,Tedeschi Amarone della Valpolicella,15-16%,Beef and Venison
+405,4040,Red,Italy,24.99,Other Red Wine,90,Tommasi Ripasso Valpolicella,13-14%,Beef and Venison
+406,4048,Red,Portugal,19.99,Other Red Blends,93,Churchill's Estates Duoro,13%,Beef and Venison
+407,4049,Red,South Africa,17.99,Bordeaux,90,Glen Carlou Grand Classique,14%,Beef and Venison
+408,4050,Red,South Africa,19.99,Bordeaux,91,Mulderbosch Faithful Hound,13-14%,Lamb
+409,4056,Red,South Africa,29.99,Cabernet Sauvignon,91,Rust en Vrede Cabernet Sauvignon,13-15%,Lamb
+410,4062,Red,Spain,19.99,Other Red Blends,92,Losada Bierzo,13%,Lamb
+411,4071,Red,Spain,16.99,Tempranillo,89,Bodegas Volver La Mancha Single Vineyard Tempranillo,14-15%,Lamb
+412,4080,Red,Spain,14.99,Tempranillo,89,Campo Viejo Reserva Rioja,13%,Lamb
+413,4083,Red,Spain,19.99,Tempranillo,91,Conde de Valdemar Rioja Inspiracion,14%,Lamb
+414,4086,Red,Spain,29.99,Tempranillo,92,La Rioja Alta Vina Ardanza Reserva,13-14%,Lamb
+415,4087,Red,Spain,12.99,Tempranillo,88,Marques de Caceres Rioja Crianza,12-14%,Lamb
+416,4090,Red,Spain,15.99,Tempranillo,89,Vina Eguia Reserva,13-14%,Lamb
+417,4096,Red,Spain,18.99,Tempranillo,90,Vina Herminia Rioja Reserva,13-14%,Lamb
+418,4102,Red,USA,28.99,Cabernet Sauvignon,90,Beringer Knights Valley Cabernet Sauvignon,13-14%,Beef and Venison
+419,4103,Red,USA,23.99,Merlot,89,Markham Merlot,13-14%,Lamb
+420,4107,Red,USA,23.99,Other Red Blends,90,Markham Cellar 1879 Napa Valley Red Blend,14%,Beef and Venison
+422,4115,Red,USA,39.99,Pinot Noir,93,Belle Glos Las Alturas Vineyard Pinot Noir,14-15%,Chicken and Turkey
+423,4116,Red,USA,49.99,Pinot Noir,91,Goldeneye Anderson Valley Pinot Noir,14%,Chicken and Turkey
+424,4122,Red,USA,22.99,Pinot Noir,88,La Crema Monterey Pinot Noir,13-14%,Chicken and Turkey
+425,4123,Red,USA,43.99,Zinfandel,93,Seghesio Old Vine Zinfandel,14-16%,Lamb
+426,4129,Red,USA,27.99,Pinot Noir,92,Adelsheim Pinot Noir,13%,Meaty and Oily Fish
+427,4130,Red,USA,18.99,Pinot Noir,92,Adelsheim Pinot Noir ,13%,Meaty and Oily Fish
+428,4131,Red,USA,28.99,Pinot Noir,90,Elk Cove Willamette Valley Pinot Noir,13%,Chicken and Turkey
+429,4138,Red,USA,33.99,Pinot Noir,90,La Crema Willamette Valley Pinot Noir,13-14%,Chicken and Turkey
+430,4141,Red,USA,21.99,Pinot Noir,89,Panther Creek Winemaker's Cuvee Pinot Noir,13-14%,Chicken and Turkey
+431,4149,Red,USA,39.99,Pinot Noir,92,Ponzi Willamette Valley Pinot Noir,13-14%,Chicken and Turkey
+432,4154,Red,USA,29.99,Pinot Noir,92,Roco Willamette Valley Pinot Noir,12-14%,Chicken and Turkey
+433,4155,Red,USA,15.99,Cabernet Sauvignon,88,Chateau Ste. Michelle Cabernet Sauvignon,13-14%,Beef and Venison
+434,4161,Red,USA,12.99,Cabernet Sauvignon,90,Columbia Crest Grand Estates Cabernet Sauvignon,13-14%,Beef and Venison
+435,4162,Red,USA,14.99,Cabernet Sauvignon,89,Milbrandt Traditions Cabernet Sauvignon,13-14%,Beef and Venison
+436,4171,Red,USA,24.99,Cabernet Sauvignon,91,Novelty Hill Cabernet Sauvignon,14%,Beef and Venison
+437,4178,Red,USA,12.99,Merlot,89,Columbia Crest Grand Estates Merlot,13-14%,Beef and Venison
+438,4185,Red,USA,16.99,Syrah/Shiraz,90,Charles Smith Boom Boom Syrah,13-14%,Beef and Venison
+439,4191,Red,USA,24.99,Syrah/Shiraz,91,Owen Roe Ex Umbris Syrah,14-15%,Beef and Venison
+440,4195,Red,Argentina,11.99,Malbec,88,Belasco de Baquedano Llama Malbec,13-14%,Beef and Venison
+441,4201,Red,New Zealand,17.99,Merlot,91,Maimai Merlot,12-14%,Beef and Venison
+442,4207,Red,USA,19.99,Bordeaux,91,Francis Ford Coppola Diamond Collection Claret,13-14%,Beef and Venison
+443,4213,Red,USA,28.99,Cabernet Sauvignon,94,DAOU Vineyards Cabernet Sauvignon,13-14%,Beef and Venison
+444,4214,Red,USA,41.99,Cabernet Sauvignon,90,Rombauer Cabernet Sauvignon,14%,Beef and Venison
+445,4215,Red,USA,66.99,Cabernet Sauvignon,90,Silver Oak Alexander Valley Cabernet Sauvignon,13-14%,Beef and Venison
+446,4216,Red,USA,99.99,Cabernet Sauvignon,92,Silver Oak Napa Valley Cabernet Sauvignon,13-14%,Beef and Venison
+447,4217,Red,USA,29.99,Cabernet Sauvignon,90,Wine Spots Napa Cabernet Sauvignon,13-14%,Beef and Venison
+448,4225,Red,USA,59.99,Merlot,95,Emmolo Merlot,14-15%,Lamb
+449,4227,Red,USA,29.99,Merlot,91,Swanson Oakville Merlot,14-15%,Lamb
+450,4234,Red,USA,54.99,Merlot,90,Twomey Cellars by Silver Oak Merlot,13-14%,Lamb
+452,4242,Red,USA,34.99,Pinot Noir,90,Davis Bynum Jane's Vineyard Pinot Noir,14%,"Duck, Goose and Game Birds"
+453,4249,Red,USA,15.99,Zinfandel,88,Cline Ancient Vines Zinfandel,14-15%,Lamb
+454,4257,Red,USA,19.99,Zinfandel,90,Zinfandelic Sierra Foothills Old Vine Zinfandel,14%,Lamb
+455,4359,Rose,Australia,9.99,Ros√©,92,Angove Family Winemakers Nine Vines Rose,12-13%,Root Vegetables and Squashes
+456,4365,Rose,France,79.99,Ros√© Sparkling Wine,94,Billecart-Salmon Brut Rose,12%,Meaty and Oily Fish
+457,4371,Rose,France,46.99,Ros√© Sparkling Wine,94,Billecart-Salmon Brut Rose ,12%,Meaty and Oily Fish
+458,4373,Rose,Chile,10.99,Ros√©,90,Los Vascos Rose,13%,Meaty and Oily Fish
+459,4380,Rose,France,44.99,Ros√©,90,Miraval Rose ,13%,Salads and Green Vegetables
+460,4389,Rose,Spain,17.99,Ros√© Sparkling Wine,90,Juve Y Camps Rose Brut Cava,12%,Meaty and Oily Fish
+461,4396,Rose,Australia,10.99,Ros√©,90,Innocent Bystander Pink Moscato ,5-6%,White Fish
+462,4399,Rose,France,15.99,Ros√©,88,Domaine de Triennes Rose,12-13%,Tomato-based Dishes
+463,4405,Rose,USA,8.99,Ros√©,88,Bonny Doon Vin Gris de Cigare,12-14%,Chicken and Turkey
+464,4411,Rose,France,72.99,Ros√© Sparkling Wine,91,Veuve Clicquot Rose,10-14%,Meaty and Oily Fish
+465,4418,Rose,France,19.99,Ros√©,92,Domaines Ott Les Domaniers Cotes de Provence Rose,12-14%,Salads and Green Vegetables
+466,4424,Rose,USA,14.99,Ros√© Sparkling Wine,90,Korbel Brut Rose,12%,Meaty and Oily Fish
+467,4430,Rose,France,68.99,Ros√© Sparkling Wine,90,Moet & Chandon Rose Imperial,12-13%,Meaty and Oily Fish
+468,4433,Rose,France,94.99,Ros√© Sparkling Wine,92,Veuve Clicquot Brut Rose,10-14%,Meaty and Oily Fish
+469,4442,Rose,USA,26.99,Ros√© Sparkling Wine,92,Roederer Estate Brut Rose,12%,Meaty and Oily Fish
+470,4450,Rose,USA,13.99,Ros√©,91,Charles & Charles Rose 2014,12%,Meaty and Oily Fish
+471,4665,Sparkling,France,219.99,Vintage Sparkling Wine,97,Louis Roederer Cristal Brut,12%,"Shellfish, Crab and Lobster"
+472,4671,Sparkling,France,149.99,Vintage Sparkling Wine,95,Veuve Clicquot La Grande Dame,12%,"Shellfish, Crab and Lobster"
+473,4672,Sparkling,South Africa,14.99,Non-Vintage Sparkling Wine,90,Graham Beck Brut Methode Cap Classique,12%,Meaty and Oily Fish
+474,4674,Sparkling,France,195,Vintage Sparkling Wine,98,Dom Perignon Limited Edition Metamorphosis in Gift Box,12%,Meaty and Oily Fish
+475,4680,Sparkling,Italy,17.99,Non-Vintage Sparkling Wine,90,Nino Franco Rustico Prosecco,11%,Pork
+476,4686,Sparkling,Italy,12.99,Non-Vintage Sparkling Wine,88,Zardetto Brut Private Cuvee Prosecco,11-12%,"Shellfish, Crab and Lobster"
+477,4693,Sparkling,Spain,17.99,Non-Vintage Sparkling Wine,92,Bodegas Botani Sparkling Muscat,5-13%,"Shellfish, Crab and Lobster"
+478,4697,Sparkling,France,34.99,Non-Vintage Sparkling Wine,92,Moet & Chandon Imperial ,9-12%,"Shellfish, Crab and Lobster"
+479,4700,Sparkling,Italy,12.99,Non-Vintage Sparkling Wine,91,Menage a Trois Prosecco,12-13%,Lamb
+481,4710,Sparkling,Italy,14.99,Non-Vintage Sparkling Wine,90,Adami Prosecco Garbel 13,11%,Pork
+482,4716,Sparkling,Italy,12.99,Non-Vintage Sparkling Wine,88,Mionetto Il Lambrusco,10%,Pork
+483,4725,Sparkling,Italy,12.99,Non-Vintage Sparkling Wine,88,Valdo Prosecco,11%,Pork
+484,4730,Sparkling,Spain,11.99,Non-Vintage Sparkling Wine,88,Segura Viudas Aria Brut Cava,11-12%,Manchego and Parmesan
+485,4733,Sparkling,France,19.99,Non-Vintage Sparkling Wine,90,Lucien Albrecht Cremant d'Alsace Brut,12%,Meaty and Oily Fish
+486,4736,Sparkling,France,134.99,Non-Vintage Sparkling Wine,97,Laurent-Perrier Grand Siecle,12%,"Shellfish, Crab and Lobster"
+487,4745,Sparkling,Italy,19.99,Non-Vintage Sparkling Wine,90,Berlucchi Cuvee 61 Brut,11-12%,Meaty and Oily Fish
+488,4752,Sparkling,USA,19.99,Non-Vintage Sparkling Wine,89,Domaine Chandon Blanc de Noirs,12-13%,White Fish
+489,4758,Sparkling,USA,26.99,Non-Vintage Sparkling Wine,93,Domaine Chandon Etoile,12-13%,"Shellfish, Crab and Lobster"
+490,4761,Sparkling,USA,21.99,Non-Vintage Sparkling Wine,90,Gloria Ferrer Brut,12-13%,"Shellfish, Crab and Lobster"
+491,4765,Sparkling,USA,26.99,Non-Vintage Sparkling Wine,91,J Vineyards & Winery Cuvee 20 Brut,12%,"Shellfish, Crab and Lobster"
+492,4766,Sparkling,USA,18.99,Non-Vintage Sparkling Wine,91,Mumm Napa Cuvee M,12%,Fruit-based Desserts
+493,4772,Sparkling,USA,14.99,Non-Vintage Sparkling Wine,92,Roederer Estate Brut ,12%,"Shellfish, Crab and Lobster"
+494,4778,Sparkling,France,75.99,Non-Vintage Sparkling Wine,93,Bollinger Brut Special Cuvee,12%,"Shellfish, Crab and Lobster"
+495,4784,Sparkling,France,39.99,Non-Vintage Sparkling Wine,92,Gosset Brut Excellence,12%,"Shellfish, Crab and Lobster"
+496,4785,Sparkling,France,35.99,Non-Vintage Sparkling Wine,92,Mumm Brut Cordon Rouge,12%,"Shellfish, Crab and Lobster"
+497,4786,Sparkling,France,52.99,Non-Vintage Sparkling Wine,91,Perrier-Jouet Grand Brut,12%,"Shellfish, Crab and Lobster"
+498,4787,Sparkling,France,129.99,Non-Vintage Sparkling Wine,90,Veuve Clicquot Brut Yellow Label ,12-14%,"Shellfish, Crab and Lobster"
+499,4790,Sparkling,France,95,Vintage Sparkling Wine,93,Veuve Clicquot Vintage Brut,12-14%,"Shellfish, Crab and Lobster"
+500,4797,Sparkling,Spain,12.99,Non-Vintage Sparkling Wine,87,Freixenet Sparkling Cordon Negro Brut Cava,11-12%,Manchego and Parmesan
+501,4803,Sparkling,USA,18.99,Non-Vintage Sparkling Wine,91,Mumm Napa Brut Prestige,12%,White Fish
+502,4809,Sparkling,USA,29.99,Vintage Sparkling Wine,90,Domaine Carneros Brut,12-13%,"Shellfish, Crab and Lobster"
+503,4811,Sparkling,USA,19.99,Vintage Sparkling Wine,91,Gloria Ferrer Brut Royal Cuvee,12-13%,"Shellfish, Crab and Lobster"
+504,4812,Sparkling,USA,18.99,Non-Vintage Sparkling Wine,90,Gruet Blanc de Noirs,12%,White Fish
+505,4821,Sparkling,USA,15.99,Non-Vintage Sparkling Wine,89,Gruet Brut,12%,Meaty and Oily Fish
+506,6054,White,Spain,18.99,Albarino,93,Pazo de Barrantes Albarino,12-13%,"Shellfish, Crab and Lobster"
+507,6055,White,USA,38.99,Chardonnay,91,Jordan Chardonnay,13-14%,Mushrooms
+508,6056,White,Australia,19.99,Semillon,94,Brokenwood Semillon,10-12%,"Shellfish, Crab and Lobster"
+509,6057,White,Australia,25.99,Chardonnay,96,Robert Oatley Finisterre Chardonnay,12-13%,Mushrooms
+510,6061,White,Australia,16.99,Riesling,95,Pewsey Vale Eden Valley Riesling 2014,10-13%,White Fish
+511,6067,White,Chile,10.99,Chardonnay,90,Los Vascos Chardonnay,13-14%,Chicken and Turkey
+512,6073,White,Chile,17.99,Sauvignon Blanc,93,Ritual Casablanca Valley Sauvignon Blanc,12-14%,Salads and Green Vegetables
+513,6079,White,France,28.99,Sauvignon Blanc,95,Les Hauts de Smith Blanc,12%,Meaty and Oily Fish
+514,6082,White,Italy,22.99,Pinot Gris/Grigio,92,Terlano Pinot Grigio,13-14%,Chicken and Turkey
+515,6088,White,New Zealand,14.99,Sauvignon Blanc,90,Forrest Estate The Doctors' Sauvignon Blanc,9%,Goats' Cheese and Feta
+516,6097,White,Argentina,14.99,Torrontes,92,Domingo Molina Hermanos Torrontes,13-14%,Chilis and Hot Spicy Foods
+517,6100,White,France,12.99,Other White Blends,90,Domaine Lafage Vin du Pays Cote d'Est,13%,Chicken and Turkey
+518,6107,White,France,34.99,Sauvignon Blanc,94,Alphonse Mellot Sancerre Blanc Le Moussiere,13%,Meaty and Oily Fish
+519,6109,White,New Zealand,71.99,Chardonnay,95,Pyramid Valley Lions Tooth Chardonnay,14%,Chicken and Turkey
+520,6115,White,South Africa,9.99,Chenin Blanc,90,The Royal Chenin Blanc Old Vine Steen,12%,Cheddar and Gruyere
+521,6122,White,Spain,25.99,Sherry,96,Alvear Pedro Ximinez 1927 ,16%,Cakes and Cream
+522,6128,White,Spain,27.99,Sherry,96,Emilio Lustau East India Solera,17-20%,Fruit-based Desserts
+523,6137,White,Spain,16.99,Sherry,93,Emilio Lustau Solera Reserva los Arcos Dry Amontillado Sherry,15-18%,Cheddar and Gruyere
+524,6144,White,Spain,13.99,Other White Blends,90,Telmo Rodriguez Basa White,12-13%,White Fish
+525,6147,White,USA,34.99,Chardonnay,91,Beringer Luminus Chardonnay,14%,Mushrooms
+526,6153,White,USA,29.99,Chardonnay,92,Kendall-Jackson Jackson Estate Camelot Highlands Chardonnay,14%,Mushrooms
+527,6160,White,USA,24.99,Chardonnay,90,Matanzas Creek Chardonnay,13-14%,Mushrooms
+528,6163,White,USA,52.99,Chardonnay,94,Newton Unfiltered Chardonnay,12-15%,Mushrooms
+529,6169,White,USA,34.99,Chardonnay,91,Ramey Russian River Chardonnay,14%,Mushrooms
+530,6172,White,USA,35.99,Chardonnay,93,Stonestreet Estate Chardonnay,14-15%,Mushrooms
+531,6178,White,USA,29.99,Other White Blends,90,The Prisoner Wine Company Blindfold,14%,Root Vegetables and Squashes
+532,6184,White,USA,13.99,Petite Sirah,90,Spellbound Petite Sirah,13-14%,Lamb
+533,6185,White,New Zealand,17.99,Sauvignon Blanc,91,Goldwater Sauvignon Blanc,12-14%,Goats' Cheese and Feta
+534,6191,White,Spain,15.99,Albarino,89,Columna Albarino,12%,"Shellfish, Crab and Lobster"
+535,6193,White,Spain,15.99,Albarino,90,Burgans Albarino,12-13%,"Shellfish, Crab and Lobster"
+536,6200,White,Spain,17.99,Albarino,91,La Cana Albarino,12-14%,"Shellfish, Crab and Lobster"
+537,6206,White,Spain,14.99,Albarino,91,Pazo de Galegos Albarino,12%,"Shellfish, Crab and Lobster"
+539,6219,White,USA,62.99,Chardonnay,91,Rochioli Chardonnay,14%,Mushrooms
+540,6226,White,Germany,12.99,Riesling,90,August Kesseler R Riesling Kabinett,10-11%,Fruit-based Desserts
+541,6232,White,Italy,19.99,Other White Blends,90,Feudi di San Gregorio Fiano di Avellino,12-13%,White Fish
+542,6239,White,Italy,17.99,Pinot Gris/Grigio,90,Pighin Pinot Grigio,12-14%,White Fish
+543,6240,White,New Zealand,14.99,Riesling,92,Forrest Estate The Doctors' Riesling,8-9%,White Fish
+544,6246,White,USA,19.99,Chardonnay,90,Gundlach Bundschu Chardonnay,13-15%,Mushrooms
+546,6261,White,USA,12.99,Chardonnay,90,Moobuzz Monterey Chardonnay,13-14%,Mushrooms
+547,6263,White,USA,31.99,Chardonnay,89,Stag's Leap Wine Cellars KARIA Chardonnay,13-14%,Mushrooms
+548,6271,White,USA,23.99,Chardonnay,90,William Hill Napa Valley Chardonnay,13-15%,Mushrooms
+549,6277,White,USA,12.99,Petite Sirah,92,The Crusher Petite Sirah,13-14%,Lamb
+550,6278,White,USA,15.99,Pinot Blanc,91,Valley of the Moon Pinot Blanc,13-14%,Root Vegetables and Squashes
+551,6281,White,USA,29.99,Sauvignon Blanc,90,Grgich Hills Fume Blanc,13-14%,Salads and Green Vegetables
+552,6285,White,USA,19.99,Sauvignon Blanc,91,Matanzas Creek Sauvignon Blanc,13-14%,Salads and Green Vegetables
+553,6294,White,USA,10.99,Sauvignon Blanc,91,Matanzas Creek Sauvignon Blanc ,13-14%,Salads and Green Vegetables
+554,6302,White,USA,19.99,Sauvignon Blanc,90,Schug Sauvignon Blanc,13-14%,Salads and Green Vegetables
+555,6309,White,USA,13.99,Viognier,88,Bonterra Organically Grown Viognier,13-14%,Root Vegetables and Squashes
+556,6317,White,USA,17.99,Riesling,92,Chateau Ste. Michelle Cold Creek Vineyard Riesling,12%,Pork
+557,6318,White,France,54.99,Chardonnay,89,Louis Jadot Chassagne-Montrachet,13%,Chicken and Turkey
+558,6321,White,France,29.99,Chardonnay,89,William Fevre Chablis Domaine,12-13%,"Shellfish, Crab and Lobster"
+560,6332,White,USA,28.99,Chardonnay,93,Dierberg Chardonnay,13-15%,Mushrooms
+561,6340,White,USA,25.99,Chardonnay,92,Melville Estate Chardonnay,13-15%,Mushrooms
+562,6347,White,Chile,17.99,Sauvignon Blanc,91,Errazuriz Max Reserva Sauvignon Blanc,13-14%,Salads and Green Vegetables
+563,6353,White,Chile,10.99,Sauvignon Blanc,90,Los Vascos Sauvignon Blanc 2014,13-14%,Salads and Green Vegetables
+564,6359,White,Chile,18.99,Sauvignon Blanc,91,Vina Maipo Vitral Sauvignon Blanc,12-13%,Salads and Green Vegetables
+565,6363,White,South Africa,14.99,Chenin Blanc,90,Badenhorst Secateurs Chenin Blanc,13-17%,Cheddar and Gruyere
+566,6369,White,USA,45.99,Chardonnay,93,Flowers Sonoma Coast Chardonnay,13-14%,Mushrooms
+567,6370,White,USA,23.99,Chardonnay,90,Landmark Overlook Chardonnay,14-15%,Mushrooms
+568,6375,White,USA,23.99,Chardonnay,94,Thomas Fogarty Santa Cruz Mountains Chardonnay,13-14%,Mushrooms
+569,6378,White,USA,10.99,Petite Sirah,89,Bogle Petite Sirah,13-14%,Lamb
+570,6385,White,USA,19.99,Petite Sirah,94,Parducci True Grit Petite Sirah,14%,Lamb
+571,6386,White,USA,39.99,Petite Sirah,91,Stags' Leap Winery Petite Sirah,13-14%,Lamb
+572,6392,White,USA,16.99,Pinot Gris/Grigio,90,Erath Pinot Gris,12-14%,Cheddar and Gruyere
+573,6400,White,Austria,17.99,Gruner Veltliner,90,Loimer Lois Gruner Veltliner,11-12%,White Fish
+574,6408,White,France,19.99,Bordeaux,91,Chateau Couhins Blanc,12%,Meaty and Oily Fish
+575,6414,White,France,67.99,Chardonnay,94,Chateau Fuisse Les Combettes Pouilly-Fuisse,13-14%,Chicken and Turkey
+576,6416,White,France,31.99,Chardonnay,93,Simonnet-Febvre Chablis Premier Cru Vaillons,13-14%,"Shellfish, Crab and Lobster"
+577,6419,White,France,31.99,Sauvignon Blanc,90,Chateau de Sancerre,13%,Meaty and Oily Fish
+578,6427,White,Greece,17.99,Other White Wine,90,Boutari Moschofilero,11-12%,"Shellfish, Crab and Lobster"
+579,6434,White,New Zealand,18.99,Sauvignon Blanc,90,Nautilus Sauvignon Blanc,12-14%,Goats' Cheese and Feta
+580,6440,White,New Zealand,13.99,Sauvignon Blanc,90,Wither Hills Sauvignon Blanc,12-14%,Goats' Cheese and Feta
+581,6446,White,USA,19.99,Chardonnay,91,DeLoach Russian River Chardonnay,13-14%,Mushrooms
+582,6452,White,USA,15.99,Chardonnay,90,Rutherford Ranch Chardonnay,13-14%,Mushrooms
+583,6453,White,USA,15.99,Chardonnay,90,Wente Morning Fog Chardonnay,13-14%,Mushrooms
+584,6455,White,USA,26.99,Petite Sirah,92,Michael David Winery Earthquake Petite Sirah,15-16%,Lamb
+585,6461,White,USA,24.99,Sauvignon Blanc,92,Hall Napa Valley Sauvignon Blanc,14-15%,Salads and Green Vegetables
+586,6467,White,USA,14.99,Sauvignon Blanc,89,Honig Sauvignon Blanc,13-14%,Salads and Green Vegetables
+587,6470,White,USA,19.99,Sauvignon Blanc,91,Merryvale Starmont Sauvignon Blanc,13-14%,Salads and Green Vegetables
+588,6476,White,USA,19.99,Pinot Gris/Grigio,90,WillaKenzie Estate Pinot Gris,13-14%,Cheddar and Gruyere
+589,6480,White,USA,14.99,Riesling,89,Willamette Valley Vineyards Riesling,8-10%,Fruit-based Desserts
+590,6483,White,USA,14.99,Chardonnay,90,Boomtown by Dusted Valley Chardonnay,12-14%,Pork
+591,6486,White,USA,15.99,Chenin Blanc,92,L'Ecole 41 Chenin Blanc,13-14%,Goats' Cheese and Feta
+592,6487,White,USA,12.99,Pinot Gris/Grigio,89,Chateau Ste. Michelle Pinot Gris,12-14%,Cheddar and Gruyere
+593,6493,White,USA,10.99,Riesling,88,Pacific Rim Riesling,11-12%,Pork
+594,6502,White,USA,21.99,Riesling,93,Poet's Leap Riesling,12-13%,Pork
+595,6508,White,USA,16.99,Sauvignon Blanc,90,Chateau Ste. Michelle Horse Heaven Vineyard Sauvignon Blanc,12-14%,Goats' Cheese and Feta
+596,6514,White,Argentina,18.99,Chardonnay,89,Catena Chardonnay,13-14%,Chicken and Turkey
+597,6519,White,Australia,10.99,Chardonnay,89,Shoofly Chardonnay,13-14%,Mushrooms
+598,6528,White,Australia,14.99,Chardonnay,90,Wild Oats Chardonnay,12-13%,Mushrooms
+599,6534,White,Chile,11.99,Sauvignon Blanc,88,Concha y Toro Casillero del Diablo Sauvignon Blanc,12-13%,Salads and Green Vegetables
+600,6540,White,France,19.99,Gewurztraminer,90,Trimbach Gewurztraminer,13-14%,"Duck, Goose and Game Birds"
+601,6547,White,France,19.99,Rhone White Blends,90,Michel Gassier Costieres de Nimes Nostre Pais White,13-14%,Chicken and Turkey
+602,6550,White,France,17.99,Chenin Blanc,91,Guy Saget Vouvray Marie de Beauregard,11-12%,Chicken and Turkey
+603,6556,White,Italy,21.99,Muscat,89,Ceretto Santo Stefano Moscato d'Asti,5-6%,"Shellfish, Crab and Lobster"
+604,6557,White,New Zealand,22.99,Sauvignon Blanc,90,Astrolabe Province Sauvignon Blanc,13-14%,Goats' Cheese and Feta
+605,6558,White,New Zealand,17.99,Sauvignon Blanc,90,Saint Clair Family Estate Sauvignon Blanc,12-13%,Goats' Cheese and Feta
+606,6564,White,South Africa,18.99,Chardonnay,90,De Wetshof Bon Vallon Chardonnay,13-14%,Cheddar and Gruyere
+607,6565,White,South Africa,15.99,Sauvignon Blanc,90,Bayten Buitenverwachting Sauvignon Blanc,13%,Goats' Cheese and Feta
+608,6571,White,Spain,14.99,Other White Blends,90,Cune Monopole,12-14%,Chicken and Turkey
+609,6577,White,USA,24.99,Sauvignon Blanc,90,Round Pond Sauvignon Blanc,14%,Salads and Green Vegetables
+610,6578,White,USA,18.99,Pinot Gris/Grigio,90,Solena Estate Pinot Gris,13%,Cheddar and Gruyere
+611,6580,White,USA,24.99,Viognier,90,K Vintners Viognier,13-14%,Pork
+612,6583,White,Chile,7.99,Chardonnay,89,La Playa Estate Un-Oaked Chardonnay 2014,13-14%,Chicken and Turkey
+613,6589,White,Italy,13.99,Pinot Gris/Grigio,90,Masi Masianco Pinot Grigio/Verduzzo,12-13%,White Fish
+614,6591,White,New Zealand,14.99,Sauvignon Blanc,90,Yealands Sauvignon Blanc 2014,12-13%,Goats' Cheese and Feta
+615,6597,White,USA,29.99,Chardonnay,90,Pine Ridge Dijon Clone Carneros Chardonnay,13-15%,Mushrooms
+616,6601,White,USA,19.99,Chardonnay,90,Rodney Strong Chalk Hill Chardonnay,13-14%,Mushrooms
+617,6607,White,USA,15.99,Sauvignon Blanc,91,Rodney Strong Charlotte's Home Sauvignon Blanc,13-14%,Salads and Green Vegetables
