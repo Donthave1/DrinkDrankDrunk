@@ -1,4 +1,6 @@
 from flask import Flask, render_template
+import pandas as pd
+import pymongo
 
 app = Flask(__name__)
 
@@ -6,17 +8,14 @@ app = Flask(__name__)
 @app.route("/")
 def index():
    # """Return the homepage."""
+   
     return render_template("index.html")
 
 
 # Add any other routes here
-@app.route("/budget")
-def budgetpage():
+@app.route("/budget/<price>")
+def budgetpage(price):
    # """Return the homepage."""
-    return render_template("budget.html")
-
-@app.route("/drunkeness/<price>")
-def drunkenesspage(price):
     #create mongodb connection
     conn = 'mongodb://test:password1@ds123444.mlab.com:23444/heroku_3t530jfl'
     client = pymongo.MongoClient(conn)
@@ -31,11 +30,17 @@ def drunkenesspage(price):
     sorted_wine.reset_index(inplace=True, drop=True)
     sorted_wine.head()
 
+    #take only top 100 wines
+    filtered_data = sorted_wine.loc[sorted_wine["price"]<=price]
+    top_100 = filtered_data[:100]
+
+    top_100.to_csv("asset/data/data.csv")
+
     #return new data for graphing
-    wine_name = sorted_wine["brand_name"]
-    grape_type = sorted_wine["grape_type"]
-    price = sorted_wine["price"]
-    review = sorted_wine["review"]
+    wine_name = top_100["brand_name"]
+    grape_type = top_100["grape_type"]
+    price = top_100["price"]
+    review = top_100["review"]
 
     data = []
     i=0
@@ -52,6 +57,11 @@ def drunkenesspage(price):
     
    # """Return the homepage."""
 
+    return render_template("budget.html", wine=data)
+
+@app.route("/drunkeness/")
+def drunkenesspage():
+   
     return render_template("drunkeness.html")
 
 @app.route("/food")
