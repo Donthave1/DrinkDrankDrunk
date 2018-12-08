@@ -15,10 +15,10 @@ def budgetpage():
    # """Return the homepage."""
     return render_template("budget.html")
 
-@app.route("/drunkeness")
-def drunkenesspage():
+@app.route("/taste")
+def tastepage():
    # """Return the homepage."""
-    return render_template("drunkeness.html")
+    return render_template("taste.html")
 
 @app.route("/food")
 def foodpage():
