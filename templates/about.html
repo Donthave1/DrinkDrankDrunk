@@ -11,14 +11,14 @@
     <title>DrinkDrankDrunk</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="../static/jQueryLib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ url_for('static', filename='jQueryLib/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="../static/css/business-casual.min.css" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/business-casual.min.css') }}" rel="stylesheet">
 
   </head>
 
@@ -66,11 +66,15 @@
           <div class="col-xl-9 mx-auto">
             <div class="cta-inner text-center rounded">
               <h2 class="section-heading mb-5">
+                <span class="section-heading-lower">Team Members</span>
+                <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="{{ url_for('static', filename='img/members.jpg') }}" alt="">
+                <br>
                 <span class="section-heading-lower">Operation Hours</span>
                 <span class="section-heading-upper">Please make sure to check before you reach out to us.</span>
                 <span class="section-heading-upper">Please allow 365 business days to process your inquery.</span>
               </h2>
-              <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="../static/img/wine7.jpg" alt="">
+              <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="{{ url_for('static', filename='img/wine7.jpg') }}" alt="">
+              <br>
               <ul class="list-unstyled list-hours mb-5 text-left mx-auto">
                 <li class="list-unstyled-item list-hours-item d-flex">
                   Sunday
@@ -128,9 +132,10 @@
     </footer>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="../static/jQueryLib/jquery/jquery.min.js"></script>
-    <script src="../static/jQueryLib/bootstrap/js/bootstrap.bundle.min.js"></script>
-
+    <!-- <script src="../static/jQueryLib/jquery/jquery.min.js"></script>
+    <script src="../static/jQueryLib/bootstrap/js/bootstrap.bundle.min.js"></script> -->
+    <script src="{{ url_for('static', filename='jQueryLib/jquery/jquery.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='jQueryLib/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
   </body>
 
   <!-- Script to highlight the active date in the hours list -->
