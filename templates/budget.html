@@ -12,11 +12,12 @@
 
     <!-- Bootstrap core CSS -->
     <link href="../static/jQueryLib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
+  
     <!-- Custom fonts for this template -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Lora:400,400i,700,700i" rel="stylesheet">
-
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.13.0/d3.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.9.1/d3-tip.js"></script>
     <!-- Custom styles for this template -->
     <link href="../static/css/business-casual.min.css" rel="stylesheet">
 
@@ -47,10 +48,13 @@
               <a class="nav-link text-uppercase text-expanded" href="/budget">Budget</a>
             </li>
             <li class="nav-item px-lg-4">
-              <a class="nav-link text-uppercase text-expanded" href="/drunkeness">Drunkeness</a>
+              <a class="nav-link text-uppercase text-expanded" href="/drunkenness">Alcohol Content</a>
             </li>
             <li class="nav-item px-lg-4">
               <a class="nav-link text-uppercase text-expanded" href="/food">Food</a>
+            </li>
+            <li class="nav-item px-lg-4">
+              <a class="nav-link text-uppercase text-expanded" href="/about">About Us</a>
             </li>
           </ul>
         </div>
@@ -68,7 +72,15 @@
                   <span class="section-heading-upper">How much</span>
                   <span class="section-heading-lower">is worth it?</span>
                 </h2>
+                <div class="well">
+                  <label for="price">SELECT Price:</label>
+                  <select id="priceRanges" onchange="optionChanged(this.value)"></select>
+                </div>
                 <p>Your Graph here</p>
+
+                <div id="scatter"></div>
+
+                </div>
               </div>
             </div>
           </div>
@@ -84,7 +96,12 @@
 
     <!-- Bootstrap core JavaScript -->
     <script src="../static/jQueryLib/jquery/jquery.min.js"></script>
+
     <script src="../static/jQueryLib/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <script src="../static/js/budget.js"></script>
+    <!-- <script src="{{ url_for('static', filename='js/budget.js') }}"></script> -->
+    
 
   </body>
 
