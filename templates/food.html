@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-
+    
     <title>DrinkDrankDrunk</title>
 
     <!-- Bootstrap core CSS -->
@@ -61,17 +61,34 @@
     </nav>
 
     <section class="page-section about-heading">
-      <div class="container">
+      <div class="container", style="text-align:center";>
         <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="../static/img/wine18.jpg" alt="">
         <div class="about-heading-content">
           <div class="row">
             <div class="col-xl-9 col-lg-10 mx-auto">
               <div class="bg-faded rounded p-5">
+                  <div class="row">
+                      <div class="col-md-12">
+                        <div class="food" >
+                          <h5>SELECT FOOD:</h5>
+                          
+                          <select id="selDataset" onchange="optionChanged(this.value)">
+                            <option value="">Please select a food</option>
+                            {% for food in food_list %}
+                              <option value="{{food}}">{{food}}</option>
+                            {% endfor %}
+                            
+                          
+                          </select>
+                        </div>
+                <br />
                 <h2 class="section-heading mb-4">
                   <span class="section-heading-upper">More Sample Here</span>
                   <span class="section-heading-lower">Testing styling</span>
                 </h2>
-                <p>Your Graph here</p>
+                <div class="col-md-12">
+                    <div id="pie", style="text-align:center"></div>
+                </div>
               </div>
             </div>
           </div>
@@ -95,5 +112,10 @@
   <script>
     $('.list-hours li').eq(new Date().getDay()).addClass('today');
   </script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="../static/js/food.js"></script>
+
 
 </html>
