@@ -17,6 +17,7 @@ def index():
 def budgetpage():
    # """Return the homepage."""
     return render_template("budget.html")
+   
 @app.route("/price/<selected_budget>")
 def winebudget(selected_budget):
     #create mongodb connection
@@ -37,6 +38,7 @@ def winebudget(selected_budget):
     filtered_data = sorted_wine.loc[sorted_wine["price"]<=int(selected_budget)]
     top_100 = filtered_data[:100]
 
+
     #return new data for graphing
     wine_name = list(top_100["brand_name"])
     grape_type = list(top_100["grape_type"])
@@ -45,7 +47,7 @@ def winebudget(selected_budget):
 
     data = []
     i=0
-    
+
     while i < len(wine_name):
         wine_info = {
                     "wine_name": wine_name[i],
