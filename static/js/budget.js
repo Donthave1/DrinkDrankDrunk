@@ -1,5 +1,4 @@
 // @TODO: YOUR CODE 
-//let url = "/budget/" + wine_price
 price_range = [100, 150, 200, 250, 300, 500]
 
 let priceDropdown = d3.select("#priceRanges").selectAll()
@@ -17,14 +16,13 @@ function optionChanged(selected_budget){
   })
 }
 
+
 function makeResponsive() {
   const svgArea = d3.select("body").select("svg");
   if (!svgArea.empty()) {
     svgArea.remove();
   }
 }
-
-
 
 
 function buildScatter(hairData){
@@ -122,6 +120,54 @@ function buildScatter(hairData){
     .on("mouseout", function(data) {
     toolTip.hide(data);
     });
-    // Create axes labels
 
 }
+
+//   const data = [trace1]
+//   const layout ={
+//     title: "Review vs Price",
+//     xaxis: {title: "Price"},
+//     yaxis: {title: "Review"}
+//   }
+//   Plotly.newPlot("scatter", data, layout)
+// }
+
+
+// function buildScatter(rofl){
+//   xData = []
+//   yData = []
+
+//   rofl.forEach(function(data) {
+//     data.price = +data.price
+//     data.review = +data.review
+//     xData.push(data.price)
+//     yData.push(data.review)
+//     });
+
+//   console.log(xData)
+//   console.log(yData)
+
+//   const trace1 = {
+//     x:xData,
+//     y:yData,
+//     mode:"markers",
+//     type: "scatter",
+//     name: "Review vs Price",
+//   };
+
+//   let priceData = [trace1];
+
+//   let priceLayout = {
+//     title: "Price VS Rating Score Chart",
+//     height: 600,
+//     width: 700,
+//     paper_bgcolor: "rgba(0,0,0,0)",
+//     plot_bgcolor: "rgba(0,0,0,0)",
+//     "xaxis": {"title": "Consumer Review Rating Scores"},
+//     "yaxis": {"title": "Price"}
+//   };
+
+
+//   Plotly.newPlot("scatter", priceData, priceLayout)
+
+// };
