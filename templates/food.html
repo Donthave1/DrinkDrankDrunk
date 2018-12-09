@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-
+    
     <title>DrinkDrankDrunk</title>
 
     <!-- Bootstrap core CSS -->
@@ -57,78 +57,36 @@
       </div>
     </nav>
 
-    <section class="page-section cta">
-      <div class="container">
-        <div class="row">
-          <div class="col-xl-9 mx-auto">
-            <div class="cta-inner text-center rounded">
-              <h2 class="section-heading mb-5">
-                <span class="section-heading-upper">Here is some title</span>
-                <span class="section-heading-lower">Here is some comments</span>
-              </h2>
-              <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="../static/img/wine7.jpg" alt="">
-              <ul class="list-unstyled list-hours mb-5 text-left mx-auto">
-                <li class="list-unstyled-item list-hours-item d-flex">
-                  Sunday
-                  <span class="ml-auto">Closed</span>
-                </li>
-                <li class="list-unstyled-item list-hours-item d-flex">
-                  Monday
-                  <span class="ml-auto">Closed</span>
-                </li>
-                <li class="list-unstyled-item list-hours-item d-flex">
-                  Tuesday
-                  <span class="ml-auto">6:30 PM to 9:00 PM</span>
-                </li>
-                <li class="list-unstyled-item list-hours-item d-flex">
-                  Wednesday
-                  <span class="ml-auto">Closed</span>
-                </li>
-                <li class="list-unstyled-item list-hours-item d-flex">
-                  Thursday
-                  <span class="ml-auto">6:30 PM to 9:00 PM</span>
-                </li>
-                <li class="list-unstyled-item list-hours-item d-flex">
-                  Friday
-                  <span class="ml-auto">Closed</span>
-                </li>
-                <li class="list-unstyled-item list-hours-item d-flex">
-                  Saturday
-                  <span class="ml-auto">9:00 AM to 2:00 PM</span>
-                </li>
-              </ul>
-              <p class="address mb-5">
-                <em>
-                  <strong>510 E Peltason Dr.</strong>
-                  <br>
-                  Irvine, CA 92697
-                </em>
-              </p>
-              <p class="mb-0">
-                <small>
-                  <em>Call Anytime</em>
-                </small>
-                <br>
-                1-800-gotwine
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
 
     <section class="page-section about-heading">
-      <div class="container">
+      <div class="container", style="text-align:center";>
         <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0" src="../static/img/wine18.jpg" alt="">
         <div class="about-heading-content">
           <div class="row">
             <div class="col-xl-9 col-lg-10 mx-auto">
               <div class="bg-faded rounded p-5">
+                  <div class="row">
+                      <div class="col-md-12">
+                        <div class="food" >
+                          <h5>SELECT FOOD:</h5>
+                          
+                          <select id="selDataset" onchange="optionChanged(this.value)">
+                            <option value="">Please select a food</option>
+                            {% for food in food_list %}
+                              <option value="{{food}}">{{food}}</option>
+                            {% endfor %}
+                            
+                          
+                          </select>
+                        </div>
+                <br />
                 <h2 class="section-heading mb-4">
                   <span class="section-heading-upper">More Sample Here</span>
                   <span class="section-heading-lower">Testing styling</span>
                 </h2>
-                <p>Your Graph here</p>
+                <div class="col-md-12">
+                    <div id="pie", style="text-align:center"></div>
+                </div>
               </div>
             </div>
           </div>
@@ -152,5 +110,10 @@
   <script>
     $('.list-hours li').eq(new Date().getDay()).addClass('today');
   </script>
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+  <script src="../static/js/food.js"></script>
+
 
 </html>
