@@ -58,10 +58,10 @@ def winebudget(selected_budget):
         i +=1
     return jsonify(data)
 
-@app.route("/drunkeness")
-def drunkenesspage():
-   
-    return render_template("drunkeness.html")
+@app.route("/taste")
+def tastepage():
+   # """Return the homepage."""
+    return render_template("taste.html")
 
 @app.route("/alcohol/<selected_percent>")
 def drinkbudget(selected_percent):
