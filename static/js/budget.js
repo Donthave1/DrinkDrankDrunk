@@ -17,14 +17,6 @@ function optionChanged(selected_budget){
   })
 }
 
-function makeResponsive() {
-  const svgArea = d3.select("body").select("svg");
-  if (!svgArea.empty()) {
-    svgArea.remove();
-  }
-}
-
-
 
 
 function buildScatter(hairData){
