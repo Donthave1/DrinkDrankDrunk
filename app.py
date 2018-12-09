@@ -59,15 +59,20 @@ def winebudget(selected_budget):
         i +=1
     return jsonify(data)
 
-@app.route("/taste")
-def tastepage():
+@app.route("/drunkenness")
+def drunkpage():
    # """Return the homepage."""
-    return render_template("taste.html")
+    return render_template("drunkenness.html")
 
 @app.route("/food")
 def foodpage():
    # """Return the homepage."""
     return render_template("food.html")
+
+@app.route("/about")
+def aboutpage():
+   # """Return the homepage."""
+    return render_template("about.html")
 
 
 if __name__ == "__main__":
