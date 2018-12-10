@@ -5,10 +5,11 @@
 By **Team DrinkDrankDrunk**
 
 
-Edward Chen, Peter Liu, Stefanie Huckleberry, Yolanda Shi
+Edward Chen, Peter Liu, Stefanie Huckleberry, Yolanda Shi  
 
+###Product Page -
 # [Got Wine?](https://whatwine.herokuapp.com/) 
-###(Product Page)
+
 
 ## Wine Suggestion App. Proposal
 
