@@ -2,13 +2,13 @@
 
 ![alt text](https://media1.tenor.com/images/46a4614de9b8c2a340bf076e9675b414/tenor.gif?itemid=5405668)
 
+# [Got Wine?](https://whatwine.herokuapp.com/)
+
 By **Team DrinkDrankDrunk**
 
 
 Edward Chen, Peter Liu, Stefanie Huckleberry, Yolanda Shi  
-
-###Product Page -
-# [Got Wine?](https://whatwine.herokuapp.com/) 
+  
 
 
 ## Wine Suggestion App. Proposal
