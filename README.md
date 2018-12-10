@@ -7,6 +7,9 @@ By **Team DrinkDrankDrunk**
 
 Edward Chen, Peter Liu, Stefanie Huckleberry, Yolanda Shi
 
+# [Got Wine?](https://whatwine.herokuapp.com/) 
+###(Product Page)
+
 ## Wine Suggestion App. Proposal
 
 ### Goal 
@@ -71,19 +74,19 @@ wineName:
 
 ## Project Requirment Checklist     
 - [x] Use Python, Flask  
-- [ ] JavaScript, one library not taught in course  
+- [x] JavaScript, one library not taught in course  
 - [x] HTML/CSS  
 - [x] One database (MySQL / MongoDB/ SQLite)  
 - Choice of level:  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [ ] level 1 - A custom "creative" D3.js project (i.e. non-standard graph or chart)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [ ] level 2 - A combination of Web Scraping and Leaflet or Plotly  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [ ] level 3 - A dashboard page with multiple charts all updating from the same data  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [ ] level 4 - A "thick" server that performs multiple manipulations on data in a database prior to visualization  
-- [ ] Data need to have at least 100 record  
-- [ ] Web page has to be user-driven interaction  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [x] level 1 - A custom "creative" D3.js project (i.e. non-standard graph or chart)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [x] level 2 - A combination of Web Scraping and Leaflet or Plotly  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [x] level 3 - A dashboard page with multiple charts all updating from the same data  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [x] level 4 - A "thick" server that performs multiple manipulations on data in a database prior to visualization  
+- [x] Data need to have at least 100 record  
+- [x] Web page has to be user-driven interaction  
 - [ ] Need to have at least “3” views (comparison charts)  
-- [ ] Stick to MVP, then decorate after everything work.
-- [ ] Tell a Story with Data
+- [x] Stick to MVP, then decorate after everything work.
+- [x] Tell a Story with Data
 
 
 ## Project Timeline
