@@ -1,5 +1,5 @@
 // @TODO: YOUR CODE 
-price_range = [{"text":"Dirt Cheap",
+price_range = [ {"text":"Dirt Cheap",
                 "value":50}, 
                 {"text":"Meh College Kid",
                 "value":100}, 
