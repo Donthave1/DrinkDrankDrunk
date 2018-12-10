@@ -31,7 +31,6 @@ def winebudget(selected_budget):
     #sorted by review
     sorted_wine = df.sort_values(by="review", ascending=False)
     sorted_wine.reset_index(inplace=True, drop=True)
-    sorted_wine.head()
 
     #take only top 100 wines
     filtered_data = sorted_wine.loc[sorted_wine["price"]<=int(selected_budget)]
@@ -74,8 +73,10 @@ def drinkbudget(selected_percent):
     wine_collections = db.wine_db.find()
     df = pd.DataFrame(list(wine_collections))
 
+    sorted_wine = df.sort_values(by="review", ascending=False)
+    sorted_wine.reset_index(inplace=True, drop=True)
 
-    filtered_data = df.loc[df["lower_alcohol"]<=int(selected_percent)]
+    filtered_data = sorted_wine.loc[sorted_wine["lower_alcohol"]<=int(selected_percent)]
     top_10 = filtered_data[:10]
 
     wine_name = list(top_10["brand_name"])
