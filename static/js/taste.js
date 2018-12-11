@@ -68,6 +68,5 @@ function buildTable(response){
                 })
                 .exit()
                 .remove();                        
-
 };  
 

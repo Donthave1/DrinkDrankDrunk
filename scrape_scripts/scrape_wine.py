@@ -90,7 +90,7 @@ with client:
 
             col.update_one(dbquery, update_alc)
 
-    
+
 
 
 
