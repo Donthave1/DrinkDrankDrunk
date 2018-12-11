@@ -94,7 +94,7 @@ function buildScatter(rofl){
   let priceData = [trace1];
 
   let priceLayout = {
-    title: "Price VS Rating Score Chart",
+    title: "Cost Performance (Review/Price)",
     height: 600,
     width: 700,
     paper_bgcolor: "rgba(0,0,0,0)",
