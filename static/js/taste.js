@@ -11,9 +11,7 @@ function optionChanged(selected_taste){
         var url = `/taste/${selected_taste}`;
         console.log("Taste endpoint", url);
 
-        d3.json(url).then(function(error, response){
-            if(error) throw error;
-            console.log(response[0])
+        d3.json(url, function(error, response){
             buildTable(response)    
       })
     }
