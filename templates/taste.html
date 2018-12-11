@@ -3,12 +3,46 @@
 
   <head>
 
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <head>
 
-    <title>DrinkDrankDrunk</title>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <style>
+      table { 
+        width: 100%; 
+        border-collapse: collapse; 
+      }
+      /* Zebra striping */
+      tr:nth-of-type(odd) { 
+        background: #eee; 
+      }
+      th { 
+        background: #333; 
+        color: white; 
+        font-weight: bold; 
+        cursor: s-resize;
+        background-repeat: no-repeat;
+            background-position: 3% center;
+      }
+      td, th { 
+        padding: 6px; 
+        border: 1px solid #ccc; 
+        text-align: left; 
+      }
+      
+      th.des:after {
+          content: "\21E9";
+        }
+        
+      th.aes:after {
+          content: "\21E7";
+        }
+      </style>
+  
+      
+      <title>DrinkDrankDrunk</title>
 
     <!-- Bootstrap core CSS -->
     <link href="{{ url_for('static', filename='jQueryLib/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
@@ -25,8 +59,7 @@
   <body>
 
     <h1 class="site-heading text-center text-white d-none d-lg-block">
-      <span class="site-heading-upper text-primary mb-3">Here is some selection</span>
-      <span class="site-heading-lower">Based On The Taste</span>
+      <span class="site-heading-upper text-primary mb-3">Tasting Notes</span>
     </h1>
 
     <!-- Navigation -->
@@ -60,21 +93,33 @@
       </div>
     </nav>
 
-    <section class="page-section">
-      <div class="container">
-        <div class="product-item">
-          <div class="product-item-title d-flex">
-            <div class="bg-faded p-5 d-flex ml-auto rounded">
-              <h2 class="section-heading mb-0">
-                <span class="section-heading-upper">What kind of taste</span>
-                <span class="section-heading-lower">Is for you?</span>
-              </h2>
-            </div>
-          </div>
-          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="{{ url_for('static', filename='img/wine10.jpg') }}" alt="">
-          <div class="product-item-description d-flex mr-auto">
-            <div class="bg-faded p-5 rounded">
-              <p class="mb-0">Your Graph here</p>
+    <section class="page-section about-heading">
+      <div class="container", style="text-align:center";>
+        
+        <div class="about-heading-content">
+          <div class="row">
+            <div class="col-xl-9 col-lg-10 mx-auto">
+              <div class="bg-faded rounded p-5">
+                  <div class="row">
+                      <div class="col-md-12">
+                        <div class="taste" >
+                          <h5>In the wine world, "notes” refer to both aromas and flavors.  Choose a note from the list to see which brands match up.</h5>
+                          
+                          <select id="selDataset" onchange="optionChanged(this.value)">
+                            <option value="">Please select a note</option>
+                            {% for taste in taste_list %}
+                              <option value="{{taste}}">{{taste}}</option>
+                            {% endfor %}
+                            
+                          
+                          </select>
+                        </div>
+                <br />
+                
+                <div class="col-md-12">
+                    <div id="taste-table", style="text-align:center"></div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -90,7 +135,9 @@
     <!-- Bootstrap core JavaScript -->
     <script src="{{ url_for('static', filename='jQueryLib/jquery/jquery.min.js') }}"></script>
     <script src="{{ url_for('static', filename='jQueryLib/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/taste.js') }}"></script>
 
   </body>
 
 </html>
+

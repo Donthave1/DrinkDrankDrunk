@@ -59,7 +59,10 @@ with client:
     col = db.alcohol
 
     #Create a list of the alcohol collection that is in Mongo
-    wine_alcohol = list(db.alcohol.find())
+  #  wine_alcohol = list(db.alcohol.find())
+
+    #test out your theory
+    wine_alcohol = ['Chocolate Shop Chocolate Red Wine', 'Luc Belaire Rare Rose', 'Chalk Hill Estate Chardonnay']
 
               
     for wines in wine_alcohol:
@@ -87,7 +90,7 @@ with client:
 
             col.update_one(dbquery, update_alc)
 
-    
+
 
 
 
