@@ -175,6 +175,7 @@ def taste_func(selected_taste):
 
     return jsonify(table_data)
 
+
 @app.route("/food")
 def foodpage():
     conn = 'mongodb://test:password1@ds123444.mlab.com:23444/heroku_3t530jfl'
