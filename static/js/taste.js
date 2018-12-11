@@ -12,7 +12,6 @@ function optionChanged(selected_taste){
         console.log("Taste endpoint", url);
 
         d3.json(url, function(error, response){
-
             buildTable(response)    
       })
     }
