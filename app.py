@@ -2,10 +2,8 @@ from flask import Flask, render_template, jsonify, request, redirect
 import pandas as pd
 import pymongo
 import re
-import numpy as np
 
 app = Flask(__name__)
-app.debug = True
 
 
 @app.route("/")
@@ -47,6 +45,7 @@ def winebudget(selected_budget):
     grape_type = list(top_100["grape_type"])
     price = list(top_100["price"])
     review = list(top_100["review"])
+    wine_type = list(top_100["wine_type"])
 
     data = []
     i=0
@@ -56,16 +55,12 @@ def winebudget(selected_budget):
                     "wine_name": wine_name[i],
                     "grape_type": grape_type[i],
                     "price": int(price[i]),
-                    "review": int(review[i])
+                    "review": int(review[i]),
+                    "wine_type": wine_type[i]
                     }
         data.append(wine_info)
         i +=1
     return jsonify(data)
-
-@app.route("/drunkenness")
-def drunkpage():
-   # """Return the homepage."""
-    return render_template("drunkenness.html")
 
 @app.route("/food")
 def foodpage():
@@ -113,6 +108,7 @@ def foodchart(selected_food):
 
    
     return jsonify(data)
+
 
 @app.route("/taste")
 def tastepage():
@@ -226,7 +222,6 @@ def taste_func(selected_taste):
         i+=1
 
     return jsonify(table_data)
-    
 
 @app.route("/about")
 def aboutpage():
@@ -236,5 +231,3 @@ def aboutpage():
 
 if __name__ == "__main__":
     app.run()
-
-
