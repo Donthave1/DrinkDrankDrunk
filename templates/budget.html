@@ -75,7 +75,9 @@
                 </h2>
                 <div class="well">
                   <label for="price">SELECT Price:</label>
-                  <select id="priceRanges" onchange="optionChanged(this.value)"></select>
+                  <select id="priceRanges" onchange="optionChanged(this.value)">
+                    <option selected disabled hidden>Choose your Budget</option>
+                  </select>
                 </div>
                   <div id="scatter"></div>
                 </div>

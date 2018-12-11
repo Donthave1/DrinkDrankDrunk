@@ -45,6 +45,7 @@ def winebudget(selected_budget):
     grape_type = list(top_100["grape_type"])
     price = list(top_100["price"])
     review = list(top_100["review"])
+    wine_type = list(top_100["wine_type"])
 
     data = []
     i=0
@@ -54,7 +55,8 @@ def winebudget(selected_budget):
                     "wine_name": wine_name[i],
                     "grape_type": grape_type[i],
                     "price": int(price[i]),
-                    "review": int(review[i])
+                    "review": int(review[i]),
+                    "wine_type": wine_type[i]
                     }
         data.append(wine_info)
         i +=1
