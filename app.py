@@ -39,15 +39,15 @@ def winebudget(selected_budget):
 
     #take only top 100 wines
     filtered_data = sorted_wine.loc[sorted_wine["price"]<=int(selected_budget)]
-    top_100 = filtered_data[:100]
+    top_50 = filtered_data[:50]
 
 
     #return new data for graphing
-    wine_name = list(top_100["brand_name"])
-    grape_type = list(top_100["grape_type"])
-    price = list(top_100["price"])
-    review = list(top_100["review"])
-    wine_type = list(top_100["wine_type"])
+    wine_name = list(top_50["brand_name"])
+    grape_type = list(top_50["grape_type"])
+    price = list(top_50["price"])
+    review = list(top_50["review"])
+    wine_type = list(top_50["wine_type"])
 
     data = []
     i=0
