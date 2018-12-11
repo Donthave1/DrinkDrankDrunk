@@ -50,7 +50,6 @@ function buildScatter(rofl){
   wineData = []
   typeData=[]
   normData=[]
-  newData=[]
 
   rofl.forEach(function(data) {
     data.price = +data.price
