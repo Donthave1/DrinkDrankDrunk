@@ -1,6 +1,7 @@
 from flask import Flask, render_template, jsonify, request, redirect
 import pandas as pd
 import pymongo
+import numpy as np
 import re
 
 app = Flask(__name__)
