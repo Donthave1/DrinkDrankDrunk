@@ -18,7 +18,7 @@ Want to go on a hot, romantic date, but you only got 30 more minutes to buy a dr
  
 ## Tools
 **Python:** (Library: Pandas, Flask, SQLAlchemy)  
-**JavaScript:** (Library: Plotly, unknown)   
+**JavaScript:** (Library: Plotly, Gulp, nmp)   
 **Database:** MangoDB  
 **HTML/CSS** 
 
@@ -85,7 +85,7 @@ wineName:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- [x] level 4 - A "thick" server that performs multiple manipulations on data in a database prior to visualization  
 - [x] Data need to have at least 100 record  
 - [x] Web page has to be user-driven interaction  
-- [ ] Need to have at least “3” views (comparison charts)  
+- [x] Need to have at least “3” views (comparison charts)  
 - [x] Stick to MVP, then decorate after everything work.
 - [x] Tell a Story with Data
 
