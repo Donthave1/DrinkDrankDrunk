@@ -3,6 +3,7 @@ import pandas as pd
 import pymongo
 import numpy as np
 import re
+import os
 
 app = Flask(__name__)
 
@@ -230,6 +231,12 @@ def foodchart(selected_food):
 def aboutpage():
    # """Return the homepage."""
     return render_template("about.html")
+
+
+@app.route('/favicon.ico')
+def favicon():
+    return send_from_directory(os.path.join(app.root_path, 'static', 'img'),
+                               'favicon.ico', mimetype='image/png')
   
 
 if __name__ == "__main__":
