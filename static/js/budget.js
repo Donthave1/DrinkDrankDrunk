@@ -95,8 +95,6 @@ function buildScatter(rofl){
 
   let priceLayout = {
     title: "Cost Performance (Review/Price)",
-    height: 600,
-    width: 700,
     paper_bgcolor: "rgba(0,0,0,0)",
     plot_bgcolor: "rgba(0,0,0,0)",
     "xaxis": {"title": "Professional Review Rating Scores"},
@@ -105,6 +103,7 @@ function buildScatter(rofl){
   };
 
 
-  Plotly.newPlot("scatter", priceData, priceLayout)
+  Plotly.newPlot("scatter", priceData, priceLayout, {responsive: true})
 
 };
+
