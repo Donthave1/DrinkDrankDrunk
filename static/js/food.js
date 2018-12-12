@@ -54,8 +54,6 @@ function buildPieChart(response){
 
     var pieLayout = {
       title: 'Wine count by Grape Type',
-      height: 600,
-      width: 700,
       paper_bgcolor: 'rgba(0,0,0,0)',
       plot_bgcolor: 'rgba(0,0,0,0)'
 
@@ -63,7 +61,7 @@ function buildPieChart(response){
       
     };
 
-    Plotly.newPlot("pie", pieTrace, pieLayout);
+    Plotly.newPlot("pie", pieTrace, pieLayout,{responsive: true});
 
 
   }
